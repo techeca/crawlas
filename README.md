@@ -16,6 +16,8 @@ Por el momento se puede extraer:
 **Juegos**\
 Solo `Dofus` (por el momento)
 
+## Items soportados
+
 | Items       | Falta       |
 | ------------- |:-------------|
 | `Mascotas`     |   Agregar set relacionado  |
