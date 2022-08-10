@@ -7,37 +7,38 @@ Idioma Español agregado.
 
 **Spanish - French - English**
 
-Puedes encontrar los repositorios de Crawlit y Puppeteer aquí.
+Puedes encontrar los repositorios de Crawlit y Puppeteer aquí.\
 [Crawlit](https://github.com/dofapi/crawlit-dofus-encyclopedia-parser)
 [Puppeteer](https://github.com/puppeteer/puppeteer)
 
 08/08/2020\
 Por el momento se puede extraer:
 
--Solo Dofus
+**Juegos**
+Solo `Dofus`
 
-Mascotas (falta agregar set relacionado)\
-Idolos\
-Arreos (falta como puede conseguirse)\
-Monturas (falata agregar de donde se obtiene, nacido de cruce)\
-Recursos\
-Monstruos (falta separar objetos dropeables con condiciones, no se estan obteniendo nombres de items sin links)\
-Consumibles (falta "se utiliza para las recetas")\
-Armas (falta condiciones, setID)\
-Set (falta todos los bonus de set y bonus total)\
-Equipables (completo ? no todos los items testeados)\
-Merkasakos (falta muebles, decoracion, suelo)\
-Clases (falta estadísticas de cada hechizo)\
-Profesiones (falta agregar cantidad necesaria de cada item para receta)
+`Mascotas` (falta agregar set relacionado)\
+`Idolos`\
+`Arreos` (falta como puede conseguirse)\
+`Monturas` (falata agregar de donde se obtiene, nacido de cruce)\
+`Recursos`\
+`Monstruos` (falta separar objetos dropeables con condiciones, no se estan obteniendo nombres de items sin links)\
+`Consumibles` (falta "se utiliza para las recetas")\
+`Armas` (falta condiciones, setID)\
+`Set` (falta todos los bonus de set y bonus total)\
+`Equipables` (completo ? no todos los items testeados)\
+`Merkasakos` (falta muebles, decoracion, suelo)\
+`Clases` (falta estadísticas de cada hechizo)\
+`Profesiones` (falta agregar cantidad necesaria de cada item para receta)
 
 ## Errores
 
-Hay algunos links que están caídos o items que no tienen detalles/nombre/imagen, se rellena con datos disponibles.\
-Puede que chronium no carge la página y envíe error por timeout, solo debe intentar nuevamente.
+- Hay algunos links que están caídos o items que no tienen detalles/nombre/imagen, se rellena con datos disponibles.\
+- Puede que chronium no carge la página y envíe error por timeout, solo debe intentar nuevamente.
 
 **El proceso de resumen no funciona correctamente**
 
-## Instalar
+## Instalación
 
 ``` bash
 git clone http://#
