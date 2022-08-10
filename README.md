@@ -1,7 +1,7 @@
 # Crawlas - Dofus enciclopedia parser.
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-Este proyecto fue creado utilizando Crawlit como base, estructura, lógica, etc, y Puppetter para realizar solicitudes y obtener datos.\
+Este proyecto fue creado utilizando Crawlit como base, estructura, lógica, etc.\
 Puedes encontrar los repositorios de Crawlit y Puppeteer aquí.\
 [Crawlit](https://github.com/dofapi/crawlit-dofus-encyclopedia-parser)\
 [Puppeteer](https://github.com/puppeteer/puppeteer)
