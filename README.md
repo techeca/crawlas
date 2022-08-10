@@ -13,8 +13,7 @@ Puedes encontrar los repositorios de Crawlit y Puppeteer aquí.\
 **Spanish - French - English**\
 (Español agregado)
 
-**08/08/2020**\
-Por el momento se puede extraer:
+**Último update 08/08/2020**\
 
 **Juegos**\
 Solo `Dofus` (por el momento)
@@ -23,16 +22,16 @@ Solo `Dofus` (por el momento)
 
 | Items       | Falta       |
 | ------------- |:-------------|
-| `Mascotas`     |   Agregar set relacionado  |
+| `Mascotas`     |   Falta setId  |
 | `Idolos`     |  100%  |
-| `Arreos`     |   Como puede conseguirseo  |
+| `Arreos`     |   100%  |
 | `Monturas`     |  Agregar de donde se obtiene, nacido de cruce  |
 | `Recursos`     |  100%  |
 | `Monstruos`     |   Separar objetos dropeables con condiciones, no se estan obteniendo nombres de items sin links  |
 | `Consumibles`     |  Para que receta se utiliza  |
-| `Armas`     |  Condiciones, setID  |
-| `Set`     |  Todos los bonus de set y bonus total  |
-| `Equipables`     |  Completo ? no todos los items testeados  |
+| `Armas`     |  100%  |
+| `Set`     |  100% (bonus total??)  |
+| `Equipables`     |  100%?? (no todos los items testeados)  |
 | `Merkasakos`     |  Muebles, decoracion, suelo  |
 | `Clases`     |  Estadísticas de cada hechizo  |
 | `Profesiones`     |  Cantidad necesaria de cada item para receta |
