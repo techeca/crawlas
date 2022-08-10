@@ -1,43 +1,44 @@
 # Crawlas - Dofus enciclopedia parser.
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-Este proyecto fue creado utilizando Crawlit como base, estructura, lógica, etc.\
-Se utiliza Puppetter para realizar solicitudes y obtener datos.\
-
-Idiomas\
-**Spanish - French - English**
-(Español agregado)
-
+Este proyecto fue creado utilizando Crawlit como base, estructura, lógica, etc, y Puppetter para realizar solicitudes y obtener datos.\
 Puedes encontrar los repositorios de Crawlit y Puppeteer aquí.\
-[Crawlit](https://github.com/dofapi/crawlit-dofus-encyclopedia-parser)
+[Crawlit](https://github.com/dofapi/crawlit-dofus-encyclopedia-parser)\
 [Puppeteer](https://github.com/puppeteer/puppeteer)
 
-08/08/2020\
+## Características
+**Spanish - French - English**\
+(Español agregado)
+
+**08/08/2020**\
 Por el momento se puede extraer:
 
 **Juegos**\
-Solo `Dofus`
+Solo `Dofus` (por el momento)
 
-`Mascotas` (falta agregar set relacionado)\
-`Idolos`\
-`Arreos` (falta como puede conseguirse)\
-`Monturas` (falata agregar de donde se obtiene, nacido de cruce)\
-`Recursos`\
-`Monstruos` (falta separar objetos dropeables con condiciones, no se estan obteniendo nombres de items sin links)\
-`Consumibles` (falta "se utiliza para las recetas")\
-`Armas` (falta condiciones, setID)\
-`Set` (falta todos los bonus de set y bonus total)\
-`Equipables` (completo ? no todos los items testeados)\
-`Merkasakos` (falta muebles, decoracion, suelo)\
-`Clases` (falta estadísticas de cada hechizo)\
-`Profesiones` (falta agregar cantidad necesaria de cada item para receta)
+| Items       | Falta       |
+| ------------- |:-------------|
+| `Mascotas`     |   Agregar set relacionado  |
+| `Idolos`     |  100%  |
+| `Arreos`     |   Como puede conseguirseo  |
+| `Monturas`     |  Agregar de donde se obtiene, nacido de cruce  |
+| `Recursos`     |  100%  |
+| `Monstruos`     |   Separar objetos dropeables con condiciones, no se estan obteniendo nombres de items sin links  |
+| `Consumibles`     |  Para que receta se utiliza  |
+| `Armas`     |  Condiciones, setID  |
+| `Set`     |  Todos los bonus de set y bonus total  |
+| `Equipables`     |  Completo ? no todos los items testeados  |
+| `Merkasakos`     |  Muebles, decoracion, suelo  |
+| `Clases`     |  Estadísticas de cada hechizo  |
+| `Profesiones`     |  Cantidad necesaria de cada item para receta |
 
 ## Errores
 
 - Hay algunos links que están caídos o items que no tienen detalles/nombre/imagen, se rellena con datos disponibles.\
 - Puede que chronium no carge la página y envíe error por timeout, solo debe intentar nuevamente.
 
-**El proceso de resumen no funciona correctamente**
+**El proceso de resumen no funciona correctamente**\
+**o si? no testeado correctamente**
 
 ## Instalación
 
