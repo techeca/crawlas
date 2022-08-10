@@ -3,9 +3,10 @@
 
 Este proyecto fue creado utilizando Crawlit como base, estructura, lógica, etc.\
 Se utiliza Puppetter para realizar solicitudes y obtener datos.\
-Idioma Español agregado.
 
+Idiomas\
 **Spanish - French - English**
+(Español agregado)
 
 Puedes encontrar los repositorios de Crawlit y Puppeteer aquí.\
 [Crawlit](https://github.com/dofapi/crawlit-dofus-encyclopedia-parser)
@@ -14,7 +15,7 @@ Puedes encontrar los repositorios de Crawlit y Puppeteer aquí.\
 08/08/2020\
 Por el momento se puede extraer:
 
-**Juegos**
+**Juegos**\
 Solo `Dofus`
 
 `Mascotas` (falta agregar set relacionado)\
