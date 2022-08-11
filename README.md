@@ -22,27 +22,27 @@ Solo `Dofus` (por el momento)
 
 | Items       | Falta       |
 | ------------- |:-------------|
-| `Mascotas`     |   Falta setId  |
+| `Mascotas`     |   100%  |
 | `Idolos`     |  100%  |
 | `Arreos`     |   100%  |
-| `Monturas`     |  Agregar de donde se obtiene, nacido de cruce  |
+| `Monturas`     |  100%  |
 | `Recursos`     |  100%  |
-| `Monstruos`     |   Separar objetos dropeables con condiciones, no se estan obteniendo nombres de items sin links  |
-| `Consumibles`     |  Para que receta se utiliza  |
+| `Monstruos`     |   100%  |
+| `Consumibles`     |  100% |
 | `Armas`     |  100%  |
 | `Set`     |  100% (bonus total??)  |
-| `Equipables`     |  100%?? (no todos los items testeados)  |
-| `Merkasakos`     |  Muebles, decoracion, suelo  |
+| `Equipables`     |  100% |
+| `Merkasakos`     |  Muebles, decoracion, suelo (todo :p) |
 | `Clases`     |  Estadísticas de cada hechizo  |
 | `Profesiones`     |  Cantidad necesaria de cada item para receta |
 
 ## Errores
 
-- Hay algunos links que están caídos o items que no tienen detalles/nombre/imagen, se rellena con datos disponibles.\
+- Hay algunos links que están caídos o items que no tienen detalles/nombre/imagen, se rellena con datos disponibles.
 - Puede que chronium no carge la página y envíe error por timeout, solo debe intentar nuevamente.
 
-**El proceso de resumen no funciona correctamente**\
-**o si? no testeado correctamente**
+**El proceso de resumen no está testeado**\
+**No todas la categorias de Weapons y Equipments han sido testeadas**
 
 ## Instalación
 
