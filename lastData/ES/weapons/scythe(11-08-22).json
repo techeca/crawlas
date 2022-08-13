@@ -1,0 +1,1371 @@
+[
+    {
+        "_id": null,
+        "ankamaId": 26009,
+        "name": "Guadaña serafina",
+        "level": 200,
+        "type": "Guadaña",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/22008.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/armas/26009-guadana-serafina",
+        "description": "«El ángel solo difiere del demonio en una reflexión que aún no se le ha presentado». — Pol Valeriano, «Cuentos de la Aurora»",
+        "statistics": [
+            {
+                "Vitalidad": {
+                    "min": "301",
+                    "max": "350"
+                }
+            },
+            {
+                "Suerte": {
+                    "min": "41",
+                    "max": "60"
+                }
+            },
+            {
+                "Potencia (daños generales)": {
+                    "min": "21",
+                    "max": "30"
+                }
+            },
+            {
+                "Sabiduría": {
+                    "min": "21",
+                    "max": "30"
+                }
+            },
+            {
+                "Placaje": {
+                    "min": "7",
+                    "max": "10"
+                }
+            },
+            {
+                "De daño{~p}{~z} de agua": {
+                    "min": "11",
+                    "max": "15"
+                }
+            },
+            {
+                "% resistencia neutral": {
+                    "min": "5",
+                    "max": "7"
+                }
+            },
+            {
+                "% resistencia al agua": {
+                    "min": "5",
+                    "max": "7"
+                }
+            },
+            {
+                "Al retiro de PA": {
+                    "min": "4",
+                    "max": "7"
+                }
+            },
+            {
+                "De cura{~p}{~z}": {
+                    "min": "11",
+                    "max": "15"
+                }
+            },
+            {
+                "De daño{~p}{~z} crítico": {
+                    "min": "9",
+                    "max": "12"
+                }
+            },
+            {
+                "Invocaciones{~p}{~z}": {
+                    "min": "1"
+                }
+            },
+            {
+                "% crítico": {
+                    "min": "4",
+                    "max": "5"
+                }
+            },
+            {
+                "Daños:   (agua)": {
+                    "min": "38",
+                    "max": "45"
+                }
+            },
+            {
+                "Roba  PdV (agua)": {
+                    "min": "4",
+                    "max": "5"
+                }
+            },
+            {
+                "PA": {
+                    "min": "-1"
+                }
+            }
+        ],
+        "characteristics": [
+            {
+                "PA": "5 (1 utilización por turno)"
+            },
+            {
+                "Alcance": "1 a 2"
+            },
+            {
+                "GC": "1/10 (+5)"
+            }
+        ],
+        "recipe": [
+            {
+                "Turmalina": {
+                    "ankamaId": 15271,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/15271-turmalina",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/50719.w48h48.png",
+                    "type": "Piedra preciosa",
+                    "level": 10,
+                    "quantity": 23
+                }
+            },
+            {
+                "Diacrítico del rey Imagami": {
+                    "ankamaId": 23963,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/23963-diacritico-rey-imagami",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/15413.w48h48.png",
+                    "type": "Recurso",
+                    "level": 200,
+                    "quantity": 9
+                }
+            },
+            {
+                "Concentrado astral": {
+                    "ankamaId": 24144,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/24144-concentrado-astral",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/164833.w48h48.png",
+                    "type": "Concentrado",
+                    "level": 200,
+                    "quantity": 3
+                }
+            },
+            {
+                "Cetro roto de Kabaal": {
+                    "ankamaId": 25181,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/25181-cetro-roto-kabaal",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/176038.w48h48.png",
+                    "type": "Recurso de combate",
+                    "level": 200,
+                    "quantity": 13
+                }
+            },
+            {
+                "Mandíbula de azmodón": {
+                    "ankamaId": 26031,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/26031-mandibula-azmodon",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/165039.w48h48.png",
+                    "type": "Recurso",
+                    "level": 200,
+                    "quantity": 77
+                }
+            },
+            {
+                "Lengua de beliablo": {
+                    "ankamaId": 26032,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/26032-lengua-beliablo",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/165040.w48h48.png",
+                    "type": "Recurso",
+                    "level": 200,
+                    "quantity": 90
+                }
+            },
+            {
+                "Pico de devastador": {
+                    "ankamaId": 26036,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/26036-pico-devastador",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/165038.w48h48.png",
+                    "type": "Recurso",
+                    "level": 200,
+                    "quantity": 8
+                }
+            },
+            {
+                "Máscara pesadillesca del Conflicto Eterno": {
+                    "ankamaId": 26037,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/26037-mascara-pesadillesca-conflicto-eterno",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/165044.w48h48.png",
+                    "type": "Recurso de combate",
+                    "level": 200,
+                    "quantity": 12
+                }
+            }
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 26011,
+        "name": "Guadaña caótica",
+        "level": 200,
+        "type": "Guadaña",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/22009.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/armas/26011-guadana-caotica",
+        "description": "«Si bien la vida real es un caos, la imaginación la gobierna una tremenda lógica». — Óscar Guay",
+        "conditions": [
+            "PA < 12"
+        ],
+        "statistics": [
+            {
+                "Iniciativa": {
+                    "min": "201",
+                    "max": "300"
+                }
+            },
+            {
+                "Vitalidad": {
+                    "min": "301",
+                    "max": "350"
+                }
+            },
+            {
+                "Inteligencia": {
+                    "min": "31",
+                    "max": "40"
+                }
+            },
+            {
+                "Suerte": {
+                    "min": "31",
+                    "max": "40"
+                }
+            },
+            {
+                "Potencia (daños generales)": {
+                    "min": "16",
+                    "max": "20"
+                }
+            },
+            {
+                "Sabiduría": {
+                    "min": "26",
+                    "max": "35"
+                }
+            },
+            {
+                "Placaje": {
+                    "min": "9",
+                    "max": "12"
+                }
+            },
+            {
+                "De daño{~p}{~z} de fuego": {
+                    "min": "14",
+                    "max": "18"
+                }
+            },
+            {
+                "De daño{~p}{~z} de agua": {
+                    "min": "14",
+                    "max": "18"
+                }
+            },
+            {
+                "% resistencia al agua": {
+                    "min": "7",
+                    "max": "10"
+                }
+            },
+            {
+                "De cura{~p}{~z}": {
+                    "min": "9",
+                    "max": "12"
+                }
+            },
+            {
+                "De daño{~p}{~z} crítico": {
+                    "min": "-15"
+                }
+            },
+            {
+                "Alcance": {
+                    "min": "-1"
+                }
+            },
+            {
+                "PM": {
+                    "min": "1"
+                }
+            },
+            {
+                "Daños:   (neutral)": {
+                    "min": "21",
+                    "max": "25"
+                }
+            },
+            {
+                "Roba  PdV (fuego)": {
+                    "min": "16",
+                    "max": "20"
+                }
+            },
+            {
+                "Roba  PdV (agua)": {
+                    "min": "16",
+                    "max": "20"
+                }
+            }
+        ],
+        "characteristics": [
+            {
+                "PA": "5 (1 utilización por turno)"
+            },
+            {
+                "Alcance": "1 a 2"
+            },
+            {
+                "GC": "1/10 (+3)"
+            }
+        ],
+        "recipe": [
+            {
+                "Ardonita": {
+                    "ankamaId": 12728,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/12728-ardonita",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/40710.w48h48.png",
+                    "type": "Aleación",
+                    "level": 200,
+                    "quantity": 3
+                }
+            },
+            {
+                "Cuerno de Corrupción": {
+                    "ankamaId": 22204,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/22204-cuerno-corrupcion",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/24275.w48h48.png",
+                    "type": "Hueso",
+                    "level": 200,
+                    "quantity": 10
+                }
+            },
+            {
+                "Concentrado astral": {
+                    "ankamaId": 24144,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/24144-concentrado-astral",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/164833.w48h48.png",
+                    "type": "Concentrado",
+                    "level": 200,
+                    "quantity": 2
+                }
+            },
+            {
+                "Cetro roto de Kabaal": {
+                    "ankamaId": 25181,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/25181-cetro-roto-kabaal",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/176038.w48h48.png",
+                    "type": "Recurso de combate",
+                    "level": 200,
+                    "quantity": 13
+                }
+            },
+            {
+                "Cuerno de tifomet": {
+                    "ankamaId": 26033,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/26033-cuerno-tifomet",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/165041.w48h48.png",
+                    "type": "Recurso",
+                    "level": 200,
+                    "quantity": 71
+                }
+            },
+            {
+                "Paletilla de malefisto": {
+                    "ankamaId": 26035,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/26035-paletilla-malefisto",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/165043.w48h48.png",
+                    "type": "Recurso",
+                    "level": 200,
+                    "quantity": 27
+                }
+            },
+            {
+                "Pico de devastador": {
+                    "ankamaId": 26036,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/26036-pico-devastador",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/165038.w48h48.png",
+                    "type": "Recurso",
+                    "level": 200,
+                    "quantity": 7
+                }
+            },
+            {
+                "Máscara pesadillesca del Conflicto Eterno": {
+                    "ankamaId": 26037,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/26037-mascara-pesadillesca-conflicto-eterno",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/165044.w48h48.png",
+                    "type": "Recurso de combate",
+                    "level": 200,
+                    "quantity": 10
+                }
+            }
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 24028,
+        "name": "Origadaña",
+        "level": 200,
+        "type": "Guadaña",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/22007.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/armas/24028-origadana",
+        "description": "A la origadaña le dieron muchas vueltas para crearla, pero ella no se corta un pelo a la hora de cortar.",
+        "conditions": [
+            "Fuerza > 300 y Agilidad > 300"
+        ],
+        "statistics": [
+            {
+                "Vitalidad": {
+                    "min": "401",
+                    "max": "500"
+                }
+            },
+            {
+                "Fuerza": {
+                    "min": "61",
+                    "max": "80"
+                }
+            },
+            {
+                "Agilidad": {
+                    "min": "61",
+                    "max": "80"
+                }
+            },
+            {
+                "De resistencia{~p}{~z} al empuje": {
+                    "min": "-20"
+                }
+            },
+            {
+                "De resistencia{~p}{~z} a los críticos": {
+                    "min": "16",
+                    "max": "25"
+                }
+            },
+            {
+                "Sabiduría": {
+                    "min": "31",
+                    "max": "50"
+                }
+            },
+            {
+                "De daño{~p}{~z} de tierra": {
+                    "min": "11",
+                    "max": "15"
+                }
+            },
+            {
+                "De daño{~p}{~z} de aire": {
+                    "min": "11",
+                    "max": "15"
+                }
+            },
+            {
+                "% resistencia al fuego": {
+                    "min": "3",
+                    "max": "5"
+                }
+            },
+            {
+                "% resistencia al agua": {
+                    "min": "3",
+                    "max": "5"
+                }
+            },
+            {
+                "Al retiro de PM": {
+                    "min": "9",
+                    "max": "12"
+                }
+            },
+            {
+                "Supresión PA": {
+                    "min": "-12"
+                }
+            },
+            {
+                "Esquiva PM": {
+                    "min": "-10"
+                }
+            },
+            {
+                "A la esquiva pérdidas de PA": {
+                    "min": "7",
+                    "max": "10"
+                }
+            },
+            {
+                "-3% crítico": {
+                    "min": "-3"
+                }
+            },
+            {
+                "Daños:   (tierra)": {
+                    "min": "25",
+                    "max": "28"
+                }
+            },
+            {
+                "Daños:   (aire)": {
+                    "min": "25",
+                    "max": "28"
+                }
+            },
+            {
+                "PM": {
+                    "min": "-1"
+                }
+            }
+        ],
+        "characteristics": [
+            {
+                "PA": "5 (1 utilización por turno)"
+            },
+            {
+                "Alcance": "1 a 2"
+            },
+            {
+                "GC": "1/0"
+            }
+        ],
+        "recipe": [
+            {
+                "Guijarro brasa": {
+                    "ankamaId": 12740,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/12740-guijarro-brasa",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/15289.w48h48.png",
+                    "type": "Guijarro",
+                    "level": 150,
+                    "quantity": 1
+                }
+            },
+            {
+                "Sesos de Solar": {
+                    "ankamaId": 19404,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/19404-sesos-solar",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/182019.w48h48.png",
+                    "type": "Recurso",
+                    "level": 200,
+                    "quantity": 10
+                }
+            },
+            {
+                "Cola de Bethel Akarna": {
+                    "ankamaId": 19411,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/19411-cola-bethel-akarna",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/65772.w48h48.png",
+                    "type": "Cola",
+                    "level": 200,
+                    "quantity": 12
+                }
+            },
+            {
+                "Pétalo de papel": {
+                    "ankamaId": 23957,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/23957-petalo-papel",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/164861.w48h48.png",
+                    "type": "Planta",
+                    "level": 200,
+                    "quantity": 7
+                }
+            },
+            {
+                "Diacrítico del rey Imagami": {
+                    "ankamaId": 23963,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/23963-diacritico-rey-imagami",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/15413.w48h48.png",
+                    "type": "Recurso",
+                    "level": 200,
+                    "quantity": 13
+                }
+            },
+            {
+                "Comillas de mabram": {
+                    "ankamaId": 23968,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/23968-comillas-mabram",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/47876.w48h48.png",
+                    "type": "Recurso",
+                    "level": 200,
+                    "quantity": 75
+                }
+            },
+            {
+                "Cedilla de tsunam": {
+                    "ankamaId": 23969,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/23969-cedilla-tsunam",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/103731.w48h48.png",
+                    "type": "Recurso",
+                    "level": 200,
+                    "quantity": 61
+                }
+            },
+            {
+                "Concentrado astral": {
+                    "ankamaId": 24144,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/24144-concentrado-astral",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/164833.w48h48.png",
+                    "type": "Concentrado",
+                    "level": 200,
+                    "quantity": 1
+                }
+            }
+        ],
+        "setId": "489"
+    },
+    {
+        "_id": null,
+        "ankamaId": 24034,
+        "name": "Tintarela picuda",
+        "level": 200,
+        "type": "Guadaña",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/22006.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/armas/24034-tintarela-picuda",
+        "description": "No es del color de la leche, pero seguro que sabrás moverla con ritmo.",
+        "statistics": [
+            {
+                "Roba  PdV (aire)": {
+                    "min": "35",
+                    "max": "42"
+                }
+            },
+            {
+                "Vitalidad": {
+                    "min": "401",
+                    "max": "450"
+                }
+            },
+            {
+                "Agilidad": {
+                    "min": "51",
+                    "max": "70"
+                }
+            },
+            {
+                "De resistencia{~p}{~z} al empuje": {
+                    "min": "21",
+                    "max": "25"
+                }
+            },
+            {
+                "Sabiduría": {
+                    "min": "31",
+                    "max": "50"
+                }
+            },
+            {
+                "Placaje": {
+                    "min": "7",
+                    "max": "10"
+                }
+            },
+            {
+                "De daño{~p}{~z} de aire": {
+                    "min": "16",
+                    "max": "20"
+                }
+            },
+            {
+                "% resistencia neutral": {
+                    "min": "5",
+                    "max": "7"
+                }
+            },
+            {
+                "% resistencia al aire": {
+                    "min": "5",
+                    "max": "7"
+                }
+            },
+            {
+                "A la esquiva pérdidas de PM": {
+                    "min": "7",
+                    "max": "10"
+                }
+            },
+            {
+                "De cura{~p}{~z}": {
+                    "min": "4",
+                    "max": "6"
+                }
+            },
+            {
+                "Invocaciones{~p}{~z}": {
+                    "min": "1"
+                }
+            },
+            {
+                "% crítico": {
+                    "min": "2",
+                    "max": "3"
+                }
+            },
+            {
+                "Alcance": {
+                    "min": "-1"
+                }
+            }
+        ],
+        "characteristics": [
+            {
+                "PA": "5 (1 utilización por turno)"
+            },
+            {
+                "Alcance": "1 a 2"
+            },
+            {
+                "GC": "1/5 (+15)"
+            }
+        ],
+        "recipe": [
+            {
+                "Guijarro brasa": {
+                    "ankamaId": 12740,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/12740-guijarro-brasa",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/15289.w48h48.png",
+                    "type": "Guijarro",
+                    "level": 150,
+                    "quantity": 3
+                }
+            },
+            {
+                "Omoplato del conde Kontatrás": {
+                    "ankamaId": 13994,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/13994-omoplato-conde-kontatras",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/47824.w48h48.png",
+                    "type": "Hueso",
+                    "level": 200,
+                    "quantity": 13
+                }
+            },
+            {
+                "Núcleo de Protozorror": {
+                    "ankamaId": 15689,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/15689-nucleo-protozorror",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/164047.w48h48.png",
+                    "type": "Recurso",
+                    "level": 200,
+                    "quantity": 10
+                }
+            },
+            {
+                "Puño y coma de imushin": {
+                    "ankamaId": 23958,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/23958-puno-coma-imushin",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/24193.w48h48.png",
+                    "type": "Recurso",
+                    "level": 200,
+                    "quantity": 85
+                }
+            },
+            {
+                "Caparazón circunflejo de imorok": {
+                    "ankamaId": 23959,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/23959-caparazon-circunflejo-imorok",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/59676.w48h48.png",
+                    "type": "Recurso",
+                    "level": 200,
+                    "quantity": 72
+                }
+            },
+            {
+                "Pétalo de tinta": {
+                    "ankamaId": 23965,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/23965-petalo-tinta",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/164854.w48h48.png",
+                    "type": "Planta",
+                    "level": 200,
+                    "quantity": 11
+                }
+            },
+            {
+                "Diacrítico de la reina Amirukam": {
+                    "ankamaId": 23971,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/23971-diacritico-reina-amirukam",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/15414.w48h48.png",
+                    "type": "Recurso",
+                    "level": 200,
+                    "quantity": 11
+                }
+            },
+            {
+                "Concentrado astral": {
+                    "ankamaId": 24144,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/24144-concentrado-astral",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/164833.w48h48.png",
+                    "type": "Concentrado",
+                    "level": 200,
+                    "quantity": 3
+                }
+            }
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 8992,
+        "name": "Hoz maldita del gran Desangrador Guerrero",
+        "level": 200,
+        "type": "Guadaña",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/22003.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/armas/8992-hoz-maldita-gran-desangrador-guerrero",
+        "description": "Esta hoja siega a los enemigos como si fueran trigo y aumenta la envidia de tus aliados. Ese es el destino de los poderosos.",
+        "statistics": [
+            {
+                "Daños:   (aire)": {
+                    "min": "9",
+                    "max": "18"
+                }
+            },
+            {
+                "Daños:   (agua)": {
+                    "min": "9",
+                    "max": "18"
+                }
+            },
+            {
+                "Daños:   (fuego)": {
+                    "min": "9",
+                    "max": "18"
+                }
+            },
+            {
+                "Daños:   (neutral)": {
+                    "min": "9",
+                    "max": "18"
+                }
+            },
+            {
+                "Daños:   (tierra)": {
+                    "min": "9",
+                    "max": "18"
+                }
+            },
+            {
+                "Suerte": {
+                    "min": "26",
+                    "max": "40"
+                }
+            },
+            {
+                "Inteligencia": {
+                    "min": "26",
+                    "max": "40"
+                }
+            },
+            {
+                "Fuerza": {
+                    "min": "26",
+                    "max": "40"
+                }
+            },
+            {
+                "Agilidad": {
+                    "min": "26",
+                    "max": "40"
+                }
+            },
+            {
+                "Sabiduría": {
+                    "min": "26",
+                    "max": "40"
+                }
+            },
+            {
+                "Vitalidad": {
+                    "min": "26",
+                    "max": "40"
+                }
+            },
+            {
+                "% resistencia al aire": {
+                    "min": "4",
+                    "max": "5"
+                }
+            },
+            {
+                "% resistencia al agua": {
+                    "min": "4",
+                    "max": "5"
+                }
+            },
+            {
+                "% resistencia al fuego": {
+                    "min": "4",
+                    "max": "5"
+                }
+            },
+            {
+                "% resistencia neutral": {
+                    "min": "4",
+                    "max": "5"
+                }
+            },
+            {
+                "% resistencia a la tierra": {
+                    "min": "4",
+                    "max": "5"
+                }
+            },
+            {
+                "Reduce en el número de PA que cuesta el hechizo Martillo de Moon.": {
+                    "min": "1"
+                }
+            },
+            {
+                "Reduce en el número de PA que cuesta el hechizo Zanahowia.": {
+                    "min": "1"
+                }
+            },
+            {
+                "Reduce en el número de PA que cuesta el hechizo Bumerán Pérfido.": {
+                    "min": "1"
+                }
+            },
+            {
+                "Reduce en el número de PA que cuesta el hechizo Fulminación.": {
+                    "min": "1"
+                }
+            }
+        ],
+        "characteristics": [
+            {
+                "PA": "6 (1 utilización por turno)"
+            },
+            {
+                "Alcance": "1 a 2"
+            },
+            {
+                "GC": "1/1 (+5)"
+            }
+        ],
+        "recipe": [],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 26310,
+        "name": "Guadaña enraizada de malter",
+        "level": 150,
+        "type": "Guadaña",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/22010.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/armas/26310-guadana-enraizada-malter",
+        "description": "Esta guadaña vegetal formada por una maraña de zarzas la usan los malters para castigar a los malteregos disidentes. El sentido de las espinas hace que sea imposible sacar el arma del cuerpo de su objetivo sin provocarle un gran sufrimiento físico.",
+        "statistics": [
+            {
+                "Iniciativa": {
+                    "min": "251",
+                    "max": "400"
+                }
+            },
+            {
+                "Vitalidad": {
+                    "min": "201",
+                    "max": "250"
+                }
+            },
+            {
+                "Sabiduría": {
+                    "min": "31",
+                    "max": "40"
+                }
+            },
+            {
+                "% resistencia a la tierra": {
+                    "min": "5",
+                    "max": "7"
+                }
+            },
+            {
+                "% resistencia al agua": {
+                    "min": "5",
+                    "max": "7"
+                }
+            },
+            {
+                "Al retiro de PA": {
+                    "min": "2",
+                    "max": "4"
+                }
+            },
+            {
+                "Al retiro de PM": {
+                    "min": "2",
+                    "max": "4"
+                }
+            },
+            {
+                "De cura{~p}{~z}": {
+                    "min": "21",
+                    "max": "30"
+                }
+            },
+            {
+                "Invocaciones{~p}{~z}": {
+                    "min": "1"
+                }
+            },
+            {
+                "Esquiva de PA": {
+                    "min": "-4"
+                }
+            },
+            {
+                "Esquiva PM": {
+                    "min": "-4"
+                }
+            },
+            {
+                "(PdV devueltos)": {
+                    "min": "7",
+                    "max": "10"
+                }
+            },
+            {
+                "(PdV devueltos)": {
+                    "min": "7",
+                    "max": "10"
+                }
+            },
+            {
+                "(PdV devueltos)": {
+                    "min": "7",
+                    "max": "10"
+                }
+            },
+            {
+                "(PdV devueltos)": {
+                    "min": "7",
+                    "max": "10"
+                }
+            }
+        ],
+        "characteristics": [
+            {
+                "PA": "4 (1 utilización por turno)"
+            },
+            {
+                "Alcance": "1 a 2"
+            },
+            {
+                "GC": "1/10 (+5)"
+            }
+        ],
+        "recipe": [
+            {
+                "Mecha rebelde de Hell Mina": {
+                    "ankamaId": 2299,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/2299-mecha-rebelde-hell-mina",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/54715.w48h48.png",
+                    "type": "Pelo",
+                    "level": 150,
+                    "quantity": 11
+                }
+            },
+            {
+                "Concentrado de bosque": {
+                    "ankamaId": 12733,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/12733-concentrado-bosque",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/12726.w48h48.png",
+                    "type": "Concentrado",
+                    "level": 140,
+                    "quantity": 2
+                }
+            },
+            {
+                "Colmillo de Perfósil": {
+                    "ankamaId": 15170,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/15170-colmillo-perfosil",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/15869.w48h48.png",
+                    "type": "Hueso",
+                    "level": 150,
+                    "quantity": 3
+                }
+            },
+            {
+                "Turmalina": {
+                    "ankamaId": 15271,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/15271-turmalina",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/50719.w48h48.png",
+                    "type": "Piedra preciosa",
+                    "level": 10,
+                    "quantity": 4
+                }
+            },
+            {
+                "Pétalo de malter": {
+                    "ankamaId": 26316,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/26316-petalo-malter",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/36655.w48h48.png",
+                    "type": "Planta",
+                    "level": 150,
+                    "quantity": 10
+                }
+            },
+            {
+                "Boleadora de maltrío": {
+                    "ankamaId": 26318,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/26318-boleadora-maltrio",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/24284.w48h48.png",
+                    "type": "Recurso de combate",
+                    "level": 150,
+                    "quantity": 43
+                }
+            },
+            {
+                "Amuleto de maltuerzo": {
+                    "ankamaId": 26320,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/26320-amuleto-maltuerzo",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/24283.w48h48.png",
+                    "type": "Recurso",
+                    "level": 150,
+                    "quantity": 31
+                }
+            },
+            {
+                "Cuerno de malastado": {
+                    "ankamaId": 26321,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/26321-cuerno-malastado",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/47877.w48h48.png",
+                    "type": "Hueso",
+                    "level": 150,
+                    "quantity": 18
+                }
+            }
+        ],
+        "setId": "500"
+    },
+    {
+        "_id": null,
+        "ankamaId": 26344,
+        "name": "Guadaña del director Grunob",
+        "level": 38,
+        "type": "Guadaña",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/22011.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/armas/26344-guadana-director-grunob",
+        "description": "La forma de su hoja hace que esta herramienta sea ideal para quitar los mocos pegados bajo las mesas.",
+        "statistics": [
+            {
+                "Roba  PdV (neutral)": {
+                    "min": "5",
+                    "max": "8"
+                }
+            },
+            {
+                "Roba  PdV (neutral)": {
+                    "min": "5",
+                    "max": "8"
+                }
+            },
+            {
+                "Iniciativa": {
+                    "min": "51",
+                    "max": "100"
+                }
+            },
+            {
+                "Vitalidad": {
+                    "min": "31",
+                    "max": "40"
+                }
+            },
+            {
+                "Potencia (daños generales)": {
+                    "min": "26",
+                    "max": "35"
+                }
+            },
+            {
+                "De daño{~p}{~z} de empuje": {
+                    "min": "7",
+                    "max": "10"
+                }
+            }
+        ],
+        "characteristics": [
+            {
+                "PA": "3 (1 utilización por turno)"
+            },
+            {
+                "Alcance": "1 a 2"
+            },
+            {
+                "GC": "1/0"
+            }
+        ],
+        "recipe": [
+            {
+                "Manual del director Grunob": {
+                    "ankamaId": 838,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/838-manual-director-grunob",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/24289.w48h48.png",
+                    "type": "Recurso",
+                    "level": 40,
+                    "quantity": 10
+                }
+            },
+            {
+                "Colmillo de goblin": {
+                    "ankamaId": 2264,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/2264-colmillo-goblin",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/47878.w48h48.png",
+                    "type": "Hueso",
+                    "level": 40,
+                    "quantity": 7
+                }
+            },
+            {
+                "Gorro de gobalista": {
+                    "ankamaId": 2674,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/2674-gorro-gobalista",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/24288.w48h48.png",
+                    "type": "Recurso",
+                    "level": 40,
+                    "quantity": 15
+                }
+            },
+            {
+                "Concentrado de boscaje": {
+                    "ankamaId": 12745,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/12745-concentrado-boscaje",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/12729.w48h48.png",
+                    "type": "Concentrado",
+                    "level": 40,
+                    "quantity": 1
+                }
+            }
+        ],
+        "setId": "502"
+    },
+    {
+        "_id": null,
+        "ankamaId": 8127,
+        "name": "Guadaña gastada de campesino",
+        "level": 17,
+        "type": "Guadaña",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/22002.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/armas/8127-guadana-gastada-campesino",
+        "description": "Esta guadaña robusta pero estropeada ha servido mucho ya y corta bastante mal. En cambio, es muy eficaz para arrancar las carnes blanditas y superficiales. Muy útil para luchar contra las varices de tus adversarios.",
+        "statistics": [
+            {
+                "Roba  PdV (agua)": {
+                    "min": "4",
+                    "max": "5"
+                }
+            },
+            {
+                "Vitalidad": {
+                    "min": "16",
+                    "max": "20"
+                }
+            },
+            {
+                "% crítico": {
+                    "min": "2",
+                    "max": "3"
+                }
+            },
+            {
+                "De daño{~p}{~z} de agua": {
+                    "min": "2"
+                }
+            }
+        ],
+        "characteristics": [
+            {
+                "PA": "3 (1 utilización por turno)"
+            },
+            {
+                "Alcance": "1 a 2"
+            },
+            {
+                "GC": "1/5 (+5)"
+            }
+        ],
+        "recipe": [
+            {
+                "Flor del diente de león diabólico": {
+                    "ankamaId": 306,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/306-flor-diente-leon-diabolico",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/35018.w48h48.png",
+                    "type": "Flor",
+                    "level": 18,
+                    "quantity": 5
+                }
+            },
+            {
+                "Pinza de cangrejo": {
+                    "ankamaId": 379,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/379-pinza-cangrejo",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/47051.w48h48.png",
+                    "type": "Hueso",
+                    "level": 46,
+                    "quantity": 5
+                }
+            },
+            {
+                "Pétalo mágico de Girasol Hambriento": {
+                    "ankamaId": 8157,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/8157-petalo-magico-girasol-hambriento",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/35002.w48h48.png",
+                    "type": "Flor",
+                    "level": 20,
+                    "quantity": 1
+                }
+            }
+        ],
+        "setId": "47"
+    },
+    {
+        "_id": null,
+        "ankamaId": 765,
+        "name": "Guadaña de Farle Ingals",
+        "level": 13,
+        "type": "Guadaña",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/22001.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/armas/765-guadana-farle-ingals",
+        "description": "Esta guadaña perteneció a Farle Ingals en persona, está suficientemente afilada para segar cualquier tipo de cereal y todo tipo de monstruos que se esconden en los campos de cereales.",
+        "conditions": [
+            "Suerte > 10"
+        ],
+        "statistics": [
+            {
+                "Daños:   (neutral)": {
+                    "min": "6",
+                    "max": "10"
+                }
+            },
+            {
+                "Vitalidad": {
+                    "min": "11",
+                    "max": "15"
+                }
+            },
+            {
+                "Suerte": {
+                    "min": "11",
+                    "max": "15"
+                }
+            }
+        ],
+        "characteristics": [
+            {
+                "PA": "4 (1 utilización por turno)"
+            },
+            {
+                "Alcance": "1 a 2"
+            },
+            {
+                "GC": "1/10 (+5)"
+            }
+        ],
+        "recipe": [],
+        "setId": null
+    }
+]

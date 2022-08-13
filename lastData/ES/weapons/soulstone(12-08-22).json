@@ -1,0 +1,514 @@
+[
+    {
+        "_id": null,
+        "ankamaId": 9690,
+        "name": "Gigantesca piedra de alma perfecta",
+        "level": 40,
+        "type": "Piedra de alma",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/83023.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/armas/9690-gigantesca-piedra-alma-perfecta",
+        "description": "Concebidas por Otomai, estas piedras no tienen ningún defecto. Permiten capturar sistemáticamente el alma de las criaturas que mates en combate.",
+        "statistics": [
+            {
+                "Daños:  (neutral)": {
+                    "min": "3"
+                }
+            }
+        ],
+        "characteristics": [
+            {
+                "PA": "4 (1 utilización por turno)"
+            },
+            {
+                "Alcance": "1"
+            },
+            {
+                "GC": "1/1 (+1)"
+            }
+        ],
+        "recipe": [
+            {
+                "Artefacto pandawushu de agua": {
+                    "ankamaId": 7222,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/7222-artefacto-pandawushu-agua",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/164659.w48h48.png",
+                    "type": "Piedra preciosa",
+                    "level": 1,
+                    "quantity": 1
+                }
+            },
+            {
+                "Artefacto pandawushu de viento": {
+                    "ankamaId": 7223,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/7223-artefacto-pandawushu-viento",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/164661.w48h48.png",
+                    "type": "Piedra preciosa",
+                    "level": 1,
+                    "quantity": 1
+                }
+            },
+            {
+                "Artefacto pandawushu de roca": {
+                    "ankamaId": 7224,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/7224-artefacto-pandawushu-roca",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/164662.w48h48.png",
+                    "type": "Piedra preciosa",
+                    "level": 1,
+                    "quantity": 1
+                }
+            },
+            {
+                "Artefacto pandawushu de fuego": {
+                    "ankamaId": 7225,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/7225-artefacto-pandawushu-fuego",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/164663.w48h48.png",
+                    "type": "Piedra preciosa",
+                    "level": 1,
+                    "quantity": 1
+                }
+            },
+            {
+                "Pócima de alteración": {
+                    "ankamaId": 12734,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/12734-pocima-alteracion",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/12725.w48h48.png",
+                    "type": "Preparación",
+                    "level": 155,
+                    "quantity": 1
+                }
+            },
+            {
+                "Guijarro carmesí": {
+                    "ankamaId": 12737,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/12737-guijarro-carmesi",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/15290.w48h48.png",
+                    "type": "Guijarro",
+                    "level": 50,
+                    "quantity": 4
+                }
+            },
+            {
+                "Pócima mineral": {
+                    "ankamaId": 12743,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/12743-pocima-mineral",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/12727.w48h48.png",
+                    "type": "Preparación",
+                    "level": 50,
+                    "quantity": 1
+                }
+            },
+            {
+                "Artefacto pandawushu de madera": {
+                    "ankamaId": 23311,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/23311-artefacto-pandawushu-madera",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/164660.w48h48.png",
+                    "type": "Piedra preciosa",
+                    "level": 1,
+                    "quantity": 1
+                }
+            }
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 9688,
+        "name": "Gran piedra de alma perfecta",
+        "level": 30,
+        "type": "Piedra de alma",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/83021.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/armas/9688-gran-piedra-alma-perfecta",
+        "description": "Concebidas por Otomai, estas piedras no tienen ningún defecto. Permiten capturar sistemáticamente el alma de las criaturas que mates en combate.",
+        "statistics": [
+            {
+                "Daños:  (neutral)": {
+                    "min": "3"
+                }
+            }
+        ],
+        "characteristics": [
+            {
+                "PA": "4 (1 utilización por turno)"
+            },
+            {
+                "Alcance": "1"
+            },
+            {
+                "GC": "1/1 (+1)"
+            }
+        ],
+        "recipe": [
+            {
+                "Fragmento de piedra afilada": {
+                    "ankamaId": 2305,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/2305-fragmento-piedra-afilada",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/51455.w48h48.png",
+                    "type": "Piedra bruta",
+                    "level": 65,
+                    "quantity": 1
+                }
+            },
+            {
+                "Artefacto pandawushu de agua": {
+                    "ankamaId": 7222,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/7222-artefacto-pandawushu-agua",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/164659.w48h48.png",
+                    "type": "Piedra preciosa",
+                    "level": 1,
+                    "quantity": 1
+                }
+            },
+            {
+                "Artefacto pandawushu de viento": {
+                    "ankamaId": 7223,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/7223-artefacto-pandawushu-viento",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/164661.w48h48.png",
+                    "type": "Piedra preciosa",
+                    "level": 1,
+                    "quantity": 1
+                }
+            },
+            {
+                "Artefacto pandawushu de roca": {
+                    "ankamaId": 7224,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/7224-artefacto-pandawushu-roca",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/164662.w48h48.png",
+                    "type": "Piedra preciosa",
+                    "level": 1,
+                    "quantity": 1
+                }
+            },
+            {
+                "Artefacto pandawushu de fuego": {
+                    "ankamaId": 7225,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/7225-artefacto-pandawushu-fuego",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/164663.w48h48.png",
+                    "type": "Piedra preciosa",
+                    "level": 1,
+                    "quantity": 1
+                }
+            },
+            {
+                "Guijarro carmesí": {
+                    "ankamaId": 12737,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/12737-guijarro-carmesi",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/15290.w48h48.png",
+                    "type": "Guijarro",
+                    "level": 50,
+                    "quantity": 3
+                }
+            },
+            {
+                "Pócima mineral": {
+                    "ankamaId": 12743,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/12743-pocima-mineral",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/12727.w48h48.png",
+                    "type": "Preparación",
+                    "level": 50,
+                    "quantity": 1
+                }
+            },
+            {
+                "Artefacto pandawushu de madera": {
+                    "ankamaId": 23311,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/23311-artefacto-pandawushu-madera",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/164660.w48h48.png",
+                    "type": "Piedra preciosa",
+                    "level": 1,
+                    "quantity": 1
+                }
+            }
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 9687,
+        "name": "Piedra de alma perfecta mediana",
+        "level": 20,
+        "type": "Piedra de alma",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/83020.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/armas/9687-piedra-alma-perfecta-mediana",
+        "description": "Concebidas por Otomai, estas piedras no tienen ningún defecto. Permiten capturar sistemáticamente el alma de las criaturas que mates en combate.",
+        "statistics": [
+            {
+                "Daños:  (neutral)": {
+                    "min": "3"
+                }
+            }
+        ],
+        "characteristics": [
+            {
+                "PA": "4 (1 utilización por turno)"
+            },
+            {
+                "Alcance": "1"
+            },
+            {
+                "GC": "1/1 (+1)"
+            }
+        ],
+        "recipe": [
+            {
+                "Artefacto pandawushu de agua": {
+                    "ankamaId": 7222,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/7222-artefacto-pandawushu-agua",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/164659.w48h48.png",
+                    "type": "Piedra preciosa",
+                    "level": 1,
+                    "quantity": 1
+                }
+            },
+            {
+                "Artefacto pandawushu de viento": {
+                    "ankamaId": 7223,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/7223-artefacto-pandawushu-viento",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/164661.w48h48.png",
+                    "type": "Piedra preciosa",
+                    "level": 1,
+                    "quantity": 1
+                }
+            },
+            {
+                "Artefacto pandawushu de roca": {
+                    "ankamaId": 7224,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/7224-artefacto-pandawushu-roca",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/164662.w48h48.png",
+                    "type": "Piedra preciosa",
+                    "level": 1,
+                    "quantity": 1
+                }
+            },
+            {
+                "Artefacto pandawushu de fuego": {
+                    "ankamaId": 7225,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/7225-artefacto-pandawushu-fuego",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/164663.w48h48.png",
+                    "type": "Piedra preciosa",
+                    "level": 1,
+                    "quantity": 1
+                }
+            },
+            {
+                "Guijarro carmesí": {
+                    "ankamaId": 12737,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/12737-guijarro-carmesi",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/15290.w48h48.png",
+                    "type": "Guijarro",
+                    "level": 50,
+                    "quantity": 2
+                }
+            },
+            {
+                "Pócima mineral": {
+                    "ankamaId": 12743,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/12743-pocima-mineral",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/12727.w48h48.png",
+                    "type": "Preparación",
+                    "level": 50,
+                    "quantity": 1
+                }
+            },
+            {
+                "Artefacto pandawushu de madera": {
+                    "ankamaId": 23311,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/23311-artefacto-pandawushu-madera",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/164660.w48h48.png",
+                    "type": "Piedra preciosa",
+                    "level": 1,
+                    "quantity": 1
+                }
+            }
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 9686,
+        "name": "Pequeña piedra de alma perfecta",
+        "level": 10,
+        "type": "Piedra de alma",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/83019.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/armas/9686-pequena-piedra-alma-perfecta",
+        "description": "Concebidas por Otomai, estas piedras no tienen ningún defecto. Permiten capturar sistemáticamente el alma de las criaturas que mates en combate.",
+        "statistics": [
+            {
+                "Daños:  (neutral)": {
+                    "min": "3"
+                }
+            }
+        ],
+        "characteristics": [
+            {
+                "PA": "4 (1 utilización por turno)"
+            },
+            {
+                "Alcance": "1"
+            },
+            {
+                "GC": "1/1 (+1)"
+            }
+        ],
+        "recipe": [
+            {
+                "Artefacto pandawushu de agua": {
+                    "ankamaId": 7222,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/7222-artefacto-pandawushu-agua",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/164659.w48h48.png",
+                    "type": "Piedra preciosa",
+                    "level": 1,
+                    "quantity": 1
+                }
+            },
+            {
+                "Artefacto pandawushu de viento": {
+                    "ankamaId": 7223,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/7223-artefacto-pandawushu-viento",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/164661.w48h48.png",
+                    "type": "Piedra preciosa",
+                    "level": 1,
+                    "quantity": 1
+                }
+            },
+            {
+                "Artefacto pandawushu de roca": {
+                    "ankamaId": 7224,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/7224-artefacto-pandawushu-roca",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/164662.w48h48.png",
+                    "type": "Piedra preciosa",
+                    "level": 1,
+                    "quantity": 1
+                }
+            },
+            {
+                "Artefacto pandawushu de fuego": {
+                    "ankamaId": 7225,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/7225-artefacto-pandawushu-fuego",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/164663.w48h48.png",
+                    "type": "Piedra preciosa",
+                    "level": 1,
+                    "quantity": 1
+                }
+            },
+            {
+                "Guijarro carmesí": {
+                    "ankamaId": 12737,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/12737-guijarro-carmesi",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/15290.w48h48.png",
+                    "type": "Guijarro",
+                    "level": 50,
+                    "quantity": 1
+                }
+            },
+            {
+                "Artefacto pandawushu de madera": {
+                    "ankamaId": 23311,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/23311-artefacto-pandawushu-madera",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/164660.w48h48.png",
+                    "type": "Piedra preciosa",
+                    "level": 1,
+                    "quantity": 1
+                }
+            }
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 9689,
+        "name": "Enorme piedra de alma perfecta",
+        "level": 1,
+        "type": "Piedra de alma",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/83022.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/armas/9689-enorme-piedra-alma-perfecta",
+        "description": "Concebidas por Otomai, estas piedras no tienen ningún defecto. Permiten capturar sistemáticamente el alma de las criaturas que mates en combate.",
+        "statistics": [
+            {
+                "Daños:  (neutral)": {
+                    "min": "3"
+                }
+            }
+        ],
+        "characteristics": [
+            {
+                "PA": "4 (1 utilización por turno)"
+            },
+            {
+                "Alcance": "1"
+            },
+            {
+                "GC": "1/1 (+1)"
+            }
+        ],
+        "recipe": [],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 9718,
+        "name": "Gargantuesca piedra de alma perfecta",
+        "level": 1,
+        "type": "Piedra de alma",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/83024.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/armas/9718-gargantuesca-piedra-alma-perfecta",
+        "description": "Única en su especie, esta piedra fue concebida con un único objetivo: capturar el alma del kralamar. Esto se nota en su aspecto… y también en su olor.",
+        "conditions": [
+            "Misión 'La ",
+            "erna cosecha' en curso"
+        ],
+        "statistics": [
+            {
+                "Daños:  (neutral)": {
+                    "min": "3"
+                }
+            }
+        ],
+        "characteristics": [
+            {
+                "PA": "4 (1 utilización por turno)"
+            },
+            {
+                "Alcance": "1"
+            },
+            {
+                "GC": "1/1 (+1)"
+            }
+        ],
+        "recipe": [],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 23324,
+        "name": "Piedra de alma perfecta reforzada",
+        "level": 1,
+        "type": "Piedra de alma",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/83015.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/armas/23324-piedra-alma-perfecta-reforzada",
+        "description": "Esta piedra, única en su especie, permite capturar las almas más recalcitrantes.",
+        "conditions": [
+            "Misión 'Las m",
+            "amorfosis de un tanuki' en curso y Dispone del hechizo Captura de Almas"
+        ],
+        "statistics": [
+            {
+                "Daños:  (neutral)": {
+                    "min": "3"
+                }
+            }
+        ],
+        "characteristics": [
+            {
+                "PA": "4 (1 utilización por turno)"
+            },
+            {
+                "Alcance": "1"
+            },
+            {
+                "GC": "1/1 (+1)"
+            }
+        ],
+        "recipe": [],
+        "setId": null
+    }
+]

@@ -1,0 +1,597 @@
+[
+    {
+        "_id": null,
+        "ankamaId": 7043,
+        "name": "Dofus de los hielos",
+        "level": 180,
+        "type": "Dofus",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/23005.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/equipos/7043-dofus-hielos",
+        "description": "La leyenda cuenta que este espléndido dofus salió del agujero helado de Aguabrial, el dragón del agua. La leyenda no dice que aquel día Aguabrial estaba resfriado, pero aun así es fácil de imaginar.",
+        "statistics": [
+            {
+                "De daño{~p}{~z} de aire": {
+                    "min": "25"
+                }
+            },
+            {
+                "De daño{~p}{~z} de agua": {
+                    "min": "25"
+                }
+            },
+            {
+                "De daño{~p}{~z} de fuego": {
+                    "min": "25"
+                }
+            },
+            {
+                "De daño{~p}{~z} neutro": {
+                    "min": "25"
+                }
+            },
+            {
+                "De daño{~p}{~z} de tierra": {
+                    "min": "25"
+                }
+            }
+        ],
+        "recipe": [],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 20286,
+        "name": "Dofus plateado centelleante",
+        "level": 180,
+        "type": "Dofus",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/23027.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/equipos/20286-dofus-plateado-centelleante",
+        "description": "Los artesanos aún no conocen suficientemente bien este objeto para que sus características puedan ser reveladas a los compradores potenciales.",
+        "recipe": [],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 6980,
+        "name": "Dofus vulbis",
+        "level": 180,
+        "type": "Dofus",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/23004.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/equipos/6980-dofus-vulbis",
+        "description": "El dofus vulbis es una fuente de aterradores rumores. Dicen que el dragón que creó este huevo de color rubí era más despiadado que la propia muerte, y que devoraba a sus víctimas para tratar de satisfacer su insaciable apetito. ¿Leyenda o verdad? Solo los héroes tan valientes como indigestos lo saben.",
+        "statistics": [
+            {
+                "PM": {
+                    "min": "1"
+                }
+            },
+            {
+                "Los daños que se ocasionan aumentan un 10% durante turno si no se ha sufrido ningún ataque que cause daños desde el turno de juego anterior.\nEl placaje aumenta en durante un turno si desde el turno de juego anterior se ha sufrido un ataque que ocasione daños.": {
+                    "min": "10",
+                    "max": "1"
+                }
+            }
+        ],
+        "recipe": [],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 18043,
+        "name": "Dofus abisal",
+        "level": 180,
+        "type": "Dofus",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/23023.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/equipos/18043-dofus-abisal",
+        "description": "Según fuentes oficiales, este dofus de aspecto inusual es una creación de los steamers de Sufokia. Por lo tanto, podemos concluir que no se trata de un verdadero huevo de dragón. Bueno, esto es lo que las autoridades quieren que creamos, porque ¿quién sabe lo que en realidad se esconde en lo más profundo de los mares?",
+        "statistics": [
+            {
+                "Al principio de cada turno, si no hay ningún enemigo en contacto, da PM. En caso contrario, da PA.": {
+                    "min": "1",
+                    "max": "1"
+                }
+            }
+        ],
+        "recipe": [],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 7112,
+        "name": "Dofus moteado",
+        "level": 180,
+        "type": "Dofus",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/23008.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/equipos/7112-dofus-moteado",
+        "description": "Los artesanos aún no conocen suficientemente bien este objeto para que sus características puedan ser reveladas a los compradores potenciales.",
+        "recipe": [],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 7115,
+        "name": "Dofus Marfil",
+        "level": 180,
+        "type": "Dofus",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/23011.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/equipos/7115-dofus-marfil",
+        "description": "Los artesanos aún no conocen suficientemente bien este objeto para que sus características puedan ser reveladas a los compradores potenciales.",
+        "recipe": [],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 19398,
+        "name": "Dofus forjalava",
+        "level": 180,
+        "type": "Dofus",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/23024.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/equipos/19398-dofus-forjalava",
+        "description": "A pesar de su aspecto un tanto insólito, este dofus es un auténtico huevo de dragón, así que sería una pena empeñarlo. Te dará calor en las largas noches de invierno y te permitirá hacer barbacoas en verano. Pero procura no pasar con él cerca de un pajar o de haces de ramas secas, porque te expones a que te tomen por un peligroso pirómano.",
+        "statistics": [
+            {
+                "Confiere a su portador un 100% del nivel en puntos de escudo, vez como máximo por turno para los daños de empuje y vez por cada tipo de desplazamiento: \n- Daños de empuje\n- Empuje / Atracción\n- Intercambio de posición / Teletransportación / Portal selotrop\n- Porteo pandawa\n\nEl efecto solo lo pueden activar los enemigos.": {
+                    "min": "100",
+                    "max": "1"
+                }
+            },
+            {
+                "De resistencia{~p}{~z} al empuje": {
+                    "min": "80"
+                }
+            }
+        ],
+        "recipe": [],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 26066,
+        "name": "Dofus de pesadilla",
+        "level": 180,
+        "type": "Dofus",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/23034.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/equipos/26066-dofus-pesadilla",
+        "description": "«Si la noche es negra es para que nada pueda distraernos de nuestras pesadillas». Esas fueron las palabras del joven Kilvan antes de dormirse tranquilizado por su chtigre de peluche. ¿Por qué la noche es tan oscura? Porque oculta todos los miedos, y todos los misterios de la eternoche. Miedos cervales, brasas rojas y glifos dorados se funden y se confunden en la cuna del bien y del mal, fuente de un conflicto eternamente renovado.",
+        "statistics": [
+            {
+                "Iniciativa": {
+                    "min": "1000"
+                }
+            },
+            {
+                "Durante su turno de juego, si el portador aplica o recibe un escudo, los aliados a casillas o menos de él se curan un 7% de sus PdV. \nSi desembruja a un objetivo, los aliados a casillas o menos ganan de potencia durante turno (acumulación de 1, no disipable). \nCada efecto solo puede activarse una vez por turno, pero, si los dos se activan en el mismo turno, el portador sufre un 10% de daño adicional durante turno (no disipable).": {
+                    "min": "3",
+                    "max": "7"
+                }
+            }
+        ],
+        "recipe": [],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 7114,
+        "name": "Dofus Ébano",
+        "level": 180,
+        "type": "Dofus",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/23007.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/equipos/7114-dofus-ebano",
+        "description": "Los artesanos aún no conocen suficientemente bien este objeto para que sus características puedan ser reveladas a los compradores potenciales.",
+        "recipe": [],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 8698,
+        "name": "Dofus nebuloso",
+        "level": 180,
+        "type": "Dofus",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/23016.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/equipos/8698-dofus-nebuloso",
+        "description": "Este dofus, nacido del amor que Khelebragón profesaba a Meteo, es un concentrado de nostalgia. No lo mires demasiado tiempo o podrías acabar dejando escapar alguna que otra lágrima… lo que dañaría a tu reputación de aventurero con corazón de piedra.",
+        "statistics": [
+            {
+                "En los turnos impares, aumenta un 20% los daños. En los turnos pares, reduce un 10% los daños.": {
+                    "min": "20",
+                    "max": "10"
+                }
+            }
+        ],
+        "recipe": [],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 7754,
+        "name": "Dofus Ocre",
+        "level": 160,
+        "type": "Dofus",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/23012.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/equipos/7754-dofus-ocre",
+        "description": "Terrakurial, el dragón de la tierra, es el creador del dofus Ocre. Este dofus encierra grandes poderes por lo cual no debe dejarse entre las manos de cualquiera... ¡y tampoco entre los pies!",
+        "statistics": [
+            {
+                "PA": {
+                    "min": "1"
+                }
+            },
+            {
+                "Da PA si no se ha sufrido ningún ataque que cause daños desde el turno de juego anterior.": {
+                    "min": "1"
+                }
+            },
+            {
+                "emote": "Actitud Dofus Ocre"
+            }
+        ],
+        "recipe": [],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 739,
+        "name": "Dofus Turquesa",
+        "level": 160,
+        "type": "Dofus",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/23003.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/equipos/739-dofus-turquesa",
+        "description": "El dofus Turquesa fue creado por Aguabrial, el dragón del agua. Cuando uno se para a pensar, es increíble lo que puede hacer un dragón con el agua...",
+        "statistics": [
+            {
+                "% crítico": {
+                    "min": "10"
+                }
+            },
+            {
+                "Por cada golpe crítico asestado, los daños finales aumentan un 1% durante turnos. Acumulable veces.": {
+                    "min": "1",
+                    "max": "3"
+                }
+            },
+            {
+                "emote": "Actitud Dofus Turquesa"
+            }
+        ],
+        "recipe": [],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 23408,
+        "name": "Dorigami",
+        "level": 150,
+        "type": "Dofus",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/23033.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/equipos/23408-dorigami",
+        "description": "Dicen que cada uno de los mil pliegues del dorigami esconde un misterio, el reflejo de una mentira o de una verdad dolorosa, una pureza cegadora, a semejanza de las caras de un diamante de papel.",
+        "statistics": [
+            {
+                "A la esquiva pérdidas de PM": {
+                    "min": "20"
+                }
+            }
+        ],
+        "recipe": [],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 23237,
+        "name": "Domakuro",
+        "level": 120,
+        "type": "Dofus",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/23032.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/equipos/23237-domakuro",
+        "description": "Como la luna velada por las sombrías nubes de la noche, la más viva de las luces suele esconderse en la más oscura de las tintas.",
+        "statistics": [
+            {
+                "A partir del turno 5, el lanzador gana hasta de daño durante el resto del combate.\nEste bonus se reduce cada vez que el lanzador ocasione daños durante su turno a un contrincante en cada uno de los primeros turnos del combate:\n\nNingún ataque: de daño.\nataque: de daño.\no más ataques: de daño.": {
+                    "min": "5",
+                    "max": "64"
+                }
+            },
+            {
+                "Invocaciones{~p}{~z}": {
+                    "min": "1"
+                }
+            }
+        ],
+        "recipe": [],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 694,
+        "name": "Dofus Púrpura",
+        "level": 110,
+        "type": "Dofus",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/23001.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/equipos/694-dofus-purpura",
+        "description": "Ignemikhal, el dragón de fuego, creó el dofus Púrpura, un huevo que huele a azufre que da asco... Aunque la verdad, también huele a muchas cosas más...",
+        "statistics": [
+            {
+                "Potencia (daños generales)": {
+                    "min": "80"
+                }
+            },
+            {
+                "Por cada ataque a distancia recibido, los daños finales que se ocasionan aumentan un 1% durante turno.\nLos efectos pueden acumularse veces.": {
+                    "min": "1",
+                    "max": "1"
+                }
+            },
+            {
+                "emote": "Actitud Dofus Púrpura"
+            }
+        ],
+        "recipe": [],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 15235,
+        "name": "Dotruz",
+        "level": 110,
+        "type": "Dofus",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/23019.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/equipos/15235-dotruz",
+        "description": "¿Huevo de dragón o huevo de pestruz? Quizás un poco de ambos… Después de todo, si existe el Dragocerdo, ¿por qué no podría existir una dragopestruz?",
+        "statistics": [
+            {
+                "Potencia (daños generales)": {
+                    "min": "20"
+                }
+            }
+        ],
+        "recipe": [],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 737,
+        "name": "Dofus Esmeralda",
+        "level": 100,
+        "type": "Dofus",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/23002.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/equipos/737-dofus-esmeralda",
+        "description": "El dofus Esmeralda es más verde que un tofu enfermo y fue creado por Aerafal, el dragón del aire. Seguro que este dragón se mareaba volando... Un colmo, ¿no te parece?",
+        "statistics": [
+            {
+                "Vitalidad": {
+                    "min": "200"
+                }
+            },
+            {
+                "Al final del turno, confiere el 100% del nivel del propietario en puntos de escudo por cada enemigo en CaC.\nLas invocaciones no se tienen en cuenta.": {
+                    "min": "100"
+                }
+            },
+            {
+                "emote": "Actitud Dofus Esmeralda"
+            }
+        ],
+        "recipe": [],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 13344,
+        "name": "Dolmanax",
+        "level": 100,
+        "type": "Dofus",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/23018.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/equipos/13344-dolmanax",
+        "description": "Este dofus cambia de color según las estaciones del año. Caliente y dorado en verano; frío como el hielo en invierno. Lo puso un dragón enamorado de un vendedor ambulante que se presentó en su caverna para colarle un viejo calendario.",
+        "statistics": [
+            {
+                "Suerte": {
+                    "min": "50"
+                }
+            },
+            {
+                "Inteligencia": {
+                    "min": "50"
+                }
+            },
+            {
+                "Fuerza": {
+                    "min": "50"
+                }
+            },
+            {
+                "Agilidad": {
+                    "min": "50"
+                }
+            }
+        ],
+        "recipe": [],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 16061,
+        "name": "Dofus de los vigilantes",
+        "level": 100,
+        "type": "Dofus",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/23020.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/equipos/16061-dofus-vigilantes",
+        "description": "Este dofus se creó a partir de la confusa idea del aspecto que tendría un auténtico huevo de dragón. Si lo tocas, los recuerdos hace tiempo olvidados regresarán de inmediato. Es casi como probar una tarta de Vayinklán por primera vez en muchos años. Rememora tu llegada a Incarnam, o tal vez la primera vez que asesinaste a un jalatín... ¡Ah, qué tiempos aquellos!",
+        "statistics": [
+            {
+                "Al principio del turno, devuelve el 7% de los puntos de vida a los aliados alineados.": {
+                    "min": "7"
+                }
+            }
+        ],
+        "recipe": [],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 8072,
+        "name": "Dofus kalipto",
+        "level": 100,
+        "type": "Dofus",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/23010.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/equipos/8072-dofus-kalipto",
+        "description": "Nadie sabe qué dragón puso este dofus. Se dice solamente que se tragó una gran cantidad de hojas de kalipto, antes de poner su huevo y de morirse de una terrible crisis de aerofagia.",
+        "statistics": [
+            {
+                "Prospección": {
+                    "min": "6",
+                    "max": "30"
+                }
+            }
+        ],
+        "recipe": [],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 10907,
+        "name": "Dosaurio",
+        "level": 80,
+        "type": "Dofus",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/23017.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/equipos/10907-dosaurio",
+        "description": "¡Ya está! ¡Lo has conseguido!: has participado en el mayor control de natalidad dragontina. Pero claro, como consecuencia te has tenido que atiborrar de tortillitas durante semanas.",
+        "statistics": [
+            {
+                "Prospección": {
+                    "min": "10"
+                }
+            }
+        ],
+        "recipe": [],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 17078,
+        "name": "Dokoko",
+        "level": 80,
+        "type": "Dofus",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/23022.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/equipos/17078-dokoko",
+        "description": "Los kaníbolas aseguran que el Árbol de Moon es en realidad un dragón dormido: venido de la luna, este ser inmortal habría tomado la forma de un gran kokotero para dar un poco de sombra a una princesa que sufría el calor del sol. Entonces se adormeció... ¿El dokoko, fruto del Árbol de Moon, será un auténtico dofus? De momento, tenemos nuestras dudas.",
+        "statistics": [
+            {
+                "Cada turnos a partir del turno 4, devuelve un 10% de los puntos de vida máximos.": {
+                    "min": "3",
+                    "max": "4"
+                }
+            }
+        ],
+        "recipe": [],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 972,
+        "name": "Dofus zanahowia",
+        "level": 60,
+        "type": "Dofus",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/23006.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/equipos/972-dofus-zanahowia",
+        "description": "Si un dragón hubiese puesto este huevo, tendría muy buena vista, pero seguro que no menos que el Wey Wabbit, quien lo utiliza para atraer a los aventureros a su isla, robarles todo su equipo y, si puede ser, su orgullo. Un medio ingenioso y bastante barato de conseguir sets de moda sin moverse de casa.",
+        "statistics": [
+            {
+                "Sabiduría": {
+                    "min": "60"
+                }
+            },
+            {
+                "Da de esquiva de PA si se sufre un malus de PM, o de esquiva de PM si se sufre un malus de PA. \nLos dos efectos no son acumulables y duran turno.": {
+                    "min": "25",
+                    "max": "25"
+                }
+            }
+        ],
+        "recipe": [],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 20833,
+        "name": "Dofus cacao",
+        "level": 50,
+        "type": "Dofus",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/23029.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/equipos/20833-dofus-cacao",
+        "description": "Las preocupaciones de tu vida de aventurero parecen desvanecerse cuando llevas este huevo de cacao macizo. Con él sientes los efectos del chocolate: te sientes reconfortado y, al mismo tiempo, más pesado.",
+        "statistics": [
+            {
+                "Placaje": {
+                    "min": "10"
+                }
+            }
+        ],
+        "recipe": [],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 20987,
+        "name": "Dofus cacao",
+        "level": 50,
+        "type": "Dofus",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/23029.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/equipos/20987-dofus-cacao",
+        "description": "Cierras los ojos y, de repente, las fragancias chocolateadas del huevo divino colman tus fosas nasales. Entonces llevas el objeto mítico a tus ingenuos labios, embriagado por la tentación de un placer culinario desconocido. Cuando tus papilas gustativas están inmersas en una ola de amargor, descubres a tu pesar que no todas las esencias divinas saben bien.",
+        "statistics": [
+            {
+                "Placaje": {
+                    "min": "10"
+                }
+            },
+            {
+                "Cada ataque a distancia sufrido mientras estás en cuerpo a cuerpo con un enemigo confiere una marca de chocolate.\n\nEstas marcas se consumen al final de tu turno y dan cada una un 25% de tu nivel en escudo durante turno.": {
+                    "min": "25",
+                    "max": "1"
+                }
+            }
+        ],
+        "recipe": [],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 19629,
+        "name": "Dofus plateado",
+        "level": 20,
+        "type": "Dofus",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/23025.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/equipos/19629-dofus-plateado",
+        "description": "Este huevo, creado por Rathrosk, el dragón gris, es un enigma. Aunque su poder no iguala al de un dofus primordial, parece más antiguo que el tiempo… Harías bien en guardarlo con sumo cuidado. Después de todo, solo las nordes y el dios Xelor saben lo que nos deparará el futuro.",
+        "statistics": [
+            {
+                "En cuanto el portador baja del 20% de sus puntos de vida, activa el efecto del dofus.\nAl principio de su próximo turno: cura un 20% de la vida (vez por combate).": {
+                    "min": "20",
+                    "max": "20"
+                }
+            }
+        ],
+        "recipe": [],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 7113,
+        "name": "Dofawa",
+        "level": 6,
+        "type": "Dofus",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/23009.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/equipos/7113-dofawa",
+        "description": "Este dofus se parece curiosamente a un huevo de dragopavo salvaje... Por una vez, puede que las apariencias no engañen.",
+        "statistics": [
+            {
+                "Vitalidad": {
+                    "min": "1"
+                }
+            }
+        ],
+        "recipe": [],
+        "setId": null
+    }
+]

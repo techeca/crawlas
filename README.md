@@ -10,10 +10,9 @@ Puedes encontrar los repositorios de Crawlit y Puppeteer aquí.\
 [Puppeteer](https://github.com/puppeteer/puppeteer)
 
 ## Características
-**Spanish - French - English**\
-(Español agregado)
+**Spanish - French - English**
 
-**Último update 08/08/2020**\
+**Último update 08/08/2020**
 
 **Juegos**\
 Solo `Dofus` (por el momento)
@@ -30,18 +29,35 @@ Solo `Dofus` (por el momento)
 | `Monstruos`     |   100%  |
 | `Consumibles`     |  100% |
 | `Armas`     |  100%  |
-| `Set`     |  100% (bonus total??)  |
+| `Set`     |   100%  |   
 | `Equipables`     |  100% |
 | `Merkasakos`     |  Muebles, decoracion, suelo (todo :p) |
-| `Clases`     |  Estadísticas de cada hechizo  |
+| `Clases`     |  Descripción, Estadísticas de cada hechizo por lv |
 | `Profesiones`     |  Cantidad necesaria de cada item para receta |
+
+**EN - FR no testeadas**
+
+## Data
+
+JSON Files (backups)
+
+- Mascotas
+- Idolos
+- Arreos
+- Monturas
+- Armas (Sword, Dagger, Axe, Bow, Hammer, Scythe, Shovel, Soul Stone, Staff, Tool, Wand)
+- Equipos (Amulet, Backpack, Belt, Boot, Cloak, Dofus, Helmet, Ring, Shield, Trophy)
+- Monstruos
+- Sets
+- Recursos
+- Consumibles
+- Profesiones
 
 ## Errores
 
 - Hay algunos links que están caídos o items que no tienen detalles/nombre/imagen, se rellena con datos disponibles.
 - Puede que chronium no carge la página y envíe error por timeout, solo debe intentar nuevamente.
 
-**El proceso de resumen no está testeado**\
 **No todas la categorias de Weapons y Equipments han sido testeadas**
 
 ## Instalación

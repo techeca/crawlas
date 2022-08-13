@@ -1,0 +1,3117 @@
+[
+    {
+        "_id": null,
+        "ankamaId": 12541,
+        "name": "Dragrillado",
+        "level": 100,
+        "type": "Mascotura",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/121000.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/12541-dragrillado",
+        "description": "Este dragrillado, una verdadera recompensa para los aventurero que han acabado con Grozilla y Grasmera varias veces durante su ciclo tontón, causa furor entre la población astrubiense.",
+        "statistics": [
+            {
+                "Potencia (daños generales)": {
+                    "min": "70"
+                }
+            },
+            {
+                "Invocaciones{~p}{~z}": {
+                    "min": "2"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado y Conocer la actitud"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 11950,
+        "name": "Kaniglúps",
+        "level": 80,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18073.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/11950-kaniglups",
+        "description": "Causa el terror entre las demás mascotas debido a su dentadura que haría palidecer a un vampyro. Pasó su infancia alejado de los demás y no era para nada sociable hasta que tú lo adoptaste.",
+        "statistics": [
+            {
+                "Suerte": {
+                    "min": "120"
+                }
+            },
+            {
+                "De daño{~p}{~z} de agua": {
+                    "min": "20"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": "267"
+    },
+    {
+        "_id": null,
+        "ankamaId": 11955,
+        "name": "Bulbesor",
+        "level": 80,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18074.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/11955-bulbesor",
+        "description": "Cuando sea adulta, esta mascota, a la que le encantan los abrazos, al contrario que su primo de Amakna, le dará un encantador toque frigosteño a tu hogar. Mientras tanto no parará de darte besos para demostrarte su amor.",
+        "statistics": [
+            {
+                "Fuerza": {
+                    "min": "120"
+                }
+            },
+            {
+                "De daño{~p}{~z} de tierra": {
+                    "min": "20"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": "268"
+    },
+    {
+        "_id": null,
+        "ankamaId": 11971,
+        "name": "Besosete",
+        "level": 80,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18076.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/11971-besosete",
+        "description": "Este pequeño golosote se ha escapado del laboratorio del profesor Corazón de Obsidiana y ha ido a parar a casa de la abuelita Bloide. Como esta no lo mimaba mucho, corres el riesgo de tenerlo siempre encima intentando besarte, así que no olvides ponerle crema en los labios para que no se le resequen.",
+        "statistics": [
+            {
+                "Inteligencia": {
+                    "min": "120"
+                }
+            },
+            {
+                "De daño{~p}{~z} de fuego": {
+                    "min": "20"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": "266"
+    },
+    {
+        "_id": null,
+        "ankamaId": 11966,
+        "name": "Tejaluche",
+        "level": 80,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18075.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/11966-tejaluche",
+        "description": "Este dulce tejarvelito tiene un pelo tan suave como el culo de una mamá bwork, pero no te confíes: su carácter le servía para ganarse la confianza de sus congéneres y así devorarlos tranquilamente mientras dormían. Su conducta ha mejorado desde que está a tu lado, puesto que ahora se lanza sobre cualquier criatura, esté despierta o no.",
+        "statistics": [
+            {
+                "Agilidad": {
+                    "min": "120"
+                }
+            },
+            {
+                "De daño{~p}{~z} de aire": {
+                    "min": "20"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": "269"
+    },
+    {
+        "_id": null,
+        "ankamaId": 9594,
+        "name": "Boluto del padrino",
+        "level": 60,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18046.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/9594-boluto-padrino",
+        "description": "Este boluto parece bastante normal... Pero si lo miras con atención, te dará la sensación de que su lana oscurece en distintos sitios... Dale tiempo, ¡puede que te dé una sorpresa!",
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "statusCode": "404"
+    },
+    {
+        "_id": null,
+        "ankamaId": 10544,
+        "name": "Gelutín",
+        "level": 60,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18055.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/10544-gelutin",
+        "description": "Adiestrada por su antiguo amo para comerse solo a los monstruos vivos de cerca del lago de Cania, esta criatura que parece venida de otro planeta acabó diversificando su régimen alimentario. No obstante, el aliento de blop no se le quita.",
+        "statistics": [
+            {
+                "Vitalidad": {
+                    "min": "400"
+                }
+            },
+            {
+                "De daño{~p}{~z} de empuje": {
+                    "min": "60"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 11015,
+        "name": "Gupin",
+        "level": 60,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18067.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/11015-gupin",
+        "description": "Esta extraña criatura ha atravesado los océanos a bordo de un bloque de hielo que acabó encallando en un puerto perdido. Ahora parece que te toma por otro bloque de hielo.",
+        "statistics": [
+            {
+                "Vitalidad": {
+                    "min": "400"
+                }
+            },
+            {
+                "10% resistencia neutral": {
+                    "min": "10"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 12009,
+        "name": "Orni",
+        "level": 60,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18077.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/12009-orni",
+        "description": "Tan viejo y presumido como una anutrof, y tan cariñoso como la diosa Selatrop, este orni brilla tanto de día como de noche. Los cuentos infantiles dicen que su origen está en Sufokia y cuentan que es el último vestigio de una antigua civilización, pero es algo que nunca se ha podido comprobar.",
+        "statistics": [
+            {
+                "Vitalidad": {
+                    "min": "400"
+                }
+            },
+            {
+                "Placaje": {
+                    "min": "30"
+                }
+            }
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 13603,
+        "name": "Suskrofa",
+        "level": 60,
+        "type": "Mascotura",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/121004.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/13603-suskrofa",
+        "description": "Cuentan que el suskrofa es uno de los jabalíes más ancianos del Mundo de los Doce. Unos guerreros legendarios, considerados como dioses por los cochinos jabatos, que siempre hacen gala de una rectitud ejemplar. Hace tiempo luchó contra los peores rufianes como los pandidos o los aventureros sin escrúpulos que tratan de timar a sus semejantes.",
+        "statistics": [
+            {
+                "De daño{~p}{~z} de empuje": {
+                    "min": "100"
+                }
+            },
+            {
+                "PM": {
+                    "min": "1"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 14854,
+        "name": "Hardo",
+        "level": 60,
+        "type": "Mascotura",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/121008.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/14854-hardo",
+        "description": "El hardo es muy susceptible y se enciende rápidamente. Por eso, es mejor intentar no enfadarlo si no quieres quemarte.",
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 15243,
+        "name": "Perforror",
+        "level": 60,
+        "type": "Mascotura",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/121010.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/15243-perforror",
+        "description": "Perforror es una mascotura todoterreno: es capaz de transportarte a cualquier lugar y resiste todos los climas. Sin embargo, no se parará si te caes, así que asegúrate de agarrarte bien fuerte.",
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 15978,
+        "name": "Blokus",
+        "level": 60,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18104.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/15978-blokus",
+        "description": "«¡No puedes pasar!» Estas son las palabras preferidas de esta mascota. Sin embargo, no esperes que se interponga entre tú y una muerte segura, no tiene ni el valor ni el tamaño necesarios.",
+        "statistics": [
+            {
+                "Al retiro de PM": {
+                    "min": "40"
+                }
+            },
+            {
+                "Placaje": {
+                    "min": "50"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "statusCode": "404"
+    },
+    {
+        "_id": null,
+        "ankamaId": 18088,
+        "name": "Mortiélago",
+        "level": 60,
+        "type": "Mascotura",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/121014.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/18088-mortielago",
+        "description": "El mortiélago, un murciélago gigante de aspecto estúpido, es una montura de una fidelidad extrema. Demostrará el amor que siente por ti de múltiples maneras. A veces te lamerá de los pies a la cabeza, y no dudará en chupetear y chuperretear esta última. Nunca verás animal más cariñoso, a menos que te tome por su próximo tentempié.",
+        "statistics": [
+            {
+                "Iniciativa": {
+                    "min": "2000"
+                }
+            },
+            {
+                "PA": {
+                    "min": "1"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 19044,
+        "name": "Mortiélago alabastrado",
+        "level": 60,
+        "type": "Mascotura",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/121019.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/19044-mortielago-alabastrado",
+        "description": "Su carácter atroz es inexcusable, pero no puedes evitar perdonárselo todo y darle besitos después de cada metedura de pata.",
+        "statistics": [
+            {
+                "Potencia (daños generales)": {
+                    "min": "70"
+                }
+            },
+            {
+                "De daño{~p}{~z} crítico": {
+                    "min": "40"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 9619,
+        "name": "Pekewabbit hambriento",
+        "level": 60,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18051.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/9619-pekewabbit-hambriento",
+        "description": "Esta criatura es un tanto estúpida, el único modo de hacerla avanzar es atarle a la espalda un bastón del que cuelgue una zanahowia. Afortunadamente, esta mascota ha sido bien amaestrada y no intentará sembrar el pánico.",
+        "statistics": [
+            {
+                "De resistencia{~p}{~z} al aire": {
+                    "min": "80"
+                }
+            },
+            {
+                "Potencia (daños generales)": {
+                    "min": "50"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 13465,
+        "name": "Sakóquero",
+        "level": 60,
+        "type": "Mascotura",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/121003.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/13465-sakoquero",
+        "description": "El sakóquero, primo lejano del jabalí, es algo más grande que este y, sobre todo, más robusto y muchísimo más dócil. Mientras consigas limitarte en la charcutería, cargará sin quejarse todo lo que no consigas meterte en los bolsillos, que ya tienes ridículamente llenos.",
+        "statistics": [
+            {
+                "De daño{~p}{~z} crítico": {
+                    "min": "50"
+                }
+            },
+            {
+                "PA": {
+                    "min": "1"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 13679,
+        "name": "Tukankón",
+        "level": 60,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18092.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/13679-tukankon",
+        "description": "Tukankón no solía prestar atención en la escuela de kidos. No sabes cómo actuar con él. Te hará la vida imposible, pero tiene buen fondo y te será de gran ayuda en combate y le ayudar a llenar sus lagunas. Después de todo, tú tampoco eras el primero de la clase y has conseguido salir adelante, ¿no?",
+        "statistics": [
+            {
+                "De resistencia{~p}{~z} a la tierra": {
+                    "min": "80"
+                }
+            },
+            {
+                "Potencia (daños generales)": {
+                    "min": "50"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 14833,
+        "name": "Siroko",
+        "level": 60,
+        "type": "Mascotura",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/121005.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/14833-siroko",
+        "description": "Esta mascotura planea sin problema. Es incapaz de mantener los pies en la tierra y, a menudo, sueña con grandes zonas desérticas, donde podría estar sin hacer nada sin que vinieran a molestarle aventureros sin escrúpulos que quisieran montarlo.",
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 14838,
+        "name": "Xaparón",
+        "level": 60,
+        "type": "Mascotura",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/121006.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/14838-xaparon",
+        "description": "Los xaparones y los hardos se llevan muy bien a pesar de su temperamento opuesto: mientras que un hardo suele reaccionar en caliente, un xaparón prefiere dejar pasar las cosas. Esto no impide que se moje cuando es necesario.",
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 17023,
+        "name": "Bontapata",
+        "level": 60,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18109.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/17023-bontapata",
+        "description": "Los bontarianos aprecian la fidelidad y el apego de su bontapata, que los demás encuentran particularmente pegajosa. Y es verdad que, una vez se encariña con alguien, se niega a abandonarle, ni siquiera infligiéndole las peores torturas. Esto significa que te seguirá a todas partes, ¡hasta al escusado!",
+        "statistics": [
+            {
+                "Vitalidad": {
+                    "min": "400"
+                }
+            },
+            {
+                "De resistencia{~p}{~z} a los críticos": {
+                    "min": "50"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "statusCode": "404"
+    },
+    {
+        "_id": null,
+        "ankamaId": 18626,
+        "name": "Dog",
+        "level": 60,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18120.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/18626-dog",
+        "description": "Si algún fenómeno viral se lleva por delante a la abuelita, ¡no pasa nada! El dog no dudaría un segundo en acudir en su ayuda y convertirse en su heredero universal.",
+        "statistics": [
+            {
+                "Vitalidad": {
+                    "min": "400"
+                }
+            },
+            {
+                "10% resistencia al agua": {
+                    "min": "10"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 19286,
+        "name": "Jalacástor",
+        "level": 60,
+        "type": "Mascotura",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/121021.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/19286-jalacastor",
+        "description": "El jalacástor está entrenado para la guerra desde su edad más temprana. De un simple bocado, es capaz de abrir una lata de cerveza o la cabeza de un brakmariano.",
+        "statistics": [
+            {
+                "De resistencia{~p}{~z} a los críticos": {
+                    "min": "100"
+                }
+            },
+            {
+                "De resistencia{~p}{~z} al empuje": {
+                    "min": "100"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 19531,
+        "name": "Molocán",
+        "level": 60,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18147.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/19531-molocan",
+        "description": "Este wauwau de magma originario de los volcanes de Sidimote viene de una larga estirpe de cerberos adiestrados por los uginaks. Algunas leyendas cuentan que, para avivar su ferocidad, había que sacrificar a jóvenes almas inocentes, pero esto hoy en día parece que ya no se hace.",
+        "statistics": [
+            {
+                "Vitalidad": {
+                    "min": "400"
+                }
+            },
+            {
+                "De daño{~p}{~z} crítico": {
+                    "min": "30"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 25293,
+        "name": "Tortikoli",
+        "level": 60,
+        "type": "Mascotura",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/121069.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/25293-tortikoli",
+        "description": "Un avispado vistazo lateral para anticipar el ataque enemigo, una sensación de tensión, y luego un dolor desgarrador en la base del cuello. Este se propaga a la velocidad del rayo hasta la mandíbula, te arranca un quejido de sufrimiento y te deja paralizado. Con su armadura especial y su cuello musculoso, sin duda, ¡esto no le ocurrirá a Tortikoli!",
+        "statistics": [
+            {
+                "De resistencia{~p}{~z} al empuje": {
+                    "min": "80"
+                }
+            },
+            {
+                "Placaje": {
+                    "min": "40"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 8151,
+        "name": "Boluto",
+        "level": 60,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18035.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/8151-boluto",
+        "description": "Este monstruito te seguirá a todas partes y morderá a todo el que intente aprovecharse de ti. Siempre dispuesto a cantarle las cuarenta a tus enemigos, te alegrará la vida. También podrás contar con él para evitar las noches de insomnio.",
+        "statistics": [
+            {
+                "Vitalidad": {
+                    "min": "400"
+                }
+            },
+            {
+                "A la esquiva pérdidas de PA": {
+                    "min": "30"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 9620,
+        "name": "Miniminotot",
+        "level": 60,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18049.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/9620-miniminotot",
+        "description": "Esta criatura es un minimino criado personalmente por el mismísimo Minotot, quien le ha transmitido su horrible carácter y también algo de su olor corporal, de tanto llevarlo debajo del brazo.",
+        "statistics": [
+            {
+                "De resistencia{~p}{~z} al agua": {
+                    "min": "80"
+                }
+            },
+            {
+                "Potencia (daños generales)": {
+                    "min": "50"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 9623,
+        "name": "Cocodrail",
+        "level": 60,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18047.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/9623-cocodrail",
+        "description": "No te confíes, tarde o temprano, los puntiagudos dientes de esta criatura acabarán clavados en tu trasero.",
+        "statistics": [
+            {
+                "De resistencia{~p}{~z} al fuego": {
+                    "min": "80"
+                }
+            },
+            {
+                "Potencia (daños generales)": {
+                    "min": "50"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 15110,
+        "name": "Miaumiena",
+        "level": 60,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18094.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/15110-miaumiena",
+        "description": "Si creías que habías adoptado un animal de compañía que dormitaría apaciblemente junto al fuego, vas a llevarte una sorpresa. La ferocidad de la miaumiena es inversamente proporcional a su tamaño: se la pasa mordiendo, arañando y lacerando todo lo que tiene a su alcance. También le encanta mirarte fijamente y reírse, lo que resulta hiriente.",
+        "statistics": [
+            {
+                "Invocaciones{~p}{~z}": {
+                    "min": "2"
+                }
+            },
+            {
+                "PM": {
+                    "min": "1"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 19139,
+        "name": "Cosa",
+        "level": 60,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18139.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/19139-cosa",
+        "description": "La cosa es una mano que puede pensar, escribir, actuar por sí misma. Es muy servicial por naturaleza. Se cuenta que una vez estuvo al servicio de una prestigiosa familia de Kuatropatas, los Dadams. Sin embargo, el uso que hacían de esta mano, que no se puede describir aquí por cuestiones de decoro, provocó que se escapara para encontrar un nuevo dueño menos retorcido. Ahora te ha encontrado a ti, y es muy probable que tu comportamiento no sea mejor que el de los Dadams. Qué trágico es el destino de la cosa.",
+        "statistics": [
+            {
+                "Vitalidad": {
+                    "min": "400"
+                }
+            },
+            {
+                "10% resistencia al aire": {
+                    "min": "10"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 19291,
+        "name": "Jalapólux",
+        "level": 60,
+        "type": "Mascotura",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/121022.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/19291-jalapolux",
+        "description": "El jalapólux está entrenado para la guerra desde su edad más temprana. De una simple cornada, es capaz de ensartar parrilladas o la frente de un bontariano.",
+        "statistics": [
+            {
+                "De daño{~p}{~z} crítico": {
+                    "min": "50"
+                }
+            },
+            {
+                "De daño{~p}{~z} de empuje": {
+                    "min": "80"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 6978,
+        "name": "Peki",
+        "level": 60,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18012.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/6978-peki",
+        "description": "Esta criatura se parece de lejos a un wauwau. En su cabeza hay claros signos de haber sufrido fuertes traumatismos, cuídala mucho.",
+        "statistics": [
+            {
+                "Vitalidad": {
+                    "min": "400"
+                }
+            },
+            {
+                "De daño{~p}{~z} de empuje": {
+                    "min": "60"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 7518,
+        "name": "Fotasma",
+        "level": 60,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18013.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/7518-fotasma",
+        "description": "Esta sorprendente criatura viene del más allá y no tiene pensado volver, excepto si, por desgracia, vas tú con ella...",
+        "statistics": [
+            {
+                "Vitalidad": {
+                    "min": "400"
+                }
+            },
+            {
+                "Huida": {
+                    "min": "30"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 13182,
+        "name": "Kramkram",
+        "level": 60,
+        "type": "Mascotura",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/121002.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/13182-kramkram",
+        "description": "Tiene una pinta tan ridícula como un dragopavo con armadura, pero el kramkram ofrece las mismas ventajas e incluso algunas más. Algunos criadores piensan que fue el resultado de un gen de krameleón que mutó, pero todas las tentativas de reproducción entre las dos especies han fracasado. Quizás sea Otomai quien creó la especie, pero aún no se ha pronunciado al respecto.",
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 14827,
+        "name": "Kwalteza",
+        "level": 60,
+        "type": "Mascotura",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/121009.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/14827-kwalteza",
+        "description": "El kwalteza sabrá satisfacer tu gusto por el lujo: sus plumas adherentes al viento y la silla de cuero te darán una experiencia de vuelo única. La única condición es que sepas colmar sus caprichos: el señorito kwak no duerme en un nido cualquiera, que lo sepas.",
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 15254,
+        "name": "Perforábil",
+        "level": 60,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18097.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/15254-perforabil",
+        "description": "Perforábil tiene un talento innato para encontrar el camino, sobre todo en Anutropía, donde no se le escapa ni uno solo de esos olores tan conocidos. En otras palabras: te será muy útil para vagabundear entre los montones de oro del dios Anutrof.",
+        "statistics": [
+            {
+                "PM": {
+                    "min": "1"
+                }
+            },
+            {
+                "Alcance": {
+                    "min": "2"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 15469,
+        "name": "Jamlet",
+        "level": 60,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18099.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/15469-jamlet",
+        "description": "Desde hace generaciones, todos los miembros de la familia Jamlet son sirvientes de un poderoso nigromante. Son tan abnegados, que siguen sirviendo a su amo después de morir, en forma de cráneos parlantes. Muertos o vivos, son fieles a su compromiso. Ser o no ser, he ahí la cuestión que no se hacen los Jamlet.",
+        "statistics": [
+            {
+                "Vitalidad": {
+                    "min": "400"
+                }
+            },
+            {
+                "A la esquiva pérdidas de PM": {
+                    "min": "30"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 25292,
+        "name": "Tae'Niak",
+        "level": 60,
+        "type": "Mascotura",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/121070.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/25292-tae-niak",
+        "description": "Las larvas de esta encantadora criatura, Tae'Niak, se esconden en la carne poco hecha de la que se alimentan los kar'draks, los barcos demoníacos. Crecen en el estómago de los pobres que cometen el error de comérsela. En todo caso, eso es lo que los padres bworks les cuentan a sus hijos para que no se metan en la boca todo lo que encuentran, ya sea viejas carcasas secas o las orejas de sus compañeritos. No olvides que cuando se come cualquier cosa, uno se vuelve un cualquiera.",
+        "statistics": [
+            {
+                "Invocaciones{~p}{~z}": {
+                    "min": "2"
+                }
+            },
+            {
+                "De daño{~p}{~z} de fuego": {
+                    "min": "15"
+                }
+            },
+            {
+                "De daño{~p}{~z} de aire": {
+                    "min": "15"
+                }
+            },
+            {
+                "De daño{~p}{~z} de tierra": {
+                    "min": "15"
+                }
+            },
+            {
+                "De daño{~p}{~z} de agua": {
+                    "min": "15"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 12133,
+        "name": "Serpeta",
+        "level": 60,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18079.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/12133-serpeta",
+        "description": "Serpeta no ha tenido una vida fácil. Además de haber sido repudiada por sus congéneres por tener solo un ojo, también tiene un único colmillo. Aunque este le resulta muy práctico para atrapar flores, plantas y los cráneos de todos los que se rieron de ella.",
+        "statistics": [
+            {
+                "De resistencia{~p}{~z} al neutro": {
+                    "min": "80"
+                }
+            },
+            {
+                "Potencia (daños generales)": {
+                    "min": "50"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 12177,
+        "name": "Tofuma",
+        "level": 60,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18078.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/12177-tofuma",
+        "description": "Por muy contradictorio que parezca, tofuma es un amable tofu maléfico. Sin piedad ni remordimiento, exterminará contigo a todo lo que repte, vuele o nade, y se deleitará con ello. Dime con quién andas y te diré quién eres: tú tienes la misma definición de amabilidad, así que es normal que hayáis simpatizado.",
+        "statistics": [
+            {
+                "Vitalidad": {
+                    "min": "400"
+                }
+            },
+            {
+                "De daño{~p}{~z} crítico": {
+                    "min": "30"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 12963,
+        "name": "Dekarbón",
+        "level": 60,
+        "type": "Mascotura",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/121001.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/12963-dekarbon",
+        "description": "Este fiel compañero de los duendes que recorren la taiga siempre tiene hambre, algo que hace que esté continuamente irritable.",
+        "statistics": [
+            {
+                "Prospección": {
+                    "min": "120"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 14848,
+        "name": "Kompost",
+        "level": 60,
+        "type": "Mascotura",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/121007.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/14848-kompost",
+        "description": "Al revés que los sirokos, un kompost está muy apegado a la tierra. Sin duda, es el compañero ideal para los que tienen la cabeza en las nubes: sabrá devolverte a la realidad, aunque tenga que usar la fuerza para ello.",
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 16295,
+        "name": "Peluso",
+        "level": 60,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18108.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/16295-peluso",
+        "description": "Fruto de los experimentos del doctor Morros, el peluso nace de varios cruces entre miaumiaus de angora y dientes de león diabólicos. Su carácter simpático, heredado de los originales, les ha costado más de una yopukada.",
+        "statistics": [
+            {
+                "Vitalidad": {
+                    "min": "400"
+                }
+            },
+            {
+                "A la esquiva pérdidas de PA": {
+                    "min": "30"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 17379,
+        "name": "Pekenacuajo",
+        "level": 60,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18113.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/17379-pekenacuajo",
+        "description": "Los pekenacuajos son los animales más curiosos del Mundo de los Doce. Tienen una pinta especialmente ridícula con esos ojos saltones y la cabeza plana. No obstante, la cresta espinosa y su larga cola hacen pensar en un animal feroz. Tantas contradicciones para una bichito tan pequeñito...",
+        "statistics": [
+            {
+                "Vitalidad": {
+                    "min": "400"
+                }
+            },
+            {
+                "10% resistencia a la tierra": {
+                    "min": "10"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 17833,
+        "name": "Pekatcham",
+        "level": 60,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18117.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/17833-pekatcham",
+        "description": "A menudo, los pekatchams se confunden con ratas por culpa de su cola, sus largas orejas y su cuerpo sin pelo. Pero solo tienes que adoptar uno para darte cuenta de que el pequeño depredador con patas no tiene nada que ver con un roedor. Más cariñoso que ninguno, le encantará lamerte la cara y entonces descubrirás que los pekatchams sí que tienen pelo.",
+        "statistics": [
+            {
+                "Vitalidad": {
+                    "min": "400"
+                }
+            },
+            {
+                "A la esquiva pérdidas de PM": {
+                    "min": "30"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "statusCode": "404"
+    },
+    {
+        "_id": null,
+        "ankamaId": 25047,
+        "name": "Berlo camiauleón",
+        "level": 40,
+        "type": "Mascotura",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/121065.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/25047-berlo-camiauleon",
+        "description": "Berlo es el rey de los juegos de azar. Lo ha visto todo, lo ha hecho todo y ha sabido escalar hasta la cima de la gran pirámide de los jugadores. Si te lanza un desafío, será mejor que huyas porque tus probabilidades de vencerle son extremadamente bajas. Sin embargo, la victoria tendría un sabor mucho más dulce.",
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 25787,
+        "name": "Sherajah poseída",
+        "level": 40,
+        "type": "Mascotura",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/121073.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/25787-sherajah-poseida",
+        "description": "Durante una charla con un famoso fantasma, has sabido de la existencia de una chtigresa cuyas llamas solo rivalizaban con su presencia. Si domas a Sherajah, te acompañará en tu búsqueda de poder, impregnándose ella también de él.",
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 25034,
+        "name": "Mally",
+        "level": 40,
+        "type": "Mascotura",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/121067.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/25034-mally",
+        "description": "Mally es valiente e independiente. Aunque le gusta que le dejen tranquilo, siempre está dispuesto a socorrer a un alma en peligro. Sin importar las pruebas que se interpongan en su camino, siempre sabrá superarlas y salir vencedor de ellas. Y cuando se trata del casino, suele salir de él con un buen pellizco.",
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 25038,
+        "name": "Quesa",
+        "level": 40,
+        "type": "Mascotura",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/121066.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/25038-quesa",
+        "description": "Quesa tiene un pedigrí que hace palidecer a todos los miaumiaus callejeros que se pasean por Zurcarák City. Su elegancia y su clase le permiten ser recibida como una reina en los lugares más prestigiosos. Toda una suerte para los que la acompañan.",
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 25788,
+        "name": "Sherajah demoníaca",
+        "level": 40,
+        "type": "Mascotura",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/121073.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/25788-sherajah-demoniaca",
+        "description": "Durante una charla con un famoso fantasma, has sabido de la existencia de una chtigresa cuyas llamas solo rivalizaban con su presencia. Si domas a Sherajah, te acompañará en tu búsqueda de poder, impregnándose ella también de él.",
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 25786,
+        "name": "Sherajah enardecida",
+        "level": 40,
+        "type": "Mascotura",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/121072.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/25786-sherajah-enardecida",
+        "description": "Durante una charla con un famoso fantasma, has sabido de la existencia de una chtigresa cuyas llamas solo rivalizaban con su presencia. Si domas a Sherajah, te acompañará en tu búsqueda de poder, impregnándose ella también de él.",
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 25789,
+        "name": "Sherajah espectral",
+        "level": 40,
+        "type": "Mascotura",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/121074.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/25789-sherajah-espectral",
+        "description": "Durante una charla con un famoso fantasma, has sabido de la existencia de una chtigresa cuyas llamas solo rivalizaban con su presencia. Si domas a Sherajah, te acompañará en tu búsqueda de poder, impregnándose ella también de él.",
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 25785,
+        "name": "Sherajah liberada",
+        "level": 40,
+        "type": "Mascotura",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/121072.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/25785-sherajah-liberada",
+        "description": "Durante una charla con un famoso fantasma, has sabido de la existencia de una chtigresa cuyas llamas solo rivalizaban con su presencia. Si domas a Sherajah, te acompañará en tu búsqueda de poder, impregnándose ella también de él.",
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 25043,
+        "name": "Quesa camiauleón",
+        "level": 40,
+        "type": "Mascotura",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/121066.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/25043-quesa-camiauleon",
+        "description": "Quesa tiene un pedigrí que hace palidecer a todos los miaumiaus callejeros que se pasean por Zurcarák City. Su elegancia y su clase le permiten ser recibida como una reina en los lugares más prestigiosos. Toda una suerte para los que la acompañan.",
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 25045,
+        "name": "Berlo",
+        "level": 40,
+        "type": "Mascotura",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/121065.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/25045-berlo",
+        "description": "Berlo es el rey de los juegos de azar. Lo ha visto todo, lo ha hecho todo y ha sabido subir a la cima de la gran pirámide de los jugadores. Si te lanza un desafío, será mejor que huyas porque tus probabilidades de vencerle son extremadamente bajas. Sin embargo, la victoria tendría un sabor mucho más dulce.",
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 1748,
+        "name": "Wabbit",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18007.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/1748-wabbit",
+        "description": "Este pequeño wabbit es doméstico, así que no te morderá. Sin embargo, los demás...",
+        "statistics": [
+            {
+                "Potencia (daños generales)": {
+                    "min": "70"
+                }
+            },
+            {
+                "De resistencia{~p}{~z} a los críticos": {
+                    "min": "100"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 7523,
+        "name": "Miaumiau pelirroja",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18040.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/7523-miaumiau-pelirroja",
+        "description": "A esta adorable criatura pelirroja le gusta levantarte al amanecer para ir a saltar bajo los rayos anaranjados del sol naciente. Bendecida por la diosa Nixie, es capaz de comer unas cantidades increíbles de galletas sin engordar ni un solo pod.",
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 8561,
+        "name": "Bebé pandawa",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18042.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/8561-bebe-pandawa",
+        "description": "A este entrañable bebé pandawa le encantará seguirte a todos sitios para descubrir el mundo con sus ojazos redonditos.",
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 8677,
+        "name": "Ross",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18044.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/8677-ross",
+        "description": "Este magnífico cunejo es la mascota preferida del famoso Maestro Negro Jack. No es lo que parece, puede ser un temible adversario en combate.",
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 10865,
+        "name": "Tofucilazo",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18060.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/10865-tofucilazo",
+        "description": "A este tofu ya le han caído 11 rayos en la cabeza. Si lo acaricias te dará calambres, pero si no lo acaricias, es capaz de fulminarte... ¡Tú eliges!",
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 11765,
+        "name": "Cromiñoncito",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18068.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/11765-crominoncito",
+        "description": "Esta bola de pelos, además de causar picazón, detesta que la acaricien a contrapelo. Se aconseja no tocarle un solo pelo, o terminará tomándote el pelo.",
+        "statistics": [
+            {
+                "Inteligencia": {
+                    "min": "120"
+                }
+            },
+            {
+                "Fuerza": {
+                    "min": "120"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 11858,
+        "name": "Gwan tofu gowdinflón",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18072.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/11858-gwan-tofu-gowdinflon",
+        "description": "Este tofu se cayó en una marmita de queso cuando era pequeño. Desde entonces está un poco rellenito y sufre constantemente las burlas de otros tofus. Pero no importa, porque ha decidido aceptarse como es y comer todos los recursos que le pongan por delante.",
+        "statistics": [
+            {
+                "Potencia (daños generales)": {
+                    "min": "70"
+                }
+            },
+            {
+                "Al retiro de PM": {
+                    "min": "40"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "statusCode": "404"
+    },
+    {
+        "_id": null,
+        "ankamaId": 13667,
+        "name": "Bulbeskeje",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18089.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/13667-bulbeskeje",
+        "description": "Como su nombre indica, bulbeskeje ha sido creada mediante el sistema de reproducción de plantas por esquejes, lo que significa que es un clon genéticamente idéntico a su madre. Entonces, ¿por qué no se parece a ningún otro bulbo? Decidida a resolver el misterio de sus orígenes, se le ha metido en la cabeza recorrer el Mundo de los Doce para tomar todas las muestras posibles de todo lo que se mueve. Si estos los especímenes no sobreviven al proceso, da igual: ¡es en aras de la ciencia!",
+        "statistics": [
+            {
+                "Pod{~ps}{~zs}": {
+                    "min": "2000"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 15249,
+        "name": "Snoofle",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18098.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/15249-snoofle",
+        "description": "Esta mascota funciona como un detector de kamas y algunos establecimientos exigen que sus clientes se dejen «snooflar» antes de entrar para estar seguros de que tienen con qué pagar. Sin embargo, también puede ser traicionera: si un mendigo te intercepta, intenta ser honesto por una vez.",
+        "statistics": [
+            {
+                "Prospección": {
+                    "min": "120"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 25780,
+        "name": "Sherajah leal",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18232.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/25780-sherajah-leal",
+        "description": "Durante una charla con un famoso fantasma, has sabido de la existencia de una chtigresa cuyas llamas solo rivalizaban con su presencia. Si domas a Sherajah, te acompañará en tu búsqueda de poder, impregnándose ella también de él.",
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 25781,
+        "name": "Sherajah fiel",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18232.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/25781-sherajah-fiel",
+        "description": "Durante una charla con un famoso fantasma, has sabido de la existencia de una chtigresa cuyas llamas solo rivalizaban con su presencia. Si domas a Sherajah, te acompañará en tu búsqueda de poder, impregnándose ella también de él.",
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 2074,
+        "name": "Bwak de fuego",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18003.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/2074-bwak-fuego",
+        "description": "Este pequeño y adorable bwak se convertirá, más adelante, en un terrible kwak. Por el momento, no debes tener miedo de tenerlo a tu lado.",
+        "statistics": [
+            {
+                "25% resistencia al fuego": {
+                    "min": "25"
+                }
+            },
+            {
+                "Potencia (daños generales)": {
+                    "min": "50"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": "2"
+    },
+    {
+        "_id": null,
+        "ankamaId": 2077,
+        "name": "Bwak de tierra",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18005.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/2077-bwak-tierra",
+        "description": "Este pequeño y adorable bwak se convertirá, más adelante, en un terrible kwak. Por el momento, no debes tener miedo de tenerlo a tu lado.",
+        "statistics": [
+            {
+                "25% resistencia a la tierra": {
+                    "min": "25"
+                }
+            },
+            {
+                "Potencia (daños generales)": {
+                    "min": "50"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": "14"
+    },
+    {
+        "_id": null,
+        "ankamaId": 7414,
+        "name": "Pequeño miaumiau blanco",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18009.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/7414-pequeno-miaumiau-blanco",
+        "description": "Esta bolita de pelo araña, muerde y pellizca hasta la mano que le da de comer. Sí, es una criatura aterradora, pero, al mismo tiempo, es irresistiblemente encantadora y fascinante. Todo parecido con personas del género femenino no será fortuita.",
+        "statistics": [
+            {
+                "Iniciativa": {
+                    "min": "2000"
+                }
+            },
+            {
+                "A la esquiva pérdidas de PA": {
+                    "min": "50"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 7524,
+        "name": "Miaumiau atigrado",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18041.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/7524-miaumiau-atigrado",
+        "description": "Esta sorprendente criatura es el resultado del cruce entre un miaumiau blanco y un miaumiau negro.",
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 7703,
+        "name": "Cuerbokito Feo",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18018.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/7703-cuerbokito-feo",
+        "description": "Este oscuro pájaro es famoso sobre todo por lo mucho que le gustan los cementerios y porque le gustan todavía más los aventureros de piel blanca. Con su enorme pico suele romper los huesos de los que se encuentran en sus tumbas.",
+        "statistics": [
+            {
+                "Prospección": {
+                    "min": "120"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": "8"
+    },
+    {
+        "_id": null,
+        "ankamaId": 7710,
+        "name": "Piotín rosa",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18024.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/7710-piotin-rosa",
+        "description": "Este pequeño piotín no es como los demás píos, basta con observar su color para darse cuenta de ello. En cambio, comparte con los demás píos la manía de picotear traseros. Al parecer, a algunos les gusta…",
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 7711,
+        "name": "Piotín rojo",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18025.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/7711-piotin-rojo",
+        "description": "Este pequeño piotín no es como los demás píos, basta con observar su color para darse cuenta de ello. En cambio, comparte con los demás píos la manía de picotear traseros. Al parecer, a algunos les gusta…",
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 7911,
+        "name": "Koalak sanguíneo",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18030.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/7911-koalak-sanguineo",
+        "description": "Este pequeño koalak tiene un aspecto inofensivo, pero las mata callando. Durante su tierna infancia fue martirizado, pues recibió numerosos bumeranes en los dientes o, incluso, en las nalgas. Desde entonces, odia con todas sus fuerzas los bumeranes y le ha tomado un gusto a la violencia que solo es comparable a tu propia sed de sangre.",
+        "statistics": [
+            {
+                "Potencia (daños generales)": {
+                    "min": "70"
+                }
+            },
+            {
+                "Al retiro de PA": {
+                    "min": "40"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": "46"
+    },
+    {
+        "_id": null,
+        "ankamaId": 8693,
+        "name": "Feanor",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18045.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/8693-feanor",
+        "description": "Gracias a esta mascota, cualquier persona del sexo opuesto te hará ojitos. Un consejo: ándate con pies de plomo, ya que pronto te darás cuenta de que, en realidad, Feanor ha hipnotizado a tu supuesto pretendiente. Y no creas que podrás aprovecharte de la situación, ahora tu pretendiente come pischis crudo frotándose contra tus piernas... No es un comportamiento muy glamuroso, que digamos.",
+        "statistics": [
+            {
+                "Potencia (daños generales)": {
+                    "min": "50"
+                }
+            },
+            {
+                "PA": {
+                    "min": "1"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 10107,
+        "name": "Murciego",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18054.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/10107-murciego",
+        "description": "Esta mascota ha tenido una infancia muy difícil, ya que heredó un nombre realmente estúpido. Quizás eso explique sus golpes de calor y su humor un tanto volátil... Y como tú tienes los mismos problemas que él, se ha encariñado contigo. Desde entonces, no se aparta de ti ni un segundo, decidido a recorrer el Mundo de los Doce en tu compañía.",
+        "statistics": [
+            {
+                "Pod{~ps}{~zs}": {
+                    "min": "2000"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 10802,
+        "name": "Dragún dorado",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18057.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/10802-dragun-dorado",
+        "description": "Más dorado que los dragunes negros, menos rosa que los dragunes rosas, y más raro que los dragunes esqueleto… con este dragún serás el centro de todas las miradas, incluso siendo más feo que un pío.",
+        "statistics": [
+            {
+                "A la esquiva pérdidas de PA": {
+                    "min": "40"
+                }
+            },
+            {
+                "Alcance": {
+                    "min": "2"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": "151"
+    },
+    {
+        "_id": null,
+        "ankamaId": 10864,
+        "name": "Miscaludo",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18059.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/10864-miscaludo",
+        "description": "Éste no es un champi champ como los demás. Se crió junto a una jauría de medilubos, aunque eso no explica por qué tiene tantos pelos en el sobaco...",
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 11011,
+        "name": "Pekefux atigrado",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18063.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/11011-pekefux-atigrado",
+        "description": "Aún más loco que los pekefux normales, pero sobre todo menos pelirrojo. A esta mascota podrás hacerle ahogadillas sin tener que taparle la nariz.",
+        "statistics": [
+            {
+                "Prospección": {
+                    "min": "120"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 11012,
+        "name": "Wauwau atigrado",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18064.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/11012-wauwau-atigrado",
+        "description": "No porque sea atigrado va a dejar de husmearte el trasero y de tener algún «accidente» que otro en la alfombra del salón. ¿Qué le vamos a hacer?",
+        "statistics": [
+            {
+                "A la esquiva pérdidas de PA": {
+                    "min": "50"
+                }
+            },
+            {
+                "PA": {
+                    "min": "1"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 11013,
+        "name": "Kuakuá negro",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18065.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/11013-kuakua-negro",
+        "description": "Este pequeño kuakuá negro fue repudiado por su familia por ser diferente: le gustaban las canciones del juglar Badiz Mismal. Quizás fue simplemente un incomprendido...",
+        "statistics": [
+            {
+                "Al retiro de PA": {
+                    "min": "40"
+                }
+            },
+            {
+                "Huida": {
+                    "min": "50"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 11771,
+        "name": "Fridusa",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18069.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/11771-fridusa",
+        "description": "Es inútil preguntar por qué...simplemente ¡flota!",
+        "statistics": [
+            {
+                "De cura{~p}{~z}": {
+                    "min": "50"
+                }
+            },
+            {
+                "Al retiro de PM": {
+                    "min": "40"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 12982,
+        "name": "Raratontilla",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18082.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/12982-raratontilla",
+        "description": "Raratontilla es la vegetariana más voraz de toda Amakna. Entre sus pasatiempos favoritos podemos contar hacer que sus enemigos le den de comer a las larvas, mandarlos a criar rosas demoníacas, para luego degustarlos acompañados de una ensalada de champi champ y de aceite de girasol salvaje. Para que luego digamos que los carnívoros son sanguinarios...",
+        "statistics": [
+            {
+                "Iniciativa": {
+                    "min": "2000"
+                }
+            },
+            {
+                "Alcance": {
+                    "min": "2"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 14545,
+        "name": "Fosfo",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/164020.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/14545-fosfo",
+        "description": "Afortunadamente para ti, este fosfo es uno de los pocos wabbits creados en los laboratorios abandonados que no es nocivo para el ser humano, al menos, a corto plazo. En cualquier caso, te puede servir como lamparita para la mesa de noche.",
+        "statistics": [
+            {
+                "Pod{~ps}{~zs}": {
+                    "min": "2000"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "statusCode": "404"
+    },
+    {
+        "_id": null,
+        "ankamaId": 17511,
+        "name": "Minikornio",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18114.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/17511-minikornio",
+        "description": "Por muchos besitos de colorines que le des con todo tu superamor a tu minikornio, solo con eso no lo alimentarás.",
+        "statistics": [
+            {
+                "A la esquiva pérdidas de PM": {
+                    "min": "40"
+                }
+            },
+            {
+                "Invocaciones{~p}{~z}": {
+                    "min": "2"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 25020,
+        "name": "Mira camiauleón",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18221.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/25020-mira-camiauleon",
+        "description": "Si no te dejas engañar por su adorable apariencia, Mira sabe ser mala y no deja a nadie indiferente. Si decide tomarla contigo, lo recordarás durante mucho tiempo, así que ten cuidado.",
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 25024,
+        "name": "Luss",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18222.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/25024-luss",
+        "description": "A Luss le gusta buscar pelea. Si lo pierdes de vista, es posible que se meta en problemas. Esta tendencia a la violencia podría resultar útil si Luss no fuera tan pequeño como una gaficha de casino.",
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 25783,
+        "name": "Sherajah indomable",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18233.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/25783-sherajah-indomable",
+        "description": "Durante una charla con un famoso fantasma, has sabido de la existencia de una chtigresa cuyas llamas solo rivalizaban con su presencia. Si domas a Sherajah, te acompañará en tu búsqueda de poder, impregnándose ella también de él.",
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 2075,
+        "name": "Bwak de agua",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18002.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/2075-bwak-agua",
+        "description": "Este pequeño y adorable bwak se convertirá, más adelante, en un terrible kwak. Por el momento, no debes tener miedo de tenerlo a tu lado.",
+        "statistics": [
+            {
+                "25% resistencia al agua": {
+                    "min": "25"
+                }
+            },
+            {
+                "Potencia (daños generales)": {
+                    "min": "50"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": "13"
+    },
+    {
+        "_id": null,
+        "ankamaId": 6717,
+        "name": "Wauwau negro",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18010.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/6717-wauwau-negro",
+        "description": "Con este perrete, disfrutarás de los paseítos para que haga pipí. Ha sido criado con raíces salvajes, te desaconsejamos darle de comer, si no quieres perder una mano.",
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 7519,
+        "name": "Dragún rosa",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18014.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/7519-dragun-rosa",
+        "description": "Este pequeño dragón tiene la piel tan rosada como las nalgas de una hembra bwork. Una buena forma de hacerte soñar sin gasto ni riesgo algunos, o simplemente darte buenos recuerdos. Afortunadamente para él, este dragón no solo será el objeto de tus fantasías, sino que, sobre todo, es una criatura muy poderosa y sabia. Igualmente, ten cuidado, su voracidad solo es comparable a la maldad de un chafer las noche de luna llena.",
+        "statistics": [
+            {
+                "Al retiro de PA": {
+                    "min": "40"
+                }
+            },
+            {
+                "Huida": {
+                    "min": "50"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 7522,
+        "name": "Minimino",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18021.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/7522-minimino",
+        "description": "Este bebé minotauroro está domesticado y lavado. Puedes acercarte y acariciarlo, sin arriesgarte a perder una mano. Pero sé prudente, a veces la naturaleza vuelve al estado salvaje y puede que el instinto destructivo de esta criatura lo domine en el momento menos esperado. Evita malas sorpresas, educándolo como a tu propio hijo, a garrotazos.",
+        "statistics": [
+            {
+                "Potencia (daños generales)": {
+                    "min": "70"
+                }
+            },
+            {
+                "Al retiro de PA": {
+                    "min": "40"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 7705,
+        "name": "Leopardo",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18027.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/7705-leopardo",
+        "description": "Esta magnífica criatura es un primo lejano de los célebres zollos de la isla de los wabbits. Más temerario y al mismo tiempo mucho más indisciplinado: podrá ayudarte durante tus combates, aunque te demostrará una picardía sin nombre si no te ocupas bien de él.",
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 7706,
+        "name": "Bilby",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18043.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/7706-bilby",
+        "description": "Bilby, también conocido por su verdadero nombre, Bilbiblabalú, es una pequeña gelatina en busca de aventuras. Es muy buena amiga de Vald y posee poderes notables al menos, proporcionalmente a su tamaño.",
+        "statistics": [
+            {
+                "De cura{~p}{~z}": {
+                    "min": "50"
+                }
+            },
+            {
+                "Placaje": {
+                    "min": "50"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 7892,
+        "name": "Willy, el Plasta",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18029.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/7892-willy-plasta",
+        "description": "Willy, el Plasta, es una criatura vil de verdad. Parece ser que su infancia fue especialmente difícil. Te acompañará donde vayas y hará huir a todos tus amigos.",
+        "statistics": [
+            {
+                "Inteligencia": {
+                    "min": "120"
+                }
+            },
+            {
+                "Agilidad": {
+                    "min": "120"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 8211,
+        "name": "Walk",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18038.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/8211-walk",
+        "description": "Obviamente, esta criatura se escapó de un zoológico o de alguna isla lejana. Su gran particularidad a veces la misma que la de su amo reside en que le huele el aliento a pescado podrido. Te aconsejamos que le cierres el pico, aunque el martillo y los clavos se vendan por separado.",
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 9624,
+        "name": "Dragún negro",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18048.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/9624-dragun-negro",
+        "description": "Toma un dragún rosa, tíñelo de negro, decóralo con polvo de oro, mételo en un baño de aceite y, por último, en un baño de agua: obtendrás un dragún negro.",
+        "statistics": [
+            {
+                "Potencia (daños generales)": {
+                    "min": "70"
+                }
+            },
+            {
+                "A la esquiva pérdidas de PM": {
+                    "min": "50"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 9785,
+        "name": "Fab'huritu de Rushu",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18052.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/9785-fab-huritu-rushu",
+        "description": "Este demonio menor, recién salido de la Fab'hugruta, te acompañará durante todos tus viajes: del zaap de Astrub al cementerio, y hasta del cementerio al zaap de Astrub. Al igual que todos sus semejantes y al igual que tú solo tiene una obsesión: destruir hasta que no quede nada más.",
+        "statistics": [
+            {
+                "Iniciativa": {
+                    "min": "2000"
+                }
+            },
+            {
+                "Invocaciones{~p}{~z}": {
+                    "min": "2"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 11104,
+        "name": "Kuakuá mejorado",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18008.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/11104-kuakua-mejorado",
+        "description": "La estupidez del kuakuá sobrepasa la del tofu, la del jalató y hasta la de los yopukas.",
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 11777,
+        "name": "Ardilla de las nieves",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18070.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/11777-ardilla-nieves",
+        "description": "Esta pequeña mascota cuidará de tus avellanas escondiéndolas en alguna parte. Di adiós si luego quieres encontrarlas porque siempre se olvida de dónde las ha escondido. Esta preferida.",
+        "statistics": [
+            {
+                "Suerte": {
+                    "min": "120"
+                }
+            },
+            {
+                "De daño{~p}{~z} de empuje": {
+                    "min": "80"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 12975,
+        "name": "Tofu helado",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18081.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/12975-tofu-helado",
+        "description": "Este tofu helado tiene un pico que le permite diferencias las bobolas de nieve. Cansado de la isla de los duendes y de los cantos de Nawidad, ha decidido seguirte para descubrir nuevos horizontes. ¿No crees que su presencia a tu lado es el más maravilloso de los regalos?",
+        "statistics": [
+            {
+                "Iniciativa": {
+                    "min": "2000"
+                }
+            },
+            {
+                "Huida": {
+                    "min": "50"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 12988,
+        "name": "Escarakiri",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18083.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/12988-escarakiri",
+        "description": "Los escarakiris tienen una noción del honor un tanto extremista. No soportan la agresividad injustificada de sus hermanos de la Isla del Minotauroro, así que se han resignado a servirte para expiar los errores de sus semejantes y restablecer el honor de su larga línea de honorables escaratos. En caso de fracaso, solo les quedará la muerte.",
+        "statistics": [
+            {
+                "Inteligencia": {
+                    "min": "120"
+                }
+            },
+            {
+                "De daño{~p}{~z} de empuje": {
+                    "min": "80"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 12994,
+        "name": "Kejicón",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18084.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/12994-kejicon",
+        "description": "Kejicón es el más pequeño de todos los raúl mops, y lo lleva fatal. Incluso los pischis son más grandes que él y se aprovechan para hacerle pasar vergüenza. Quejándose sin cesar de quienes le insultan, ha decidido mostrarles que el tamaño no importa: lo importante, cuando uno se quiere hacer respetar, es convertirse en el mejor amigo de un bruto.",
+        "statistics": [
+            {
+                "Potencia (daños generales)": {
+                    "min": "70"
+                }
+            },
+            {
+                "A la esquiva pérdidas de PA": {
+                    "min": "50"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 13071,
+        "name": "Mekrangrejo",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18087.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/13071-mekrangrejo",
+        "description": "Mekrangrejo es el fruto de la primera tentativa para crear una forma de vida completamente mecánica. Como todos los seres creados mediante experiementos un poco disparatados, mekrangrejo no salió bien. Obsesionado con la búsqueda del sentido de su vida, tan artificial como pueda ser, está convencido de que le ayudarás a encontrar respuestas, tú que pasas tanto tiempo muriéndote en bucle sin hacerte preguntas.",
+        "statistics": [
+            {
+                "Fuerza": {
+                    "min": "120"
+                }
+            },
+            {
+                "Agilidad": {
+                    "min": "120"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 13673,
+        "name": "Lokulto",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18091.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/13673-lokulto",
+        "description": "Lokulto es un tipo de kasrakol apasionado por las ciencias ocultas. El no tener manos no lo ayuda a hacer encantamientos, así que no es muy peligroso que digamos.",
+        "statistics": [
+            {
+                "% crítico": {
+                    "min": "15"
+                }
+            },
+            {
+                "De daño{~p}{~z} crítico": {
+                    "min": "40"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 14433,
+        "name": "Moskitorro",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18093.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/14433-moskitorro",
+        "description": "Los moskitos normales siempre se han burlado de los moskitorros por su corpulencia. Ahora, han decidido abandonarlos para vivir la vida como mejor les parece. Tu moskitorro cuenta contigo para vengarse de este mundo cruel que no acepta la diferencia. Pero no deja de ser un moskito, así que corres el riesgo de que te deje algunos recuerdos, irritantes, de los momentos que paséis juntos.",
+        "statistics": [
+            {
+                "Potencia (daños generales)": {
+                    "min": "70"
+                }
+            },
+            {
+                "Al retiro de PA": {
+                    "min": "40"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 25018,
+        "name": "Mira",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18221.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/25018-mira",
+        "description": "Si no te dejas engañar por su adorable apariencia, Mira sabe ser mala y no deja a nadie indiferente. Si decide tomarla contigo, lo recordarás durante mucho tiempo, así que ten cuidado.",
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 25782,
+        "name": "Sherajah rebelde",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18233.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/25782-sherajah-rebelde",
+        "description": "Durante una charla con un famoso fantasma, has sabido de la existencia de una chtigresa cuyas llamas solo rivalizaban con su presencia. Si domas a Sherajah, te acompañará en tu búsqueda de poder, impregnándose ella también de él.",
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 1728,
+        "name": "Miaumiau",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18001.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/1728-miaumiau",
+        "description": "Esta bolita de pelo bribona y cariñosa ha engatusado a más de una chica sin distinción de clases, un temible animal, vaya.",
+        "statistics": [
+            {
+                "Potencia (daños generales)": {
+                    "min": "70"
+                }
+            },
+            {
+                "Huida": {
+                    "min": "40"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 2076,
+        "name": "Bwak de aire",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18004.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/2076-bwak-aire",
+        "description": "Este pequeño y adorable bwak se convertirá, más adelante, en un terrible kwak. Por el momento, no debes tener miedo de tenerlo a tu lado.",
+        "statistics": [
+            {
+                "25% resistencia al aire": {
+                    "min": "25"
+                }
+            },
+            {
+                "Potencia (daños generales)": {
+                    "min": "50"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": "15"
+    },
+    {
+        "_id": null,
+        "ankamaId": 6718,
+        "name": "Miaumiau blanco",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18009.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/6718-miaumiau-blanco",
+        "description": "Esta bolita de pelo bribona y cariñosa ha engatusado a más de una chica sin distinción de clases, un temible animal, vaya.",
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 7712,
+        "name": "Piotín verde",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18026.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/7712-piotin-verde",
+        "description": "Este pequeño piotín no es como los demás píos, basta con observar su color para darse cuenta de ello. En cambio, comparte con los demás píos la manía de picotear traseros. Al parecer, a algunos les gusta…",
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 7891,
+        "name": "Mini wey",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18028.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/7891-mini-wey",
+        "description": "Este pequeño wabbit es en realidad uno de los hijos ocultos del tristemente famoso Wey Wabbit. Tal vez algún día se haga con el trono.",
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 8155,
+        "name": "Pekefux",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18037.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/8155-pekefux",
+        "description": "Esta magnífica criatura es un primo lejano de los célebres zollos de la isla de los wabbits. Más temerario y al mismo tiempo mucho más indisciplinado: podrá ayudarte durante tus combates, aunque también te demostrará una picardía sin nombre.",
+        "statistics": [
+            {
+                "Prospección": {
+                    "min": "120"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 9617,
+        "name": "Miaumiau de Angora",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18050.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/9617-miaumiau-angora",
+        "description": "Esta bola de pelos resiste mejor el frío que el miaumiau común. Además su pelo es más suave y sedoso, pero parece que su carácter es mucho más arisco.",
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 10863,
+        "name": "Araknuza",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18058.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/10863-araknuza",
+        "description": "Esta arakna es realmente malvada, insulta, grita, salta por todos lados y hasta morderá a quien se descuide, pero tú la quieres mucho aunque no sepas por qué.",
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 11783,
+        "name": "Gélifux",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18071.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/11783-gelifux",
+        "description": "Mas gruñón que un pekefux pero con menos pelos en las axilas. Esta mascota es célebre por haber mordido a Adam Antium sin romperse un solo diente.",
+        "statistics": [
+            {
+                "Iniciativa": {
+                    "min": "2000"
+                }
+            },
+            {
+                "Placaje": {
+                    "min": "50"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "statusCode": "404"
+    },
+    {
+        "_id": null,
+        "ankamaId": 15133,
+        "name": "Black pekewabbit",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18096.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/15133-black-pekewabbit",
+        "description": "Como la bandana le tapa los ojos, el black pekewabbit se permite enfrentarse, sin pensar en las consecuencias, a sus enemigos… o a sus aliados. Es excelente para despistar a todo el mundo.",
+        "statistics": [
+            {
+                "Fuerza": {
+                    "min": "120"
+                }
+            },
+            {
+                "De daño{~p}{~z} de empuje": {
+                    "min": "80"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 15607,
+        "name": "Armadinho",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18100.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/15607-armadinho",
+        "description": "Esta mascota se hace una pelota en cuanto siente el más mínimo peligro. Según lo inclinado que esté el suelo, rodará aleatoriamente en una dirección y quizás distraiga al enemigo.",
+        "statistics": [
+            {
+                "De daño{~p}{~z} de empuje": {
+                    "min": "100"
+                }
+            },
+            {
+                "De resistencia{~p}{~z} a los críticos": {
+                    "min": "100"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 16122,
+        "name": "Drakolega",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18106.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/16122-drakolega",
+        "description": "Los drakolegas nacieron bajo las aguas de Sufokia, en una inmensa cueva descubierta por los selotropes. Estos dragones en miniatura faltos de afección son unos compañeros bastante fieles. ¡Cuando un drakolega te adopta es para toda la vida! Cuenta con él en tus veladas entre aventureros, para crear un ambiente cálido o para relajar la atmósfera con sus muecas.",
+        "statistics": [
+            {
+                "Al retiro de PA": {
+                    "min": "40"
+                }
+            },
+            {
+                "Placaje": {
+                    "min": "50"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 16269,
+        "name": "Tanuk",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18111.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/16269-tanuk",
+        "description": "Los tanuks tardan décadas en alcanzar la pubertad, periodo en el cual se independizan y se vuelven un tanto agresivos. Antes de este periodo, son dóciles como miaumiaus disecados, pero, aun así, es imposible saber si uno es macho o hembra hasta que el tamaño de sus partes no supera el de su cola. Los furtivos que azotan Pandala trafican con ellos obteniendo pingües beneficios. Tú has aceptado colaborar en este tráfico al hacerte con este tanuk.",
+        "statistics": [
+            {
+                "A la esquiva pérdidas de PM": {
+                    "min": "50"
+                }
+            },
+            {
+                "PA": {
+                    "min": "1"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 17813,
+        "name": "Glub",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18118.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/17813-glub",
+        "description": "Llegado directamente de las profundidades de Sufokia, el glub le debe su nombre al sonido que emite cuando lo extraes de una cavidad submarina, su hábitat natural. Su lado delicado y su forma divertida, lo convierten en el mejor amigo de los trithones.",
+        "statistics": [
+            {
+                "Prospección": {
+                    "min": "120"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 25032,
+        "name": "Luss camiauleón",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18222.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/25032-luss-camiauleon",
+        "description": "A Luss le gusta buscar pelea. Si lo pierdes de vista, es posible que se meta en problemas. Esta tendencia a la violencia podría resultar útil si Luss no fuera tan pequeño como una gaficha de casino.",
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 1711,
+        "name": "Wauwau",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18006.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/1711-wauwau",
+        "description": "Con este perrete, disfrutarás de los paseítos para que haga pipí. Ha sido criado con raíces salvajes, te desaconsejamos darle de comer, si no quieres perder una mano.",
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 6604,
+        "name": "Kuakuá",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18008.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/6604-kuakua",
+        "description": "La estupidez del kuakuá sobrepasa la del tofu, la del jalató y hasta la de los yopukas.",
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 6716,
+        "name": "Nomoon",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18011.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/6716-nomoon",
+        "description": "Parece que este monillo ladronzuelo se ha encariñado contigo.",
+        "statistics": [
+            {
+                "Prospección": {
+                    "min": "120"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 7415,
+        "name": "Pequeño wauwau negro",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18010.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/7415-pequeno-wauwau-negro",
+        "description": "La agradable compañía de esta mascota compensa con creces su aliento a pescado deshidratado.",
+        "statistics": [
+            {
+                "Potencia (daños generales)": {
+                    "min": "70"
+                }
+            },
+            {
+                "De daño{~p}{~z} de empuje": {
+                    "min": "80"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 7520,
+        "name": "Crum",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18015.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/7520-crum",
+        "description": "Esta criatura es un antiguo soldadito de plomo jubilado que volvió a la vida. Te seguirá por todas partes y lo hará todo para defenderte, arriesgando incluso su propia vida. Pero no esperes que reciba los golpes en tu lugar, así que no sustituirá a los aventureros principiantes de Astrub.",
+        "statistics": [
+            {
+                "25% resistencia neutral": {
+                    "min": "25"
+                }
+            },
+            {
+                "Potencia (daños generales)": {
+                    "min": "50"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 7704,
+        "name": "Ardilla pilla",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18016.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/7704-ardilla-pilla",
+        "description": "Esta ardilla se lo pasará genial cascando nueces. Hay que reconocer que es algo muy práctico, aunque a veces puede resultar bastante doloroso.",
+        "statistics": [
+            {
+                "Potencia (daños generales)": {
+                    "min": "70"
+                }
+            },
+            {
+                "Huida": {
+                    "min": "40"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 7707,
+        "name": "Cochino jabato",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18020.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/7707-cochino-jabato",
+        "description": "Este cerdito salvaje tiene una jeta desproporcionada, adaptada a la búsqueda de bellotas. Casualmente, parece que te ha encontrado con bastante facilidad.",
+        "statistics": [
+            {
+                "Potencia (daños generales)": {
+                    "min": "70"
+                }
+            },
+            {
+                "Placaje": {
+                    "min": "40"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 7708,
+        "name": "Piotín azul",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18019.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/7708-piotin-azul",
+        "description": "Este pequeño piotín no es como los demás píos, basta con observar su color para darse cuenta de ello. En cambio, comparte con los demás píos la manía de picotear traseros. Al parecer, a algunos les gusta…",
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 7709,
+        "name": "Piotín amarillo",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18023.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/7709-piotin-amarillo",
+        "description": "Este pequeño piotín no es como los demás píos, basta con observar su color para darse cuenta de ello. En cambio, comparte con los demás píos la manía de picotear traseros. Al parecer, a algunos les gusta…",
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 7713,
+        "name": "Piotín violeta",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18022.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/7713-piotin-violeta",
+        "description": "Este pequeño piotín no es como los demás píos, basta con observar su color para darse cuenta de ello. En cambio, comparte con los demás píos la manía de picotear traseros. Al parecer, a algunos les gusta…",
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 7714,
+        "name": "Tortuga",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18017.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/7714-tortuga",
+        "description": "Dicen que un experto en artes marciales que se parecía a una rata de alcantarilla habría criado a esta tortuga.",
+        "statistics": [
+            {
+                "De cura{~p}{~z}": {
+                    "min": "50"
+                }
+            },
+            {
+                "A la esquiva pérdidas de PA": {
+                    "min": "50"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": "9"
+    },
+    {
+        "_id": null,
+        "ankamaId": 8000,
+        "name": "Bworky",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18031.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/8000-bworky",
+        "description": "Esta pequeña criatura es un bwork que se ha quedado encerrado vivo dentro de un frasco de vidrio durante varias décadas, por eso ha tomado la forma del frasco y seguirá siendo enano toda su vida. Su legendario buen humor lo convierte en el compañero ideal para los asaltos a mazmorras perdidos de antemano, o para pasar noches mundanas infernales.",
+        "statistics": [
+            {
+                "Pod{~ps}{~zs}": {
+                    "min": "2000"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 8153,
+        "name": "Abra kadabra",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18034.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/8153-abra-kadabra",
+        "description": "Como tú, este pequeño abráknido ya no soportaba a su familia y decidió rebelarse contra los suyos. Hoy, te acompaña a todas partes pegado a ti como un liquen al tronco de un árbol.",
+        "statistics": [
+            {
+                "Potencia (daños generales)": {
+                    "min": "70"
+                }
+            },
+            {
+                "A la esquiva pérdidas de PM": {
+                    "min": "50"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 8154,
+        "name": "Escarador",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18036.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/8154-escarador",
+        "description": "Este encantador y pequeño coleóptero venido del sur es en realidad una temible criatura. Sus amigos le humillaron cuando era joven y ahora ha decidido vengarse. Te ayudará a patear todos los traseros que encuentres.",
+        "statistics": [
+            {
+                "5% resistencia al fuego": {
+                    "min": "5"
+                }
+            },
+            {
+                "5% resistencia al agua": {
+                    "min": "5"
+                }
+            },
+            {
+                "5% resistencia a la tierra": {
+                    "min": "5"
+                }
+            },
+            {
+                "5% resistencia al aire": {
+                    "min": "5"
+                }
+            },
+            {
+                "5% resistencia neutral": {
+                    "min": "5"
+                }
+            },
+            {
+                "Potencia (daños generales)": {
+                    "min": "50"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 10657,
+        "name": "Buscador de ogrinas",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18056.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/10657-buscador-ogrinas",
+        "description": "Esta extraña mascota procede del cruce de los mejores buscadores de trufas de toda Amakna. Su gran hocico le permite encontrar ogrinas, incluso si se encuentran en el agua. Otomai tardó varios años en crear esta especie que, según cuentan, quería utilizar para tratar de encontrar algo que había perdido o una criatura que habría dejado escapar. Solo él conoce el desenlace de la historia...",
+        "statistics": [
+            {
+                "Potencia (daños generales)": {
+                    "min": "70"
+                }
+            },
+            {
+                "De daño{~p}{~z} de empuje": {
+                    "min": "80"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 10866,
+        "name": "Otazo",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18061.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/10866-otazo",
+        "description": "A esta mascota le gustan las alcachofas con sangre de rasgabola, las endivias con pelos de tufo y las canciones de Badiz Mustabante. También parece gustarle tu compañía.",
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 10985,
+        "name": "Miaumiau de las nieves",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18062.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/10985-miaumiau-nieves",
+        "description": "Este miaumiau ha conocido las más duras nieves del Mundo de los Doce. Nadie sabe cómo ha llegado a Amakna, pero los ancianos comentan que alguien lo trajo desde la isla de Frigost para luchar contra la falta de hielo a la hora del aperitivo.",
+        "statistics": [
+            {
+                "% crítico": {
+                    "min": "15"
+                }
+            },
+            {
+                "De resistencia{~p}{~z} al empuje": {
+                    "min": "100"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 11014,
+        "name": "Murciego pálido",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18066.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/11014-murciego-palido",
+        "description": "Esta mascota pasó demasiado tiempo durmiendo bajo la lluvia ácida. No brilla por la noche ni tiene poderes mágicos, pero si lo usas para hacer una vinagreta, te saldrá muy potente.",
+        "statistics": [
+            {
+                "De daño{~p}{~z} crítico": {
+                    "min": "50"
+                }
+            },
+            {
+                "De resistencia{~p}{~z} al empuje": {
+                    "min": "100"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 13230,
+        "name": "Kolimira",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18088.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/13230-kolimira",
+        "description": "Como pensaba que la vida en el archipiélago de Vulkania era demasiado injusta, esta criatura decidió salir de su caparazón y seguirte en tu lucha por un mundo mejor.",
+        "statistics": [
+            {
+                "Potencia (daños generales)": {
+                    "min": "70"
+                }
+            },
+            {
+                "Alcance": {
+                    "min": "2"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado y Conocer la actitud"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 13661,
+        "name": "Kraxiste",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18090.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/13661-kraxiste",
+        "description": "Te has convertido en el mejor amigo de este insecto de mirada inocente. Su aspecto encantador te bastará para olvidarte de hasta qué punto llega a ser exasperante. Ya que kraxiste es un bromista sin igual, siempre dispuesto a jugarte bromas pesadas. Más vale reír que llorar.",
+        "statistics": [
+            {
+                "% crítico": {
+                    "min": "15"
+                }
+            },
+            {
+                "De daño{~p}{~z} de empuje": {
+                    "min": "80"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 17700,
+        "name": "Maullino",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18115.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/17700-maullino",
+        "description": "El maullino, que es más ágil que un tofu a la hora del almuerzo, sorprende a sus presas por su gran velocidad y es un depredador extraordinario a la par que insaciable. Se dice que quien consiga domar al animal desnudo disfrutará de su celeridad...",
+        "statistics": [
+            {
+                "Iniciativa": {
+                    "min": "2000"
+                }
+            },
+            {
+                "% crítico": {
+                    "min": "15"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 17795,
+        "name": "Kerubebé",
+        "level": 1,
+        "type": "Mascota",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/18116.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/mascotas/17795-kerubebe",
+        "description": "Estas criaturitas, que provocan onomatopeyas de lo más variadas y arrebatos de amor en los amantes de las cosas monas, son los kerubebés, adorables miaumiausitos criados en la dimensión Zurcalia. Nadie sabe decir si el aura mágica que habita ese lugar es lo que hace que se parezcan tanto a Kerubim.",
+        "statistics": [
+            {
+                "Pod{~ps}{~zs}": {
+                    "min": "2000"
+                }
+            }
+        ],
+        "conditions": [
+            "Estar abonado"
+        ],
+        "setId": null
+    }
+]

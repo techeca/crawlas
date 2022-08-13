@@ -1,0 +1,2883 @@
+[
+    {
+        "_id": null,
+        "ankamaId": 19591,
+        "name": "Bolsa volcánica",
+        "level": 200,
+        "type": "Mochila",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/17400.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/equipos/19591-bolsa-volcanica",
+        "description": "Esta bolsa te permitirá comunicarte fácilmente con señales de humo. Pero, ojo, porque no hay humo sin fuego.",
+        "statistics": [
+            {
+                "Vitalidad": {
+                    "min": "351",
+                    "max": "400"
+                }
+            },
+            {
+                "Fuerza": {
+                    "min": "61",
+                    "max": "80"
+                }
+            },
+            {
+                "Inteligencia": {
+                    "min": "61",
+                    "max": "80"
+                }
+            },
+            {
+                "Sabiduría": {
+                    "min": "31",
+                    "max": "40"
+                }
+            },
+            {
+                "Prospección": {
+                    "min": "11",
+                    "max": "15"
+                }
+            },
+            {
+                "Placaje": {
+                    "min": "11",
+                    "max": "15"
+                }
+            },
+            {
+                "De daño{~p}{~z} de fuego": {
+                    "min": "11",
+                    "max": "15"
+                }
+            },
+            {
+                "De daño{~p}{~z} de tierra": {
+                    "min": "11",
+                    "max": "15"
+                }
+            },
+            {
+                "De daño{~p}{~z} neutro": {
+                    "min": "11",
+                    "max": "15"
+                }
+            },
+            {
+                "% resistencia a la tierra": {
+                    "min": "7",
+                    "max": "10"
+                }
+            },
+            {
+                "De cura{~p}{~z}": {
+                    "min": "9",
+                    "max": "12"
+                }
+            },
+            {
+                "% crítico": {
+                    "min": "2",
+                    "max": "3"
+                }
+            }
+        ],
+        "recipe": [
+            {
+                "Guijarro brasa": {
+                    "ankamaId": 12740,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/12740-guijarro-brasa",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/15289.w48h48.png",
+                    "type": "Guijarro",
+                    "level": 150,
+                    "quantity": 3
+                }
+            },
+            {
+                "Pelos de Kanígrula": {
+                    "ankamaId": 15039,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/15039-pelos-kanigrula",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/54698.w48h48.png",
+                    "type": "Pelo",
+                    "level": 160,
+                    "quantity": 11
+                }
+            },
+            {
+                "Turmalina": {
+                    "ankamaId": 15271,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/15271-turmalina",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/50719.w48h48.png",
+                    "type": "Piedra preciosa",
+                    "level": 10,
+                    "quantity": 15
+                }
+            },
+            {
+                "Pelo de Meno": {
+                    "ankamaId": 17976,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/17976-pelo-meno",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/54707.w48h48.png",
+                    "type": "Pelo",
+                    "level": 200,
+                    "quantity": 10
+                }
+            },
+            {
+                "Diente de cleymor": {
+                    "ankamaId": 19399,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/19399-diente-cleymor",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/40713.w48h48.png",
+                    "type": "Hueso",
+                    "level": 200,
+                    "quantity": 17
+                }
+            },
+            {
+                "Ojo de alabardiente": {
+                    "ankamaId": 19403,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/19403-ojo-alabardiente",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/109618.w48h48.png",
+                    "type": "Ojo",
+                    "level": 200,
+                    "quantity": 74
+                }
+            },
+            {
+                "Sesos de Solar": {
+                    "ankamaId": 19404,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/19404-sesos-solar",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/182019.w48h48.png",
+                    "type": "Recurso",
+                    "level": 200,
+                    "quantity": 13
+                }
+            },
+            {
+                "Sangre de calcinado": {
+                    "ankamaId": 19405,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/19405-sangre-calcinado",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/12771.w48h48.png",
+                    "type": "Líquido",
+                    "level": 200,
+                    "quantity": 10
+                }
+            }
+        ],
+        "setId": "454"
+    },
+    {
+        "_id": null,
+        "ankamaId": 21230,
+        "name": "Caparazón de Torkelonia",
+        "level": 200,
+        "type": "Mochila",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/17436.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/equipos/21230-caparazon-torkelonia",
+        "description": "Evita caer de espaldas cuando lleves equipada esta caparazón, ya que corres el riesgo de no poder volver a levantarte.",
+        "statistics": [
+            {
+                "Vitalidad": {
+                    "min": "301",
+                    "max": "350"
+                }
+            },
+            {
+                "Fuerza": {
+                    "min": "31",
+                    "max": "50"
+                }
+            },
+            {
+                "Agilidad": {
+                    "min": "41",
+                    "max": "70"
+                }
+            },
+            {
+                "Sabiduría": {
+                    "min": "21",
+                    "max": "30"
+                }
+            },
+            {
+                "De daño{~p}{~z} de aire": {
+                    "min": "11",
+                    "max": "15"
+                }
+            },
+            {
+                "De daño{~p}{~z} de tierra": {
+                    "min": "11",
+                    "max": "15"
+                }
+            },
+            {
+                "De daño{~p}{~z} crítico": {
+                    "min": "8",
+                    "max": "12"
+                }
+            },
+            {
+                "Huida": {
+                    "min": "4",
+                    "max": "5"
+                }
+            },
+            {
+                "A la esquiva pérdidas de PA": {
+                    "min": "4",
+                    "max": "5"
+                }
+            },
+            {
+                "% crítico": {
+                    "min": "4",
+                    "max": "5"
+                }
+            },
+            {
+                "% resistencia al aire": {
+                    "min": "6",
+                    "max": "10"
+                }
+            },
+            {
+                "% resistencia al fuego": {
+                    "min": "6",
+                    "max": "10"
+                }
+            }
+        ],
+        "recipe": [
+            {
+                "Pelos de Kanígrula": {
+                    "ankamaId": 15039,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/15039-pelos-kanigrula",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/54698.w48h48.png",
+                    "type": "Pelo",
+                    "level": 160,
+                    "quantity": 9
+                }
+            },
+            {
+                "Turmalina": {
+                    "ankamaId": 15271,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/15271-turmalina",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/50719.w48h48.png",
+                    "type": "Piedra preciosa",
+                    "level": 10,
+                    "quantity": 15
+                }
+            },
+            {
+                "Sesos de Solar": {
+                    "ankamaId": 19404,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/19404-sesos-solar",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/182019.w48h48.png",
+                    "type": "Recurso",
+                    "level": 200,
+                    "quantity": 8
+                }
+            },
+            {
+                "Cuerno de vueloceronte": {
+                    "ankamaId": 19975,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/19975-cuerno-vueloceronte",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/47864.w48h48.png",
+                    "type": "Hueso",
+                    "level": 200,
+                    "quantity": 15
+                }
+            },
+            {
+                "Ojo de cocodrail albino": {
+                    "ankamaId": 21206,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/21206-ojo-cocodrail-albino",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/109621.w48h48.png",
+                    "type": "Ojo",
+                    "level": 200,
+                    "quantity": 10
+                }
+            },
+            {
+                "Escama de Torkelonia": {
+                    "ankamaId": 21207,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/21207-escama-torkelonia",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/59674.w48h48.png",
+                    "type": "Piel",
+                    "level": 200,
+                    "quantity": 13
+                }
+            },
+            {
+                "Bandana de noveh": {
+                    "ankamaId": 21209,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/21209-bandana-noveh",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/16580.w48h48.png",
+                    "type": "Ropaje",
+                    "level": 200,
+                    "quantity": 84
+                }
+            },
+            {
+                "Colmillo de coconíbal": {
+                    "ankamaId": 21212,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/21212-colmillo-coconibal",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/47867.w48h48.png",
+                    "type": "Hueso",
+                    "level": 200,
+                    "quantity": 86
+                }
+            }
+        ],
+        "setId": "472"
+    },
+    {
+        "_id": null,
+        "ankamaId": 23628,
+        "name": "Depósito de aspirasesino",
+        "level": 165,
+        "type": "Mochila",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/17471.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/equipos/23628-deposito-aspirasesino",
+        "description": "Este depósito que va acompañado de un aspirasesino permite almacenar la maldición de Dark Vlad que retiene a los espectros de Grobe en la isla. Este se ha roto a causa de la presión de la energía maléfica que contenía. Los restos residuales de la maldición presentes en este depósito te harán más fuerte cuando te lo pongas a la espalda.",
+        "statistics": [
+            {
+                "Iniciativa": {
+                    "min": "-300"
+                }
+            },
+            {
+                "Vitalidad": {
+                    "min": "201",
+                    "max": "250"
+                }
+            },
+            {
+                "Fuerza": {
+                    "min": "31",
+                    "max": "40"
+                }
+            },
+            {
+                "Inteligencia": {
+                    "min": "31",
+                    "max": "40"
+                }
+            },
+            {
+                "Agilidad": {
+                    "min": "31",
+                    "max": "40"
+                }
+            },
+            {
+                "De resistencia{~p}{~z} a críticos": {
+                    "min": "-20"
+                }
+            },
+            {
+                "Sabiduría": {
+                    "min": "21",
+                    "max": "30"
+                }
+            },
+            {
+                "De daño{~p}{~z} de fuego": {
+                    "min": "6",
+                    "max": "9"
+                }
+            },
+            {
+                "De daño{~p}{~z} de aire": {
+                    "min": "6",
+                    "max": "9"
+                }
+            },
+            {
+                "De daño{~p}{~z} de tierra": {
+                    "min": "6",
+                    "max": "9"
+                }
+            },
+            {
+                "De daño{~p}{~z} neutro": {
+                    "min": "6",
+                    "max": "9"
+                }
+            },
+            {
+                "% resistencia a la tierra": {
+                    "min": "4",
+                    "max": "5"
+                }
+            },
+            {
+                "De daño{~p}{~z} crítico": {
+                    "min": "4",
+                    "max": "5"
+                }
+            },
+            {
+                "% crítico": {
+                    "min": "1",
+                    "max": "2"
+                }
+            },
+            {
+                "De resistencia{~p}{~z} al empuje": {
+                    "min": "-15"
+                }
+            },
+            {
+                "PM": {
+                    "min": "1"
+                }
+            }
+        ],
+        "conditions": [
+            "PA < 12"
+        ],
+        "recipe": [
+            {
+                "Rutilo": {
+                    "ankamaId": 7036,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/7036-rutilo",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/40707.w48h48.png",
+                    "type": "Aleación",
+                    "level": 160,
+                    "quantity": 9
+                }
+            },
+            {
+                "Yokaiedra": {
+                    "ankamaId": 7383,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/7383-yokaiedra",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/164741.w48h48.png",
+                    "type": "Piedra bruta",
+                    "level": 170,
+                    "quantity": 6
+                }
+            },
+            {
+                "Brasas azuladas": {
+                    "ankamaId": 7385,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/7385-brasas-azuladas",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/164740.w48h48.png",
+                    "type": "Recurso",
+                    "level": 170,
+                    "quantity": 10
+                }
+            },
+            {
+                "Ojo de majaro": {
+                    "ankamaId": 7403,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/7403-ojo-majaro",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/164747.w48h48.png",
+                    "type": "Ojo",
+                    "level": 170,
+                    "quantity": 35
+                }
+            },
+            {
+                "Sombreropikaza": {
+                    "ankamaId": 7408,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/7408-sombreropikaza",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/164736.w48h48.png",
+                    "type": "Ropaje",
+                    "level": 170,
+                    "quantity": 39
+                }
+            },
+            {
+                "Pelo de Ben el Ripata": {
+                    "ankamaId": 11321,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/11321-pelo-ben-ripata",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/54679.w48h48.png",
+                    "type": "Pelo",
+                    "level": 165,
+                    "quantity": 3
+                }
+            },
+            {
+                "Concentrado de bosque primario": {
+                    "ankamaId": 16458,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/16458-concentrado-bosque-primario",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/177001.w48h48.png",
+                    "type": "Concentrado",
+                    "level": 160,
+                    "quantity": 1
+                }
+            },
+            {
+                "Piel de tremorso": {
+                    "ankamaId": 18565,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/18565-piel-tremorso",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/59654.w48h48.png",
+                    "type": "Piel",
+                    "level": 170,
+                    "quantity": 32
+                }
+            }
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 23618,
+        "name": "Bolsa mortuoria de jiangshi-Nobi",
+        "level": 154,
+        "type": "Mochila",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/17472.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/equipos/23618-bolsa-mortuoria-jiangshi-nobi",
+        "description": "Un jiangshi-nobi transporta la reliquia de su cuerpo momificado que reside al mismo tiempo en el mundo material y en Externam. Aunque desprende un fuerte olor a putrefacción, esta bolsa mortuoria está hecha para ser conservada durante años. Si te sientes solo, llevarás siempre contigo un amigo con el que hablar.",
+        "statistics": [
+            {
+                "Vitalidad": {
+                    "min": "151",
+                    "max": "200"
+                }
+            },
+            {
+                "Fuerza": {
+                    "min": "41",
+                    "max": "60"
+                }
+            },
+            {
+                "Inteligencia": {
+                    "min": "31",
+                    "max": "40"
+                }
+            },
+            {
+                "Suerte": {
+                    "min": "41",
+                    "max": "60"
+                }
+            },
+            {
+                "Sabiduría": {
+                    "min": "21",
+                    "max": "30"
+                }
+            },
+            {
+                "Prospección": {
+                    "min": "16",
+                    "max": "20"
+                }
+            },
+            {
+                "Placaje": {
+                    "min": "3",
+                    "max": "4"
+                }
+            },
+            {
+                "De daño{~p}{~z} de fuego": {
+                    "min": "4",
+                    "max": "5"
+                }
+            },
+            {
+                "De daño{~p}{~z} de tierra": {
+                    "min": "7",
+                    "max": "10"
+                }
+            },
+            {
+                "De daño{~p}{~z} neutro": {
+                    "min": "7",
+                    "max": "10"
+                }
+            },
+            {
+                "De daño{~p}{~z} de agua": {
+                    "min": "7",
+                    "max": "10"
+                }
+            },
+            {
+                "% resistencia al fuego": {
+                    "min": "4",
+                    "max": "5"
+                }
+            },
+            {
+                "Al retiro de PA": {
+                    "min": "3",
+                    "max": "4"
+                }
+            },
+            {
+                "Invocaciones{~p}{~z}": {
+                    "min": "1"
+                }
+            },
+            {
+                "-10% crítico": {
+                    "min": "-10"
+                }
+            }
+        ],
+        "recipe": [
+            {
+                "Aguamarina": {
+                    "ankamaId": 7026,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/7026-aguamarina",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/50101.w48h48.png",
+                    "type": "Piedra preciosa",
+                    "level": 150,
+                    "quantity": 1
+                }
+            },
+            {
+                "Tejido de samurái fantasma": {
+                    "ankamaId": 7384,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/7384-tejido-samurai-fantasma",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/164763.w48h48.png",
+                    "type": "Tejido",
+                    "level": 160,
+                    "quantity": 5
+                }
+            },
+            {
+                "Bigote de Shogun Tofugawa": {
+                    "ankamaId": 7393,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/7393-bigote-shogun-tofugawa",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/164769.w48h48.png",
+                    "type": "Pelo",
+                    "level": 160,
+                    "quantity": 12
+                }
+            },
+            {
+                "Hueso de jiangshi-Nobi": {
+                    "ankamaId": 7404,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/7404-hueso-jiangshi-nobi",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/164767.w48h48.png",
+                    "type": "Hueso",
+                    "level": 160,
+                    "quantity": 30
+                }
+            },
+            {
+                "Hombreras de kabushido": {
+                    "ankamaId": 7406,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/7406-hombreras-kabushido",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/164768.w48h48.png",
+                    "type": "Recurso de combate",
+                    "level": 160,
+                    "quantity": 24
+                }
+            },
+            {
+                "Fémur de Sfinter Cell": {
+                    "ankamaId": 8490,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/8490-femur-sfinter-cell",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/47657.w48h48.png",
+                    "type": "Hueso",
+                    "level": 150,
+                    "quantity": 3
+                }
+            },
+            {
+                "Cadena de tigredón": {
+                    "ankamaId": 15047,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/15047-cadena-tigredon",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/164035.w48h48.png",
+                    "type": "Recurso",
+                    "level": 154,
+                    "quantity": 40
+                }
+            },
+            {
+                "Concentrado de bosque primario": {
+                    "ankamaId": 16458,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/16458-concentrado-bosque-primario",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/177001.w48h48.png",
+                    "type": "Concentrado",
+                    "level": 160,
+                    "quantity": 2
+                }
+            }
+        ],
+        "setId": "486"
+    },
+    {
+        "_id": null,
+        "ankamaId": 23273,
+        "name": "Saco firefux",
+        "level": 140,
+        "type": "Mochila",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/81071.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/equipos/23273-saco-firefux",
+        "description": "Ideal para improvisar una partida de petanca explosiva con tus amigos. Este saco de yute hecho a mano contiene un juego completo de bolas firefux de la mayor calidad. El ungüento contra las quemaduras no viene incluido.",
+        "statistics": [
+            {
+                "Vitalidad": {
+                    "min": "101",
+                    "max": "150"
+                }
+            },
+            {
+                "Inteligencia": {
+                    "min": "41",
+                    "max": "50"
+                }
+            },
+            {
+                "De resistencia{~p}{~z} al fuego": {
+                    "min": "7",
+                    "max": "10"
+                }
+            },
+            {
+                "Sabiduría": {
+                    "min": "31",
+                    "max": "40"
+                }
+            },
+            {
+                "Prospección": {
+                    "min": "11",
+                    "max": "15"
+                }
+            },
+            {
+                "De daño{~p}{~z} de fuego": {
+                    "min": "4",
+                    "max": "6"
+                }
+            },
+            {
+                "% resistencia al aire": {
+                    "min": "5",
+                    "max": "8"
+                }
+            },
+            {
+                "% resistencia al fuego": {
+                    "min": "5",
+                    "max": "8"
+                }
+            },
+            {
+                "Alcance": {
+                    "min": "1"
+                }
+            }
+        ],
+        "recipe": [
+            {
+                "Raíz de Roble Blando": {
+                    "ankamaId": 6488,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/6488-raiz-roble-blando",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/98667.w48h48.png",
+                    "type": "Raíz",
+                    "level": 140,
+                    "quantity": 2
+                }
+            },
+            {
+                "Piel de rojiva": {
+                    "ankamaId": 7298,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/7298-piel-rojiva",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/59042.w48h48.png",
+                    "type": "Piel",
+                    "level": 140,
+                    "quantity": 28
+                }
+            },
+            {
+                "Piel de escupefux": {
+                    "ankamaId": 7299,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/7299-piel-escupefux",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/59038.w48h48.png",
+                    "type": "Piel",
+                    "level": 140,
+                    "quantity": 37
+                }
+            },
+            {
+                "Tejido de firefux": {
+                    "ankamaId": 7304,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/7304-tejido-firefux",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/55011.w48h48.png",
+                    "type": "Tejido",
+                    "level": 140,
+                    "quantity": 7
+                }
+            },
+            {
+                "Cola mágica de Funoroshi": {
+                    "ankamaId": 8381,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/8381-cola-magica-funoroshi",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/65751.w48h48.png",
+                    "type": "Cola",
+                    "level": 140,
+                    "quantity": 10
+                }
+            },
+            {
+                "Concentrado de bosque": {
+                    "ankamaId": 12733,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/12733-concentrado-bosque",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/12726.w48h48.png",
+                    "type": "Concentrado",
+                    "level": 140,
+                    "quantity": 2
+                }
+            },
+            {
+                "Guijarro rutilante": {
+                    "ankamaId": 12738,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/12738-guijarro-rutilante",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/15291.w48h48.png",
+                    "type": "Guijarro",
+                    "level": 100,
+                    "quantity": 2
+                }
+            },
+            {
+                "Hueso de sramurái": {
+                    "ankamaId": 15460,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/15460-hueso-sramurai",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/47841.w48h48.png",
+                    "type": "Hueso",
+                    "level": 130,
+                    "quantity": 27
+                }
+            }
+        ],
+        "setId": "484"
+    },
+    {
+        "_id": null,
+        "ankamaId": 23272,
+        "name": "Escupefuegos firefux",
+        "level": 132,
+        "type": "Mochila",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/81072.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/equipos/23272-escupefuegos-firefux",
+        "description": "Si bien este cañón firefux es maravilloso para disparar fuegos artificiales bien alto y bien lejos, por desgracia está prohibido sustituir los fuegos por personas de estatura baja.",
+        "statistics": [
+            {
+                "Iniciativa": {
+                    "min": "-200"
+                }
+            },
+            {
+                "Vitalidad": {
+                    "min": "101",
+                    "max": "150"
+                }
+            },
+            {
+                "Inteligencia": {
+                    "min": "41",
+                    "max": "50"
+                }
+            },
+            {
+                "Agilidad": {
+                    "min": "21",
+                    "max": "30"
+                }
+            },
+            {
+                "Sabiduría": {
+                    "min": "11",
+                    "max": "20"
+                }
+            },
+            {
+                "Prospección": {
+                    "min": "7",
+                    "max": "10"
+                }
+            },
+            {
+                "Huida": {
+                    "min": "4",
+                    "max": "6"
+                }
+            },
+            {
+                "De daño{~p}{~z} de fuego": {
+                    "min": "3",
+                    "max": "4"
+                }
+            },
+            {
+                "% resistencia al aire": {
+                    "min": "5",
+                    "max": "7"
+                }
+            },
+            {
+                "% crítico": {
+                    "min": "3",
+                    "max": "4"
+                }
+            },
+            {
+                "Alcance": {
+                    "min": "2"
+                }
+            }
+        ],
+        "recipe": [
+            {
+                "Raíz de abráknido oscuro": {
+                    "ankamaId": 1612,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/1612-raiz-abraknido-oscuro",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/98232.w48h48.png",
+                    "type": "Raíz",
+                    "level": 78,
+                    "quantity": 27
+                }
+            },
+            {
+                "Pelos de bumbardero": {
+                    "ankamaId": 7292,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/7292-pelos-bumbardero",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/54202.w48h48.png",
+                    "type": "Pelo",
+                    "level": 140,
+                    "quantity": 22
+                }
+            },
+            {
+                "Pelos de petafux": {
+                    "ankamaId": 7294,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/7294-pelos-petafux",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/54204.w48h48.png",
+                    "type": "Pelo",
+                    "level": 140,
+                    "quantity": 28
+                }
+            },
+            {
+                "Tejido de firefux": {
+                    "ankamaId": 7304,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/7304-tejido-firefux",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/55011.w48h48.png",
+                    "type": "Tejido",
+                    "level": 140,
+                    "quantity": 6
+                }
+            },
+            {
+                "Cola mágica de Funoroshi": {
+                    "ankamaId": 8381,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/8381-cola-magica-funoroshi",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/65751.w48h48.png",
+                    "type": "Cola",
+                    "level": 140,
+                    "quantity": 13
+                }
+            },
+            {
+                "Guijarro rutilante": {
+                    "ankamaId": 12738,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/12738-guijarro-rutilante",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/15291.w48h48.png",
+                    "type": "Guijarro",
+                    "level": 100,
+                    "quantity": 2
+                }
+            },
+            {
+                "Concentrado de bosquecillo": {
+                    "ankamaId": 12744,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/12744-concentrado-bosquecillo",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/12728.w48h48.png",
+                    "type": "Concentrado",
+                    "level": 100,
+                    "quantity": 1
+                }
+            },
+            {
+                "Cáliz de Tynril": {
+                    "ankamaId": 13166,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/13166-caliz-tynril",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/35637.w48h48.png",
+                    "type": "Flor",
+                    "level": 140,
+                    "quantity": 2
+                }
+            }
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 20983,
+        "name": "Bolsa para comérsela",
+        "level": 130,
+        "type": "Mochila",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/81069.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/equipos/20983-bolsa-comersela",
+        "description": "Esta bolsita hará que viajes a tu infancia, a aquellos maravillosos momentos en los que tu mamá te preparaba una sabrosa merienda, en los que ibas al cole dispuesto a sacarle el jugo a la vida, en los que quienes eran más fuertes que tú te robaban tu preciado almuerzo… Qué buenos recuerdos.",
+        "statistics": [
+            {
+                "Vitalidad": {
+                    "min": "101",
+                    "max": "150"
+                }
+            },
+            {
+                "Fuerza": {
+                    "min": "26",
+                    "max": "35"
+                }
+            },
+            {
+                "Suerte": {
+                    "min": "26",
+                    "max": "35"
+                }
+            },
+            {
+                "De daño{~p}{~z} de empuje": {
+                    "min": "16",
+                    "max": "20"
+                }
+            },
+            {
+                "Sabiduría": {
+                    "min": "16",
+                    "max": "20"
+                }
+            },
+            {
+                "A la esquiva pérdidas de PM": {
+                    "min": "4",
+                    "max": "6"
+                }
+            },
+            {
+                "% resistencia al aire": {
+                    "min": "4",
+                    "max": "6"
+                }
+            },
+            {
+                "% resistencia al fuego": {
+                    "min": "4",
+                    "max": "6"
+                }
+            },
+            {
+                "Alcance": {
+                    "min": "1"
+                }
+            }
+        ],
+        "recipe": [
+            {
+                "Lana del Minotauroro": {
+                    "ankamaId": 2998,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/2998-lana-minotauroro",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/57654.w48h48.png",
+                    "type": "Lana",
+                    "level": 120,
+                    "quantity": 2
+                }
+            },
+            {
+                "Piel de dragandrop": {
+                    "ankamaId": 8360,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/8360-piel-dragandrop",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/59610.w48h48.png",
+                    "type": "Piel",
+                    "level": 120,
+                    "quantity": 8
+                }
+            },
+            {
+                "Tableta crocante": {
+                    "ankamaId": 20906,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/20906-tableta-crocante",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/15007.w48h48.png",
+                    "type": "Recurso",
+                    "level": 130,
+                    "quantity": 1
+                }
+            },
+            {
+                "Corazón del Crunchidor": {
+                    "ankamaId": 20939,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/20939-corazon-crunchidor",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/51501.w48h48.png",
+                    "type": "Recurso",
+                    "level": 130,
+                    "quantity": 9
+                }
+            },
+            {
+                "Oreja de koalakao": {
+                    "ankamaId": 20940,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/20940-oreja-koalakao",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/106643.w48h48.png",
+                    "type": "Oreja",
+                    "level": 130,
+                    "quantity": 27
+                }
+            },
+            {
+                "Pepita mordida": {
+                    "ankamaId": 20941,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/20941-pepita-mordida",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/50731.w48h48.png",
+                    "type": "Recurso",
+                    "level": 130,
+                    "quantity": 5
+                }
+            },
+            {
+                "Estómago de chocogüino": {
+                    "ankamaId": 20942,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/20942-estomago-chocogueino",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/15996.w48h48.png",
+                    "type": "Recurso",
+                    "level": 130,
+                    "quantity": 19
+                }
+            }
+        ],
+        "setId": "470"
+    },
+    {
+        "_id": null,
+        "ankamaId": 13584,
+        "name": "Sacofre de koalak",
+        "level": 127,
+        "type": "Mochila",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/81065.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/equipos/13584-sacofre-koalak",
+        "description": "Este cofre que se comporta como un saco es un invento muy práctico. Desafortunadamente, parece que atrae tanto a los koalaks jóvenes y como a los problemas. Solo los aventureros con buenas espaldas pueden utilizar este sacofre sin que les persiga la mala suerte.",
+        "statistics": [
+            {
+                "Vitalidad": {
+                    "min": "151",
+                    "max": "200"
+                }
+            },
+            {
+                "Fuerza": {
+                    "min": "31",
+                    "max": "40"
+                }
+            },
+            {
+                "Sabiduría": {
+                    "min": "21",
+                    "max": "30"
+                }
+            },
+            {
+                "% crítico": {
+                    "min": "4",
+                    "max": "5"
+                }
+            },
+            {
+                "Alcance": {
+                    "min": "-1"
+                }
+            },
+            {
+                "Pod{~ps}{~zs}": {
+                    "min": "401",
+                    "max": "600"
+                }
+            },
+            {
+                "Iniciativa": {
+                    "min": "301",
+                    "max": "400"
+                }
+            },
+            {
+                "De daño{~p}{~z} neutro": {
+                    "min": "6",
+                    "max": "8"
+                }
+            },
+            {
+                "De daño{~p}{~z} de tierra": {
+                    "min": "6",
+                    "max": "8"
+                }
+            },
+            {
+                "% resistencia neutral": {
+                    "min": "7",
+                    "max": "10"
+                }
+            },
+            {
+                "Al retiro de PM": {
+                    "min": "4",
+                    "max": "6"
+                }
+            },
+            {
+                "Placaje": {
+                    "min": "4",
+                    "max": "6"
+                }
+            },
+            {
+                "De resistencia{~p}{~z} al empuje": {
+                    "min": "11",
+                    "max": "15"
+                }
+            }
+        ],
+        "recipe": [
+            {
+                "Oro": {
+                    "ankamaId": 313,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/313-oro",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/39022.w48h48.png",
+                    "type": "Mineral",
+                    "level": 160,
+                    "quantity": 20
+                }
+            },
+            {
+                "Madera de arce": {
+                    "ankamaId": 471,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/471-madera-arce",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/38153.w48h48.png",
+                    "type": "Madera",
+                    "level": 80,
+                    "quantity": 12
+                }
+            },
+            {
+                "Piel de maestro koalak": {
+                    "ankamaId": 8052,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/8052-piel-maestro-koalak",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/59005.w48h48.png",
+                    "type": "Piel",
+                    "level": 114,
+                    "quantity": 11
+                }
+            },
+            {
+                "Piel de drakoalak": {
+                    "ankamaId": 8054,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/8054-piel-drakoalak",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/59007.w48h48.png",
+                    "type": "Piel",
+                    "level": 94,
+                    "quantity": 7
+                }
+            },
+            {
+                "Coco de tufo oscuro": {
+                    "ankamaId": 8776,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/8776-coco-tufo-oscuro",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/111002.w48h48.png",
+                    "type": "Cáscara",
+                    "level": 136,
+                    "quantity": 2
+                }
+            },
+            {
+                "Diente de smielodón": {
+                    "ankamaId": 11240,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/11240-diente-smielodon",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/47664.w48h48.png",
+                    "type": "Hueso",
+                    "level": 120,
+                    "quantity": 3
+                }
+            },
+            {
+                "Guijarro lunar": {
+                    "ankamaId": 13366,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/13366-guijarro-lunar",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/152005.w48h48.png",
+                    "type": "Guijarro",
+                    "level": 100,
+                    "quantity": 3
+                }
+            },
+            {
+                "Pelos de Kerubim": {
+                    "ankamaId": 13608,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/13608-pelos-kerubim",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/54685.w48h48.png",
+                    "type": "Pelo",
+                    "level": 10,
+                    "quantity": 33
+                }
+            }
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 23253,
+        "name": "Kuaparazón",
+        "level": 126,
+        "type": "Mochila",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/17465.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/equipos/23253-kuaparazon",
+        "description": "A diferencia de lo que dicen por ahí, no se vence a los kuapas saltando sobre su espalda.",
+        "statistics": [
+            {
+                "Vitalidad": {
+                    "min": "151",
+                    "max": "200"
+                }
+            },
+            {
+                "Suerte": {
+                    "min": "41",
+                    "max": "50"
+                }
+            },
+            {
+                "De resistencia{~p}{~z} al agua": {
+                    "min": "7",
+                    "max": "10"
+                }
+            },
+            {
+                "Sabiduría": {
+                    "min": "31",
+                    "max": "40"
+                }
+            },
+            {
+                "Placaje": {
+                    "min": "4",
+                    "max": "7"
+                }
+            },
+            {
+                "Prospección": {
+                    "min": "7",
+                    "max": "10"
+                }
+            },
+            {
+                "De daño{~p}{~z} de agua": {
+                    "min": "3",
+                    "max": "5"
+                }
+            },
+            {
+                "% resistencia al fuego": {
+                    "min": "4",
+                    "max": "6"
+                }
+            },
+            {
+                "A la esquiva pérdidas de PA": {
+                    "min": "4",
+                    "max": "6"
+                }
+            },
+            {
+                "Invocaciones{~p}{~z}": {
+                    "min": "1"
+                }
+            }
+        ],
+        "recipe": [
+            {
+                "Agua de kuapa": {
+                    "ankamaId": 2654,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/2654-agua-kuapa",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/164651.w48h48.png",
+                    "type": "Líquido",
+                    "level": 130,
+                    "quantity": 7
+                }
+            },
+            {
+                "Cerbatana de bambú": {
+                    "ankamaId": 7017,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/7017-cerbatana-bambu",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/164652.w48h48.png",
+                    "type": "Recurso de combate",
+                    "level": 130,
+                    "quantity": 36
+                }
+            },
+            {
+                "Mono kuapa": {
+                    "ankamaId": 7308,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/7308-mono-kuapa",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/164655.w48h48.png",
+                    "type": "Ropaje",
+                    "level": 130,
+                    "quantity": 20
+                }
+            },
+            {
+                "Kuakuá de baño de Nagate": {
+                    "ankamaId": 8399,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/8399-kuakua-bano-nagate",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/164657.w48h48.png",
+                    "type": "Recurso",
+                    "level": 130,
+                    "quantity": 13
+                }
+            },
+            {
+                "Hoja de Blop Multicolor Real": {
+                    "ankamaId": 9389,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/9389-hoja-blop-multicolor-real",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/36014.w48h48.png",
+                    "type": "Planta",
+                    "level": 150,
+                    "quantity": 2
+                }
+            },
+            {
+                "Guijarro rutilante": {
+                    "ankamaId": 12738,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/12738-guijarro-rutilante",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/15291.w48h48.png",
+                    "type": "Guijarro",
+                    "level": 100,
+                    "quantity": 2
+                }
+            },
+            {
+                "Concentrado de bosquecillo": {
+                    "ankamaId": 12744,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/12744-concentrado-bosquecillo",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/12728.w48h48.png",
+                    "type": "Concentrado",
+                    "level": 100,
+                    "quantity": 2
+                }
+            },
+            {
+                "Ojo de maladilla": {
+                    "ankamaId": 17610,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/17610-ojo-maladilla",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/109613.w48h48.png",
+                    "type": "Ojo",
+                    "level": 110,
+                    "quantity": 39
+                }
+            }
+        ],
+        "setId": "481"
+    },
+    {
+        "_id": null,
+        "ankamaId": 12856,
+        "name": "Alforja de Renodolfo",
+        "level": 85,
+        "type": "Mochila",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/81063.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/equipos/12856-alforja-renodolfo",
+        "description": "Puesto que proporciona una gran facilidad de acceso a las botellas, esta alforja es el último grito entre los aventureros pandawas.",
+        "statistics": [
+            {
+                "Vitalidad": {
+                    "min": "41",
+                    "max": "60"
+                }
+            },
+            {
+                "Potencia (daños generales)": {
+                    "min": "31",
+                    "max": "40"
+                }
+            },
+            {
+                "Huida": {
+                    "min": "4",
+                    "max": "5"
+                }
+            },
+            {
+                "% resistencia neutral": {
+                    "min": "2",
+                    "max": "3"
+                }
+            },
+            {
+                "A la esquiva pérdidas de PM": {
+                    "min": "3",
+                    "max": "4"
+                }
+            },
+            {
+                "Invocaciones{~p}{~z}": {
+                    "min": "1"
+                }
+            },
+            {
+                "Alcance": {
+                    "min": "1"
+                }
+            }
+        ],
+        "recipe": [
+            {
+                "Huevo de dragohuevo pizarroso": {
+                    "ankamaId": 844,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/844-huevo-dragohuevo-pizarroso",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/105204.w48h48.png",
+                    "type": "Huevo",
+                    "level": 74,
+                    "quantity": 4
+                }
+            },
+            {
+                "Tela de Dok Alako": {
+                    "ankamaId": 8002,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/8002-tela-dok-alako",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/55720.w48h48.png",
+                    "type": "Tejido",
+                    "level": 74,
+                    "quantity": 2
+                }
+            },
+            {
+                "Pelos de koalak índigo": {
+                    "ankamaId": 8062,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/8062-pelos-koalak-indigo",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/54659.w48h48.png",
+                    "type": "Pelo",
+                    "level": 84,
+                    "quantity": 2
+                }
+            },
+            {
+                "Ala de tufo de las llanuras": {
+                    "ankamaId": 8767,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/8767-ala-tufo-llanuras",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/104001.w48h48.png",
+                    "type": "Ala",
+                    "level": 103,
+                    "quantity": 30
+                }
+            },
+            {
+                "Patrón de Renodolfo": {
+                    "ankamaId": 12832,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/12832-patron-renodolfo",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/153001.w48h48.png",
+                    "type": "Nawidad",
+                    "level": 85,
+                    "quantity": 1
+                }
+            },
+            {
+                "Copo de nieve": {
+                    "ankamaId": 12845,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/12845-copo-nieve",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/153007.w48h48.png",
+                    "type": "Nawidad",
+                    "level": 1,
+                    "quantity": 10
+                }
+            },
+            {
+                "Nariz roja de Renodolfo": {
+                    "ankamaId": 12861,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/12861-nariz-roja-renodolfo",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/153009.w48h48.png",
+                    "type": "Nawidad",
+                    "level": 85,
+                    "quantity": 1
+                }
+            }
+        ],
+        "setId": "233"
+    },
+    {
+        "_id": null,
+        "ankamaId": 13262,
+        "name": "Saca-botellón",
+        "level": 80,
+        "type": "Mochila",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/81064.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/equipos/13262-saca-botellon",
+        "description": "Este saco-botella de buceo sirve para contener aire comprimido y poder explorar las profundidades. En lugar de eso, tú lo has llenado de cerveza. No sabemos si tratarte como un genio o como un borracho.",
+        "statistics": [
+            {
+                "Aumenta los daños de base del hechizo Anclaje en 3": {
+                    "min": "3"
+                }
+            },
+            {
+                "Aumenta en el alcance máximo del hechizo Corriente.": {
+                    "min": "1"
+                }
+            },
+            {
+                "Reduce en el número de turnos a esperar antes de poder volver a lanzar el hechizo Coraza Salina": {
+                    "min": "1"
+                }
+            },
+            {
+                "Desactiva la línea de visión del hechizo Guardianas": {}
+            },
+            {
+                "Daños del hechizo Amarre": {
+                    "min": "15"
+                }
+            },
+            {
+                "20% crítico del hechizo Harmatán": {
+                    "min": "20"
+                }
+            },
+            {
+                "Reduce en el número de turnos a esperar antes de poder volver a lanzar el hechizo Asistencia": {
+                    "min": "1"
+                }
+            },
+            {
+                "Desactiva la línea de visión del hechizo Perforadora": {}
+            }
+        ],
+        "recipe": [
+            {
+                "Lata de vetorano": {
+                    "ankamaId": 2549,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/2549-lata-vetorano",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/15560.w48h48.png",
+                    "type": "Recurso",
+                    "level": 66,
+                    "quantity": 10
+                }
+            },
+            {
+                "Camiseta de barbrusa": {
+                    "ankamaId": 8757,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/8757-camiseta-barbrusa",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/15011.w48h48.png",
+                    "type": "Ropaje",
+                    "level": 64,
+                    "quantity": 4
+                }
+            },
+            {
+                "Fular de sparo": {
+                    "ankamaId": 8760,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/8760-fular-sparo",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/15014.w48h48.png",
+                    "type": "Ropaje",
+                    "level": 63,
+                    "quantity": 4
+                }
+            },
+            {
+                "Pluma de trasero de kido": {
+                    "ankamaId": 8766,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/8766-pluma-trasero-kido",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/53005.w48h48.png",
+                    "type": "Pluma",
+                    "level": 101,
+                    "quantity": 10
+                }
+            },
+            {
+                "Ala de tufo de las llanuras": {
+                    "ankamaId": 8767,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/8767-ala-tufo-llanuras",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/104001.w48h48.png",
+                    "type": "Ala",
+                    "level": 103,
+                    "quantity": 10
+                }
+            },
+            {
+                "Tejido de stropajo": {
+                    "ankamaId": 8801,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/8801-tejido-stropajo",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/55018.w48h48.png",
+                    "type": "Tejido",
+                    "level": 36,
+                    "quantity": 20
+                }
+            },
+            {
+                "Tejido de Gurlo el Terrible": {
+                    "ankamaId": 8995,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/8995-tejido-gurlo-terrible",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/55729.w48h48.png",
+                    "type": "Tejido",
+                    "level": 70,
+                    "quantity": 1
+                }
+            }
+        ],
+        "setId": "250"
+    },
+    {
+        "_id": null,
+        "ankamaId": 6830,
+        "name": "Pequeña mochila de escolar de jefe cocodrail",
+        "level": 70,
+        "type": "Mochila",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/81058.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/equipos/6830-pequena-mochila-escolar-jefe-cocodrail",
+        "description": "En Amakna la vuelta al cole también es una experiencia dolorosa para los niños. Sobre todo para los jóvenes yopukas, para quienes eso es sinónimo de calvario con pruebas infranqueables. Reconfórtalos con esta magnífica mochila de piel y escamas de jefe cocodrail, y rellena de multitud de pelos.",
+        "statistics": [
+            {
+                "Pod{~ps}{~zs}": {
+                    "min": "251",
+                    "max": "300"
+                }
+            },
+            {
+                "Vitalidad": {
+                    "min": "21",
+                    "max": "30"
+                }
+            },
+            {
+                "Agilidad": {
+                    "min": "21",
+                    "max": "30"
+                }
+            },
+            {
+                "Sabiduría": {
+                    "min": "16",
+                    "max": "20"
+                }
+            },
+            {
+                "% resistencia al agua": {
+                    "min": "2",
+                    "max": "3"
+                }
+            },
+            {
+                "% resistencia al fuego": {
+                    "min": "2",
+                    "max": "3"
+                }
+            },
+            {
+                "% crítico": {
+                    "min": "2",
+                    "max": "3"
+                }
+            }
+        ],
+        "recipe": [
+            {
+                "Magnesita": {
+                    "ankamaId": 748,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/748-magnesita",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/40659.w48h48.png",
+                    "type": "Aleación",
+                    "level": 60,
+                    "quantity": 4
+                }
+            },
+            {
+                "Escama de jefe cocodrail": {
+                    "ankamaId": 1613,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/1613-escama-jefe-cocodrail",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/59547.w48h48.png",
+                    "type": "Piel",
+                    "level": 69,
+                    "quantity": 8
+                }
+            },
+            {
+                "Escama de cocodrail": {
+                    "ankamaId": 1663,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/1663-escama-cocodrail",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/59233.w48h48.png",
+                    "type": "Piel",
+                    "level": 46,
+                    "quantity": 8
+                }
+            },
+            {
+                "Hueso de cocodrail": {
+                    "ankamaId": 2664,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/2664-hueso-cocodrail",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/47636.w48h48.png",
+                    "type": "Hueso",
+                    "level": 46,
+                    "quantity": 1
+                }
+            },
+            {
+                "Piedra del Crujidor Legendario": {
+                    "ankamaId": 8102,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/8102-piedra-crujidor-legendario",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/51457.w48h48.png",
+                    "type": "Piedra bruta",
+                    "level": 70,
+                    "quantity": 7
+                }
+            }
+        ],
+        "setId": "20"
+    },
+    {
+        "_id": null,
+        "ankamaId": 7888,
+        "name": "Bolso de Trankitronko",
+        "level": 69,
+        "type": "Mochila",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/81002.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/equipos/7888-bolso-trankitronko",
+        "description": "Este bolso le permite a Trankitronko conservar al fresco sus hojas de kalipto o asfixiar los koalaks demasiado atrevidos.",
+        "statistics": [
+            {
+                "Pod{~ps}{~zs}": {
+                    "min": "401",
+                    "max": "500"
+                }
+            },
+            {
+                "Vitalidad": {
+                    "min": "151",
+                    "max": "200"
+                }
+            },
+            {
+                "Fuerza": {
+                    "min": "-100"
+                }
+            },
+            {
+                "Inteligencia": {
+                    "min": "-100"
+                }
+            },
+            {
+                "Agilidad": {
+                    "min": "-100"
+                }
+            },
+            {
+                "Suerte": {
+                    "min": "-100"
+                }
+            },
+            {
+                "Placaje": {
+                    "min": "2",
+                    "max": "3"
+                }
+            },
+            {
+                "% resistencia a la tierra": {
+                    "min": "4",
+                    "max": "5"
+                }
+            },
+            {
+                "% resistencia al agua": {
+                    "min": "4",
+                    "max": "5"
+                }
+            },
+            {
+                "De daño{~p}{~z}": {
+                    "min": "7",
+                    "max": "10"
+                }
+            },
+            {
+                "Invocaciones{~p}{~z}": {
+                    "min": "1"
+                }
+            },
+            {
+                "% crítico": {
+                    "min": "4",
+                    "max": "5"
+                }
+            }
+        ],
+        "recipe": [
+            {
+                "Concentrado de fajina": {
+                    "ankamaId": 2543,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/2543-concentrado-fajina",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/26018.w48h48.png",
+                    "type": "Concentrado",
+                    "level": 80,
+                    "quantity": 2
+                }
+            },
+            {
+                "Cola de dragopavo pelirrojo salvaje": {
+                    "ankamaId": 2591,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/2591-cola-dragopavo-pelirrojo-salvaje",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/65594.w48h48.png",
+                    "type": "Cola",
+                    "level": 66,
+                    "quantity": 1
+                }
+            },
+            {
+                "Flor de kalipto": {
+                    "ankamaId": 7904,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/7904-flor-kalipto",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/35001.w48h48.png",
+                    "type": "Flor",
+                    "level": 1,
+                    "quantity": 9
+                }
+            },
+            {
+                "Pelos de koalak reineta": {
+                    "ankamaId": 8061,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/8061-pelos-koalak-reineta",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/54661.w48h48.png",
+                    "type": "Pelo",
+                    "level": 84,
+                    "quantity": 9
+                }
+            },
+            {
+                "Ovillo de lana jalatranki": {
+                    "ankamaId": 25817,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/25817-ovillo-lana-jalatranki",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/126129.w48h48.png",
+                    "type": "Recurso",
+                    "level": 100,
+                    "quantity": 1
+                }
+            }
+        ],
+        "setId": "44"
+    },
+    {
+        "_id": null,
+        "ankamaId": 1707,
+        "name": "Mochila de gran aventurero",
+        "level": 60,
+        "type": "Mochila",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/81032.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/equipos/1707-mochila-gran-aventurero",
+        "description": "Esta mochila es perfecta para guardar todos los panes y pócimas que necesites cuando te marches de viaje a sitios exóticos, como la isla de Moon.",
+        "statistics": [
+            {
+                "Pod{~ps}{~zs}": {
+                    "min": "501",
+                    "max": "1000"
+                }
+            }
+        ],
+        "recipe": [
+            {
+                "Escama de cocodrail": {
+                    "ankamaId": 1663,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/1663-escama-cocodrail",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/59233.w48h48.png",
+                    "type": "Piel",
+                    "level": 46,
+                    "quantity": 8
+                }
+            },
+            {
+                "Pelo de vetorano": {
+                    "ankamaId": 1890,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/1890-pelo-vetorano",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/54359.w48h48.png",
+                    "type": "Pelo",
+                    "level": 66,
+                    "quantity": 27
+                }
+            },
+            {
+                "Uña de kanugro": {
+                    "ankamaId": 2528,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/2528-una-kanugro",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/47559.w48h48.png",
+                    "type": "Hueso",
+                    "level": 70,
+                    "quantity": 21
+                }
+            },
+            {
+                "Tejido de fuxfaigter": {
+                    "ankamaId": 2550,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/2550-tejido-fuxfaigter",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/55561.w48h48.png",
+                    "type": "Tejido",
+                    "level": 66,
+                    "quantity": 4
+                }
+            },
+            {
+                "Oreja de fuxfaigter": {
+                    "ankamaId": 2551,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/2551-oreja-fuxfaigter",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/106562.w48h48.png",
+                    "type": "Oreja",
+                    "level": 66,
+                    "quantity": 11
+                }
+            },
+            {
+                "Piel de komanbwork": {
+                    "ankamaId": 7030,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/7030-piel-komanbwork",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/59047.w48h48.png",
+                    "type": "Piel",
+                    "level": 86,
+                    "quantity": 12
+                }
+            }
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 6501,
+        "name": "Bolso-Zanahowia",
+        "level": 60,
+        "type": "Mochila",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/81057.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/equipos/6501-bolso-zanahowia",
+        "description": "Con este bolso sobre el hombro podrás ir de aventuras sin tener que preocuparte por los problemas alimentarios. Pues aunque la zanahowia esté vacía como la cabeza de un yopuka, las hojas que lleva encima crecen solas... Podrás hacerte unas estupendas infusiones.",
+        "statistics": [
+            {
+                "Pod{~ps}{~zs}": {
+                    "min": "601",
+                    "max": "800"
+                }
+            },
+            {
+                "Inteligencia": {
+                    "min": "11",
+                    "max": "15"
+                }
+            },
+            {
+                "De daño{~p}{~z} de fuego": {
+                    "min": "2",
+                    "max": "3"
+                }
+            },
+            {
+                "% resistencia a la tierra": {
+                    "min": "2",
+                    "max": "3"
+                }
+            },
+            {
+                "% resistencia al agua": {
+                    "min": "2",
+                    "max": "3"
+                }
+            }
+        ],
+        "recipe": [
+            {
+                "Zanahowia": {
+                    "ankamaId": 361,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/361-zanahowia",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/68031.w48h48.png",
+                    "type": "Legumbre",
+                    "level": 44,
+                    "quantity": 3
+                }
+            },
+            {
+                "Pelos de barba de awelito wabbit": {
+                    "ankamaId": 418,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/418-pelos-barba-awelito-wabbit",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/54114.w48h48.png",
+                    "type": "Pelo",
+                    "level": 56,
+                    "quantity": 6
+                }
+            },
+            {
+                "Concentrado de oquedal": {
+                    "ankamaId": 2540,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/2540-concentrado-oquedal",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/26017.w48h48.png",
+                    "type": "Concentrado",
+                    "level": 60,
+                    "quantity": 2
+                }
+            },
+            {
+                "Paño del Wey Wabbit": {
+                    "ankamaId": 8398,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/8398-pano-wey-wabbit",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/55723.w48h48.png",
+                    "type": "Tejido",
+                    "level": 60,
+                    "quantity": 1
+                }
+            },
+            {
+                "Rama de pekewabbit hambriento": {
+                    "ankamaId": 14460,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/14460-rama-pekewabbit-hambriento",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/38681.w48h48.png",
+                    "type": "Madera",
+                    "level": 44,
+                    "quantity": 10
+                }
+            }
+        ],
+        "setId": "11"
+    },
+    {
+        "_id": null,
+        "ankamaId": 21009,
+        "name": "Botella de cronoxígeno",
+        "level": 50,
+        "type": "Mochila",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/81064.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/equipos/21009-botella-cronoxigeno",
+        "description": "Gracias al aire contenido en esta botella, por fin vas a poder tener tiempo de respirar.",
+        "recipe": [],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 12414,
+        "name": "Bolsa de viaje del perfecto vulkanianito",
+        "level": 50,
+        "type": "Mochila",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/81062.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/equipos/12414-bolsa-viaje-perfecto-vulkanianito",
+        "description": "Con esta mochila estarás más que listo para explorar Vulkania en toda seguridad. Importante: los artesanos vulkanianos no dan ninguna garantía de su eficacia fuera del puerto de Vulkania... Aunque algunos insisten en que un S.V.P.V. bien repleto puede ser indispensable cuando estás muerto de hambre y que quieres comer en algún sitio.",
+        "statistics": [
+            {
+                "Pod{~ps}{~zs}": {
+                    "min": "401",
+                    "max": "600"
+                }
+            },
+            {
+                "Sabiduría": {
+                    "min": "21",
+                    "max": "25"
+                }
+            },
+            {
+                "Huida": {
+                    "min": "3",
+                    "max": "4"
+                }
+            },
+            {
+                "De daño{~p}{~z} de fuego": {
+                    "min": "4",
+                    "max": "5"
+                }
+            }
+        ],
+        "recipe": [
+            {
+                "Cenizas jóvenes": {
+                    "ankamaId": 12436,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/12436-cenizas-jovenes",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/48282.w48h48.png",
+                    "type": "Polvo",
+                    "level": 25,
+                    "quantity": 7
+                }
+            },
+            {
+                "Yema de huevo de cascasaurio": {
+                    "ankamaId": 12448,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/12448-yema-huevo-cascasaurio",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/105039.w48h48.png",
+                    "type": "Huevo",
+                    "level": 25,
+                    "quantity": 1
+                }
+            },
+            {
+                "Concentrado de boscaje": {
+                    "ankamaId": 12745,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/12745-concentrado-boscaje",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/12729.w48h48.png",
+                    "type": "Concentrado",
+                    "level": 40,
+                    "quantity": 1
+                }
+            }
+        ],
+        "setId": "219"
+    },
+    {
+        "_id": null,
+        "ankamaId": 1705,
+        "name": "Mochila de aventurero",
+        "level": 40,
+        "type": "Mochila",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/81031.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/equipos/1705-mochila-aventurero",
+        "description": "Esta mochila es perfecta para guardar todos tus panes y pócimas cuando te marchas para varios meses, al laberinto por ejemplo...",
+        "statistics": [
+            {
+                "Pod{~ps}{~zs}": {
+                    "min": "251",
+                    "max": "300"
+                }
+            }
+        ],
+        "recipe": [
+            {
+                "Pelos de arakna enferma": {
+                    "ankamaId": 388,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/388-pelos-arakna-enferma",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/54060.w48h48.png",
+                    "type": "Pelo",
+                    "level": 13,
+                    "quantity": 1
+                }
+            },
+            {
+                "Pluma de kwak de viento": {
+                    "ankamaId": 416,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/416-pluma-kwak-viento",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/53113.w48h48.png",
+                    "type": "Pluma",
+                    "level": 44,
+                    "quantity": 1
+                }
+            },
+            {
+                "Pelos de barba de awelito wabbit": {
+                    "ankamaId": 418,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/418-pelos-barba-awelito-wabbit",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/54114.w48h48.png",
+                    "type": "Pelo",
+                    "level": 56,
+                    "quantity": 1
+                }
+            },
+            {
+                "Pluma de kwak de tierra": {
+                    "ankamaId": 1141,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/1141-pluma-kwak-tierra",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/53223.w48h48.png",
+                    "type": "Pluma",
+                    "level": 44,
+                    "quantity": 1
+                }
+            }
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 7108,
+        "name": "Larvabolso",
+        "level": 27,
+        "type": "Mochila",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/81060.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/equipos/7108-larvabolso",
+        "description": "Este bolso original pero sin adornos estaba muy de moda antiguamente. Es el típico ejemplo del mal gusto que tenían tus antepasados.",
+        "statistics": [
+            {
+                "Vitalidad": {
+                    "min": "6",
+                    "max": "20"
+                }
+            },
+            {
+                "De daño{~p}{~z}": {
+                    "min": "1",
+                    "max": "2"
+                }
+            }
+        ],
+        "recipe": [
+            {
+                "Piel de larva azul": {
+                    "ankamaId": 362,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/362-piel-larva-azul",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/59032.w48h48.png",
+                    "type": "Piel",
+                    "level": 18,
+                    "quantity": 6
+                }
+            },
+            {
+                "Piel de larva verde": {
+                    "ankamaId": 364,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/364-piel-larva-verde",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/59034.w48h48.png",
+                    "type": "Piel",
+                    "level": 18,
+                    "quantity": 6
+                }
+            },
+            {
+                "Diente de tofu mutante": {
+                    "ankamaId": 375,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/375-diente-tofu-mutante",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/47047.w48h48.png",
+                    "type": "Hueso",
+                    "level": 36,
+                    "quantity": 7
+                }
+            },
+            {
+                "Hilo de seda": {
+                    "ankamaId": 643,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/643-hilo-seda",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/15486.w48h48.png",
+                    "type": "Recurso",
+                    "level": 18,
+                    "quantity": 1
+                }
+            }
+        ],
+        "setId": "33"
+    },
+    {
+        "_id": null,
+        "ankamaId": 1704,
+        "name": "Mochila de Staca Novista",
+        "level": 20,
+        "type": "Mochila",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/81030.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/equipos/1704-mochila-staca-novista",
+        "description": "Cuentan que un minero famoso era capaz de excavar sin parar durante meses en 4 minas distintas a la vez. La verdad es que se trata de una leyenda inventada por el gremio Martillhoz para que los demás mineros se animen y sean más productivos.",
+        "statistics": [
+            {
+                "Pod{~ps}{~zs}": {
+                    "min": "1001",
+                    "max": "1500"
+                }
+            }
+        ],
+        "conditions": [
+            "Leñador > Niv. 180 o Minero > Niv. 180 o Pescador > Niv. 180 o Campesino > Niv. 180 o Alquimista > Niv. 180 o Cazador > Niv. 180"
+        ],
+        "recipe": [
+            {
+                "Pluma de kwak de llamas": {
+                    "ankamaId": 415,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/415-pluma-kwak-llamas",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/53111.w48h48.png",
+                    "type": "Pluma",
+                    "level": 44,
+                    "quantity": 4
+                }
+            },
+            {
+                "Pelos de barba de awelito wabbit": {
+                    "ankamaId": 418,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/418-pelos-barba-awelito-wabbit",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/54114.w48h48.png",
+                    "type": "Pelo",
+                    "level": 56,
+                    "quantity": 2
+                }
+            },
+            {
+                "Pelos de wabbit wodo": {
+                    "ankamaId": 649,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/649-pelos-wabbit-wodo",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/54197.w48h48.png",
+                    "type": "Pelo",
+                    "level": 56,
+                    "quantity": 2
+                }
+            },
+            {
+                "Tejido de milubo": {
+                    "ankamaId": 651,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/651-tejido-milubo",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/55199.w48h48.png",
+                    "type": "Tejido",
+                    "level": 96,
+                    "quantity": 1
+                }
+            },
+            {
+                "Pluma puntiaguda de zorrowapo": {
+                    "ankamaId": 1670,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/1670-pluma-puntiaguda-zorrowapo",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/53393.w48h48.png",
+                    "type": "Pluma",
+                    "level": 106,
+                    "quantity": 4
+                }
+            },
+            {
+                "Pelos de minilubo": {
+                    "ankamaId": 1690,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/1690-pelos-minilubo",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/54554.w48h48.png",
+                    "type": "Pelo",
+                    "level": 26,
+                    "quantity": 2
+                }
+            }
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 10971,
+        "name": "Morral Lanac",
+        "level": 20,
+        "type": "Mochila",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/81025.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/equipos/10971-morral-lanac",
+        "description": "Equipado con este morral podrás hacer las mil y una canalladas y siempre con la sonrisa en los labios, pillín.",
+        "statistics": [
+            {
+                "Pod{~ps}{~zs}": {
+                    "min": "251",
+                    "max": "300"
+                }
+            }
+        ],
+        "recipe": [
+            {
+                "Pelos de arakna enferma": {
+                    "ankamaId": 388,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/388-pelos-arakna-enferma",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/54060.w48h48.png",
+                    "type": "Pelo",
+                    "level": 13,
+                    "quantity": 5
+                }
+            },
+            {
+                "Madera de nogal": {
+                    "ankamaId": 476,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/476-madera-nogal",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/38095.w48h48.png",
+                    "type": "Madera",
+                    "level": 40,
+                    "quantity": 10
+                }
+            },
+            {
+                "Hilo de seda": {
+                    "ankamaId": 643,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/643-hilo-seda",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/15486.w48h48.png",
+                    "type": "Recurso",
+                    "level": 18,
+                    "quantity": 1
+                }
+            },
+            {
+                "Cuero de Jalató Real": {
+                    "ankamaId": 886,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/886-cuero-jalato-real",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/56535.w48h48.png",
+                    "type": "Cuero",
+                    "level": 30,
+                    "quantity": 10
+                }
+            }
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 1703,
+        "name": "Mochila de gran recolector",
+        "level": 20,
+        "type": "Mochila",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/81029.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/equipos/1703-mochila-gran-recolector",
+        "description": "Esta mochila ha sido especialmente diseñada para almacenar múltiples recursos de los que se pueden colectar. Solo los auténticos recolectores pueden ponérsela.",
+        "statistics": [
+            {
+                "Pod{~ps}{~zs}": {
+                    "min": "601",
+                    "max": "800"
+                }
+            }
+        ],
+        "conditions": [
+            "Leñador > Niv. 120 o Minero > Niv. 120 o Pescador > Niv. 120 o Campesino > Niv. 120 o Alquimista > Niv. 120 o Cazador > Niv. 120"
+        ],
+        "recipe": [
+            {
+                "Pluma de tofu": {
+                    "ankamaId": 301,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/301-pluma-tofu",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/53014.w48h48.png",
+                    "type": "Pluma",
+                    "level": 36,
+                    "quantity": 20
+                }
+            },
+            {
+                "Lana de jalató": {
+                    "ankamaId": 384,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/384-lana-jalato",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/57056.w48h48.png",
+                    "type": "Lana",
+                    "level": 19,
+                    "quantity": 20
+                }
+            },
+            {
+                "Pelos de la barba de bwork mago": {
+                    "ankamaId": 409,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/409-pelos-barba-bwork-mago",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/54131.w48h48.png",
+                    "type": "Pelo",
+                    "level": 45,
+                    "quantity": 2
+                }
+            },
+            {
+                "Pelos de barba de awelito wabbit": {
+                    "ankamaId": 418,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/418-pelos-barba-awelito-wabbit",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/54114.w48h48.png",
+                    "type": "Pelo",
+                    "level": 56,
+                    "quantity": 2
+                }
+            },
+            {
+                "Lana de jefe de guerra jalató": {
+                    "ankamaId": 882,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/882-lana-jefe-guerra-jalato",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/57209.w48h48.png",
+                    "type": "Lana",
+                    "level": 29,
+                    "quantity": 2
+                }
+            }
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 8131,
+        "name": "Bolso de campesino",
+        "level": 18,
+        "type": "Mochila",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/81003.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/equipos/8131-bolso-campesino",
+        "description": "Este bolso es una referencia para todos los jóvenes colegiales, con él se puede almacenar harinas animales o vegetales. También puedes abrirlo, desplegarlo y descoserlo por debajo, podrás entonces usarlo como falda si no te da miedo enseñar tus velludas piernas.",
+        "statistics": [
+            {
+                "Suerte": {
+                    "min": "16",
+                    "max": "20"
+                }
+            },
+            {
+                "Pod{~ps}{~zs}": {
+                    "min": "161",
+                    "max": "200"
+                }
+            }
+        ],
+        "recipe": [
+            {
+                "Semilla de girasol": {
+                    "ankamaId": 288,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/288-semilla-girasol",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/58006.w48h48.png",
+                    "type": "Semilla",
+                    "level": 18,
+                    "quantity": 1
+                }
+            },
+            {
+                "Hierba loca": {
+                    "ankamaId": 2665,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/2665-hierba-loca",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/36637.w48h48.png",
+                    "type": "Planta",
+                    "level": 18,
+                    "quantity": 1
+                }
+            },
+            {
+                "Pétalo mágico de Girasol Hambriento": {
+                    "ankamaId": 8157,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/8157-petalo-magico-girasol-hambriento",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/35002.w48h48.png",
+                    "type": "Flor",
+                    "level": 20,
+                    "quantity": 1
+                }
+            }
+        ],
+        "setId": "47"
+    },
+    {
+        "_id": null,
+        "ankamaId": 6916,
+        "name": "Mochila de pequeño moskito",
+        "level": 16,
+        "type": "Mochila",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/81059.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/equipos/6916-mochila-pequeno-moskito",
+        "description": "Antiguamente, esta mochila hecha con piel y alas de moskitos causaba furor en los colegios. Hoy en día, ha pasado totalmente de moda y ha sido remplazada, en el corazón de los niños, por la pequeña mochila de jefe cocodrail. Es absurdo, cuando uno sabe que esta es mucho más cara y sobre todo más fea. Historias de moda...",
+        "statistics": [
+            {
+                "Pod{~ps}{~zs}": {
+                    "min": "71",
+                    "max": "100"
+                }
+            },
+            {
+                "Suerte": {
+                    "min": "11",
+                    "max": "15"
+                }
+            }
+        ],
+        "recipe": [
+            {
+                "Ala de moskito": {
+                    "ankamaId": 307,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/307-ala-moskito",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/104019.w48h48.png",
+                    "type": "Ala",
+                    "level": 18,
+                    "quantity": 4
+                }
+            },
+            {
+                "Pétalo mágico de Girasol Hambriento": {
+                    "ankamaId": 8157,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/8157-petalo-magico-girasol-hambriento",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/35002.w48h48.png",
+                    "type": "Flor",
+                    "level": 20,
+                    "quantity": 1
+                }
+            },
+            {
+                "Madera carcomida": {
+                    "ankamaId": 16487,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/16487-madera-carcomida",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/38683.w48h48.png",
+                    "type": "Madera",
+                    "level": 18,
+                    "quantity": 1
+                }
+            }
+        ],
+        "setId": "23"
+    },
+    {
+        "_id": null,
+        "ankamaId": 1702,
+        "name": "Mochila de recolector",
+        "level": 15,
+        "type": "Mochila",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/81028.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/equipos/1702-mochila-recolector",
+        "description": "Esta mochila ha sido especialmente diseñada para almacenar recursos de los que se pueden colectar. Solo los auténticos recolectores pueden ponérsela.",
+        "statistics": [
+            {
+                "Pod{~ps}{~zs}": {
+                    "min": "251",
+                    "max": "400"
+                }
+            }
+        ],
+        "conditions": [
+            "Leñador > Niv. 80 o Minero > Niv. 80 o Pescador > Niv. 80 o Campesino > Niv. 80 o Alquimista > Niv. 80 o Cazador > Niv. 80"
+        ],
+        "recipe": [
+            {
+                "Pelos de black pekewabbit": {
+                    "ankamaId": 646,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/646-pelos-black-pekewabbit",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/54195.w48h48.png",
+                    "type": "Pelo",
+                    "level": 46,
+                    "quantity": 10
+                }
+            },
+            {
+                "Lana de ramán strubiense": {
+                    "ankamaId": 881,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/881-lana-raman-strubiense",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/57208.w48h48.png",
+                    "type": "Lana",
+                    "level": 23,
+                    "quantity": 25
+                }
+            },
+            {
+                "Lana de jalatín negro": {
+                    "ankamaId": 885,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/885-lana-jalatin-negro",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/57210.w48h48.png",
+                    "type": "Lana",
+                    "level": 26,
+                    "quantity": 25
+                }
+            }
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 1699,
+        "name": "Mochila de pequeño aventurero",
+        "level": 10,
+        "type": "Mochila",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/81027.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/equipos/1699-mochila-pequeno-aventurero",
+        "description": "Esta mochila está diseñada para los que no se alejan demasiado de casa y necesitan llevarse cosas sin ninguna importancia, como tablas de fresno, por ejemplo.",
+        "statistics": [
+            {
+                "Pod{~ps}{~zs}": {
+                    "min": "151",
+                    "max": "200"
+                }
+            }
+        ],
+        "recipe": [
+            {
+                "Pelos de arakna enferma": {
+                    "ankamaId": 388,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/388-pelos-arakna-enferma",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/54060.w48h48.png",
+                    "type": "Pelo",
+                    "level": 13,
+                    "quantity": 18
+                }
+            },
+            {
+                "Lana de ramán strubiense": {
+                    "ankamaId": 881,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/881-lana-raman-strubiense",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/57208.w48h48.png",
+                    "type": "Lana",
+                    "level": 23,
+                    "quantity": 18
+                }
+            },
+            {
+                "Lana de jalatín negro": {
+                    "ankamaId": 885,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/885-lana-jalatin-negro",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/57210.w48h48.png",
+                    "type": "Lana",
+                    "level": 26,
+                    "quantity": 18
+                }
+            }
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 1698,
+        "name": "Mochila de pequeño recolector",
+        "level": 6,
+        "type": "Mochila",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/81026.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/equipos/1698-mochila-pequeno-recolector",
+        "description": "Esta mochila ha sido especialmente diseñada para almacenar algunos recursos de los que se pueden colectar. Solo los auténticos recolectores pueden ponérsela.",
+        "statistics": [
+            {
+                "Pod{~ps}{~zs}": {
+                    "min": "151",
+                    "max": "250"
+                }
+            }
+        ],
+        "conditions": [
+            "Leñador > Niv. 40 o Minero > Niv. 40 o Pescador > Niv. 40 o Campesino > Niv. 40 o Alquimista > Niv. 40 o Cazador > Niv. 40"
+        ],
+        "recipe": [
+            {
+                "Pluma de tofu": {
+                    "ankamaId": 301,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/301-pluma-tofu",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/53014.w48h48.png",
+                    "type": "Pluma",
+                    "level": 36,
+                    "quantity": 5
+                }
+            },
+            {
+                "Lana de ramán strubiense": {
+                    "ankamaId": 881,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/881-lana-raman-strubiense",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/57208.w48h48.png",
+                    "type": "Lana",
+                    "level": 23,
+                    "quantity": 10
+                }
+            },
+            {
+                "Toalla de playa": {
+                    "ankamaId": 13487,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/13487-toalla-playa",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/55130.w48h48.png",
+                    "type": "Tejido",
+                    "level": 18,
+                    "quantity": 3
+                }
+            }
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 1697,
+        "name": "Pequeña mochila en lana de jalatín",
+        "level": 1,
+        "type": "Mochila",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/81025.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/equipos/1697-pequena-mochila-lana-jalatin",
+        "description": "Esta pequeña mochila no te llevará a la fama, pero tendrá por lo menos el mérito de permitirte guardar algunos de tus bienes.",
+        "statistics": [
+            {
+                "Pod{~ps}{~zs}": {
+                    "min": "71",
+                    "max": "100"
+                }
+            }
+        ],
+        "recipe": [
+            {
+                "Ortiga": {
+                    "ankamaId": 421,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/421-ortiga",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/36642.w48h48.png",
+                    "type": "Planta",
+                    "level": 1,
+                    "quantity": 3
+                }
+            },
+            {
+                "Lana de jalatín negro": {
+                    "ankamaId": 885,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/885-lana-jalatin-negro",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/57210.w48h48.png",
+                    "type": "Lana",
+                    "level": 26,
+                    "quantity": 2
+                }
+            }
+        ],
+        "setId": null
+    }
+]

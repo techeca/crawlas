@@ -1,0 +1,1005 @@
+[
+    {
+        "statusCode": "404"
+    },
+    {
+        "_id": null,
+        "ankamaId": 17838,
+        "name": "Arreos de dragopavo de carreras",
+        "level": 60,
+        "type": "Arreos de dragopavo",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182003.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/17838-arreos-dragopavo-carreras",
+        "description": "Si eres de los que no temen nada ni a nadie, con estos arreos podrás transformar a tu dragopavo en un animal de carrera. Bueno, solo en apariencia."
+    },
+    {
+        "_id": null,
+        "ankamaId": 18152,
+        "name": "Arreos de mulagua bivalvos",
+        "level": 60,
+        "type": "Arreos de mulagua",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182006.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/18152-arreos-mulagua-bivalvos",
+        "description": "Gracias a estos arreos formados de valvas y corales, tu mulagua se sentirá como pez en el agua durante vuestras excursiones submarinas."
+    },
+    {
+        "_id": null,
+        "ankamaId": 18196,
+        "name": "Arreos de dragopavo urikornio",
+        "level": 60,
+        "type": "Arreos de dragopavo",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182012.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/18196-arreos-dragopavo-urikornio",
+        "description": "¿Mito o realidad? Nunca se han avistado tantos urikornios como desde que salieron al mercado estos arreos."
+    },
+    {
+        "_id": null,
+        "ankamaId": 19616,
+        "name": "Arreos de mulagua escarab",
+        "level": 60,
+        "type": "Arreos de mulagua",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182022.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/19616-arreos-mulagua-escarab",
+        "description": "Equipando estos arreos a tu mulagua, es posible que esta se crea un escarab y que vaya empujando una bola de excrementos. Lo positivo de esto es que la gente se apartará para dejarte pasar, lo que te permitirá salir rápidamente de las caravanas que se forman en la salida de Astrub en hora punta."
+    },
+    {
+        "_id": null,
+        "ankamaId": 20027,
+        "name": "Arreos de mulagua centelleantes",
+        "level": 60,
+        "type": "Arreos de mulagua",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182026.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/20027-arreos-mulagua-centelleantes",
+        "description": "Es mejor brillar con ardor que arder con brillo."
+    },
+    {
+        "_id": null,
+        "ankamaId": 21148,
+        "name": "Arreos de mulagua acuosa",
+        "level": 60,
+        "type": "Arreos de mulagua",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182040.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/21148-arreos-mulagua-acuosa",
+        "description": "Las historias históricas hablan siempre de dragones dragontinos y de héroes heroicos. Escribe por escrito tu propia aventura aventurera con tu mulagua acuosa."
+    },
+    {
+        "_id": null,
+        "ankamaId": 21395,
+        "name": "Arreos azulados de mulagua",
+        "level": 60,
+        "type": "Arreos de mulagua",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182049.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/21395-arreos-azulados-mulagua",
+        "description": "Estos arreos se pensaron para los desfiles militares en superficie y bajo el agua, por lo que poodrás mostrar tu poderío militar incluso en las aguas sufokeñas."
+    },
+    {
+        "_id": null,
+        "ankamaId": 21407,
+        "name": "Arreos de mulagua de hueso",
+        "level": 60,
+        "type": "Arreos de mulagua",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182047.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/21407-arreos-mulagua-hueso",
+        "description": "Gracias a estos arreos, los únicos que se atreverán a meterse contigo en las profundidades abisales serán los carroñeros."
+    },
+    {
+        "_id": null,
+        "ankamaId": 21481,
+        "name": "Arreos de mulagua tymador",
+        "level": 60,
+        "type": "Arreos de mulagua",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182056.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/21481-arreos-mulagua-tymador",
+        "description": "Un viejo tymador dijo un día: 'Si la fortaleza es inexpugnable, pasa por el camino fangoso que no huele muy bien'. Después de esto, comercializó estos arreos con un producto que no retiene los olores como argumento de venta."
+    },
+    {
+        "_id": null,
+        "ankamaId": 21482,
+        "name": "Arreos de dragopavo de tymador",
+        "level": 60,
+        "type": "Arreos de dragopavo",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182055.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/21482-arreos-dragopavo-tymador",
+        "description": "Si no consigues evitar que tu dragopavo sonría, vas a tener problemas para camuflarte en la oscuridad."
+    },
+    {
+        "_id": null,
+        "ankamaId": 21793,
+        "name": "Arreos de mulagua steamer",
+        "level": 60,
+        "type": "Arreos de mulagua",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182062.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/21793-arreos-mulagua-steamer",
+        "description": "Sería lógico pensar que los steamers, al haber compartido los fondos marinos de Sufokia con las mulaguas, les tendrían un gran respeto. Estos arreos deformantes nos muestran que no parece que esto sea así."
+    },
+    {
+        "_id": null,
+        "ankamaId": 21799,
+        "name": "Arreos de dragopavo ocra",
+        "level": 60,
+        "type": "Arreos de dragopavo",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182064.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/21799-arreos-dragopavo-ocra",
+        "description": "Con estos arreos transformarás el gesto tontorrón de tu dragopavo en un gesto igual de tontorrón, pero un poco más estiloso."
+    },
+    {
+        "_id": null,
+        "ankamaId": 22365,
+        "name": "Arreos de dragopavo feca",
+        "level": 60,
+        "type": "Arreos de dragopavo",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182068.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/22365-arreos-dragopavo-feca",
+        "description": "Distinguido de la cola a las patas, tu dragopavo se convertirá en una montura de lujo. Sin embargo, hay que tener cuidado, el lujo no tiene impacto alguno en la inteligencia."
+    },
+    {
+        "_id": null,
+        "ankamaId": 22366,
+        "name": "Arreos de mulagua feca",
+        "level": 60,
+        "type": "Arreos de mulagua",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182070.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/22366-arreos-mulagua-feca",
+        "description": "Inoxidable garantizado, lo que parece resultar práctico para una montura acuática, estos arreos reforzarán tu mulagua ofeciéndole una protección digna de un feca."
+    },
+    {
+        "_id": null,
+        "ankamaId": 22455,
+        "name": "Arreos zobals de dragopavo",
+        "level": 60,
+        "type": "Arreos de dragopavo",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182071.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/22455-arreos-zobals-dragopavo",
+        "description": "Cuando el estilo importa más que lo práctico, la eficacia suele resentirse. ¿Es mejor ser rápido pero poco elegante o lento pero con señorío?"
+    },
+    {
+        "_id": null,
+        "ankamaId": 23215,
+        "name": "Arreos de dragopavo sacrógrito",
+        "level": 60,
+        "type": "Arreos de dragopavo",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182077.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/23215-arreos-dragopavo-sacrogrito",
+        "description": "El dragopavo no sabía que había venido para sufrir y, como es tan tonto, quizás no se haya dado cuenta aún."
+    },
+    {
+        "_id": null,
+        "ankamaId": 24946,
+        "name": "Arreos de vueloceronte uginak",
+        "level": 60,
+        "type": "Arreos de vueloceronte",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182092.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/24946-arreos-vueloceronte-uginak",
+        "description": "¡Esta es una montura bastante canina!"
+    },
+    {
+        "_id": null,
+        "ankamaId": 25362,
+        "name": "Arreos de vueloceronte anutrof",
+        "level": 60,
+        "type": "Arreos de vueloceronte",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182101.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/25362-arreos-vueloceronte-anutrof",
+        "description": "Este vueloceronte lleva un anillo en la mandíbula con el que puedes atarlo fácilmente al suelo utilizando una cuerda, para que no se vaya volando atraído por la fortuna de otra persona."
+    },
+    {
+        "_id": null,
+        "ankamaId": 26005,
+        "name": "Arreos de vueloceronte selotrop",
+        "level": 60,
+        "type": "Arreos de vueloceronte",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182104.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/26005-arreos-vueloceronte-selotrop",
+        "description": "El cuerno de de este vueloceronte es brillante y te guiará como un faro en la noche. Pero procura no deslumbrarte, ya que cualquier pérdida de control podría suponerte un malus en tu póliza de seguro."
+    },
+    {
+        "_id": null,
+        "ankamaId": 18151,
+        "name": "Arreos de mulagua sufokeños",
+        "level": 60,
+        "type": "Arreos de mulagua",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182007.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/18151-arreos-mulagua-sufokenos",
+        "description": "Con los colores de Sufokia, tu mulagua lucirá imponente."
+    },
+    {
+        "_id": null,
+        "ankamaId": 18453,
+        "name": "Arreos de dragopavo mecantiguos",
+        "level": 60,
+        "type": "Arreos de dragopavo",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182013.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/18453-arreos-dragopavo-mecantiguos",
+        "description": "Cuando equipes a tu dragopavo con estos arreos, lo convertirás en un medio de locomoción mecanizado barato y 100% ecológico."
+    },
+    {
+        "_id": null,
+        "ankamaId": 18631,
+        "name": "Arreos de dragopavo desértico",
+        "level": 60,
+        "type": "Arreos de dragopavo",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182015.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/18631-arreos-dragopavo-desertico",
+        "description": "Estos arreos están pensados para recuperar y reciclar los fluidos corporales del dragopavo y así limitar su deshidratación en el desierto."
+    },
+    {
+        "_id": null,
+        "ankamaId": 18881,
+        "name": "Arreos de dragopavo magmático",
+        "level": 60,
+        "type": "Arreos de dragopavo",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182017.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/18881-arreos-dragopavo-magmatico",
+        "description": "Estos arreos son ideales para proteger a tu dragopavo cuando atraviese las landas de Sidimote a toda velocidad porque tienes el fuego pegado al trasero."
+    },
+    {
+        "_id": null,
+        "ankamaId": 19344,
+        "name": "Arreos de mulagua esqueleto",
+        "level": 60,
+        "type": "Arreos de mulagua",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182021.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/19344-arreos-mulagua-esqueleto",
+        "description": "Has enviado a tu mulagua al reino de los muertos para que la leyenda cobre vida. Gracias a esta paradoja y, sobre todo, a estos arreos, tu mulagua estará más terrorífica que nunca."
+    },
+    {
+        "_id": null,
+        "ankamaId": 20068,
+        "name": "Arreos de mulagua de bucanero",
+        "level": 60,
+        "type": "Arreos de mulagua",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182028.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/20068-arreos-mulagua-bucanero",
+        "description": "El timón incorporado a la parte trasera de estos arreos permite dirigir tu mulagua como si de un barco pirata se tratase. Solo tienes que montarte en tu mulagua en el sentido contrario de la marcha y conducir si ver por dónde vas o, si no, colocarte en el sentido de la marcha para ver por dónde vas , pero haciendo que tu mulagua avance en el sentido contrario de tu orientación, es decir, marcha atrás en el sentido de la marcha. Te acostumbrarás rápido, ya verás."
+    },
+    {
+        "_id": null,
+        "ankamaId": 21330,
+        "name": "Arreos de vueloceronte yopuka",
+        "level": 60,
+        "type": "Arreos de vueloceronte",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182044.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/21330-arreos-vueloceronte-yopuka",
+        "description": "Gracias a estos arreos, el cuerno de tu vueloceronte se transforma en una formidable espuela. Algo con lo que hacer palidecer al más aguerrido de los trools o satisfacer al más acomplejado de los yopukas."
+    },
+    {
+        "_id": null,
+        "ankamaId": 21477,
+        "name": "Arreos de vueloceronte sram",
+        "level": 60,
+        "type": "Arreos de vueloceronte",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182053.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/21477-arreos-vueloceronte-sram",
+        "description": "Este saco de huesos aguantará muy bien el peso de un saco de huesos como tú."
+    },
+    {
+        "_id": null,
+        "ankamaId": 21772,
+        "name": "Arreos de vueloceronte osamodas",
+        "level": 60,
+        "type": "Arreos de vueloceronte",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182060.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/21772-arreos-vueloceronte-osamodas",
+        "description": "Estos arreos no añaden un cuerno, ni tres, ni cuatro, ni cinco, ni seis... y mucho menos siete, sino dos, y ni uno más. Los más puntillosos se preguntan si no deberíamos llamarlos trikorniocerontes."
+    },
+    {
+        "_id": null,
+        "ankamaId": 21773,
+        "name": "Arreos de mulagua osamodas",
+        "level": 60,
+        "type": "Arreos de mulagua",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182061.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/21773-arreos-mulagua-osamodas",
+        "description": "La influencia del dios bestial ha hecho que le crezcan colmillos y garras a tu mulagua. ¿Será esta la próxima etapa de la evolución de nuestros tranquilos herbívoros submarinos?"
+    },
+    {
+        "_id": null,
+        "ankamaId": 21800,
+        "name": "Arreos de mulagua ocra",
+        "level": 60,
+        "type": "Arreos de mulagua",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182065.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/21800-arreos-mulagua-ocra",
+        "description": "Imponentes pero siempre elegantes: estos arreos te darán el toque de estilo que te faltaba."
+    },
+    {
+        "_id": null,
+        "ankamaId": 22460,
+        "name": "Arreos zobals de vueloceronte",
+        "level": 60,
+        "type": "Arreos de vueloceronte",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182072.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/22460-arreos-zobals-vueloceronte",
+        "description": "Con su cuerno y sus plumas manchadas de sangre, este vueloceronte solo puede inspirar miedo y condenación."
+    },
+    {
+        "_id": null,
+        "ankamaId": 23046,
+        "name": "Arreos de dragopavo sadida",
+        "level": 60,
+        "type": "Arreos de dragopavo",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182074.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/23046-arreos-dragopavo-sadida",
+        "description": "La versatilidad dentro de un grupo es importante para superar todas las pruebas. Si te encuentras perdido con un compañero en pleno desierto, tu montura servirá para alimentar el fuego con el que asar la montura de tu compañero. Así ninguno de los dos morirá de hambre."
+    },
+    {
+        "_id": null,
+        "ankamaId": 23217,
+        "name": "Arreos de vueloceronte sacrógrito",
+        "level": 60,
+        "type": "Arreos de vueloceronte",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182078.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/23217-arreos-vueloceronte-sacrogrito",
+        "description": "Equipado con piezas de metal y pintado con sangre sacada directamente de la carnicería del templo de Sacrógrito, tu vueloceronte está igualmente preparado para los campos de batalla como para las fiestas de disfraces durante la época de Haluín."
+    },
+    {
+        "_id": null,
+        "ankamaId": 23838,
+        "name": "Arreos de vueloceronte zurcarák",
+        "level": 60,
+        "type": "Arreos de vueloceronte",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182089.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/23838-arreos-vueloceronte-zurcarak",
+        "description": "Un tortugato sería una forma elegante de llamar a un miaumiau escondido en un caparazón. ¿Por qué buscarle tres pies al miaumiau?"
+    },
+    {
+        "_id": null,
+        "ankamaId": 24974,
+        "name": "Arreos de mulagua aniripsa",
+        "level": 60,
+        "type": "Arreos de mulagua",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182095.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/24974-arreos-mulagua-aniripsa",
+        "description": "En caso de urgencia, el corazón situado en estos arreos empezará a brillar y alternar entre azul y rojo para llamar la atención de los usuarios que se crucen en tu camino, que se apartarán naturalmente para abrirte paso."
+    },
+    {
+        "_id": null,
+        "ankamaId": 25184,
+        "name": "Arreos de dragopavo hipermago",
+        "level": 60,
+        "type": "Arreos de dragopavo",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182096.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/25184-arreos-dragopavo-hipermago",
+        "description": "Para que ninguna cita importante se vaya a pique, no dudes en utilizar el dragopavo hipermago. Parece que tiene la cabeza en las nubes, pero tiene los pies bien en la tierra y sobre todo se tira pedos de fuego."
+    },
+    {
+        "_id": null,
+        "ankamaId": 25185,
+        "name": "Arreos de mulagua hipermago",
+        "level": 60,
+        "type": "Arreos de mulagua",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182097.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/25185-arreos-mulagua-hipermago",
+        "description": "Esta mulagua es un verdadero tesoro marino, digno de mayores navíos naufragados. Y además es práctica, ya que te permitirá desplazarte a gran velocidad ante la mirada atónita de los pischis."
+    },
+    {
+        "_id": null,
+        "ankamaId": 25364,
+        "name": "Arreos de dragopavo anutrof",
+        "level": 60,
+        "type": "Arreos de dragopavo",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182099.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/25364-arreos-dragopavo-anutrof",
+        "description": "El dragopavo anutrof es tan conocido por su mal genio como por su docilidad repentina en cuanto le das un puñado de kamas que pueda picotear."
+    },
+    {
+        "_id": null,
+        "ankamaId": 26004,
+        "name": "Arreos de mulagua selotrop",
+        "level": 60,
+        "type": "Arreos de mulagua",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182103.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/26004-arreos-mulagua-selotrop",
+        "description": "Bajo el agua, solo tienes que lanzar un hechizo elemental a través de un portal para que la mulagua avance mucho más rápido, como si estuviera equipada de una hélice. Sin embargo, hay que tener cuidado, ya que después de esto se vuelve difícil de domar."
+    },
+    {
+        "_id": null,
+        "ankamaId": 17839,
+        "name": "Arreos de dragopavo abráknidos",
+        "level": 60,
+        "type": "Arreos de dragopavo",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182004.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/17839-arreos-dragopavo-abraknidos",
+        "description": "Si pudieras equipar a tu suegra con estos arreos, entonces ya sí que estarías en todo tu derecho de llamarla «el tronco»."
+    },
+    {
+        "_id": null,
+        "ankamaId": 18148,
+        "name": "Arreos de mulagua brakmarianos",
+        "level": 60,
+        "type": "Arreos de mulagua",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182010.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/18148-arreos-mulagua-brakmarianos",
+        "description": "Si «maldad» es tu segundo nombre, no lo dudes más; equipa a tu mulagua con estos arreos y muestra tu devoción por la nefasta causa de Brakmar."
+    },
+    {
+        "_id": null,
+        "ankamaId": 18524,
+        "name": "Arreos de dragopavo de los hielos",
+        "level": 60,
+        "type": "Arreos de dragopavo",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182014.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/18524-arreos-dragopavo-hielos",
+        "description": "Estos arreos son inmunes al deshielo. Con ellos puedes seguir viviendo sin preocuparte por las consecuencias de tus actos en el cambio climático."
+    },
+    {
+        "_id": null,
+        "ankamaId": 19136,
+        "name": "Arreos de mulagua zómbicos",
+        "level": 60,
+        "type": "Arreos de mulagua",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182018.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/19136-arreos-mulagua-zombicos",
+        "description": "Si te parece de buen gusto vestir a tu fiel corcel con los restos mortales necrosados de uno de sus congéneres, deberías plantearte seriamente dejar de desayunar cuerboks o de estar todo el día escuchando Krammstain."
+    },
+    {
+        "_id": null,
+        "ankamaId": 19991,
+        "name": "Arreos de vueloceronte dragosaurio",
+        "level": 60,
+        "type": "Arreos de vueloceronte",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182024.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/19991-arreos-vueloceronte-dragosaurio",
+        "description": "Por fin tiene pinta de malvado tu vueloceronte."
+    },
+    {
+        "_id": null,
+        "ankamaId": 20770,
+        "name": "Arreos de mulagua mordientes",
+        "level": 60,
+        "type": "Arreos de mulagua",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182032.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/20770-arreos-mulagua-mordientes",
+        "description": "Con estos arreos, tu mulagua ya no tendrá problemas para masticar la comida que tengas a bien darle."
+    },
+    {
+        "_id": null,
+        "ankamaId": 21322,
+        "name": "Arreos de dragopavo esepecuerre",
+        "level": 60,
+        "type": "Arreos de dragopavo",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182043.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/21322-arreos-dragopavo-esepecuerre",
+        "description": "Muchos de los aventureros que han probado estos arreos se han quejado de la falta de visibilidad, debido a la gorguera fijada en la cabeza del dragopavo. En efecto, el número de accidentes ha aumentado peligrosamente desde la llegada de estos arreos, para mayor felicidad de los alquimistas."
+    },
+    {
+        "_id": null,
+        "ankamaId": 21404,
+        "name": "Arreos de dragopavo de hueso",
+        "level": 60,
+        "type": "Arreos de dragopavo",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182046.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/21404-arreos-dragopavo-hueso",
+        "description": "Con estos arreos en tu montura, habrás encontrado al solución casi perfecta para rechazar las insinuaciones de otros dragopavos."
+    },
+    {
+        "_id": null,
+        "ankamaId": 21792,
+        "name": "Arreos steamers de vueloceronte",
+        "level": 60,
+        "type": "Arreos de vueloceronte",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182058.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/21792-arreos-steamers-vueloceronte",
+        "description": "Los steamers son ingenieros avanzados a su tiempo y no hacen las cosas a medias en lo que a tecnología se refiere. El metal está tan omnipresente que es difícil creer que este vueloceronte siga con vida."
+    },
+    {
+        "_id": null,
+        "ankamaId": 21801,
+        "name": "Arreos de vueloceronte ocra",
+        "level": 60,
+        "type": "Arreos de vueloceronte",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182066.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/21801-arreos-vueloceronte-ocra",
+        "description": "Con esta cornamenta a modo de mira, tu precisión aumentará exponencialmente."
+    },
+    {
+        "_id": null,
+        "ankamaId": 23047,
+        "name": "Arreos de mulagua sadida",
+        "level": 60,
+        "type": "Arreos de mulagua",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182076.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/23047-arreos-mulagua-sadida",
+        "description": "Si te gusta el sirope vegetal, el trayecto del productor al consumidor nunca habrá sido tan corto."
+    },
+    {
+        "_id": null,
+        "ankamaId": 23048,
+        "name": "Arreos de vueloceronte sadida",
+        "level": 60,
+        "type": "Arreos de vueloceronte",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182075.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/23048-arreos-vueloceronte-sadida",
+        "description": "Ya no te verás obligado a ir al bosque para recolectar las hojas necesarias para una infusión. Ahora solo tendrás que alargar el brazo."
+    },
+    {
+        "_id": null,
+        "ankamaId": 23479,
+        "name": "Arreos de vueloceronte xelor",
+        "level": 60,
+        "type": "Arreos de vueloceronte",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182082.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/23479-arreos-vueloceronte-xelor",
+        "description": "Con el paso del tiempo, la flor y nata de los xelors se dedicó a perfeccionar sus creaciones. Este vueloceronte es la prueba de ello."
+    },
+    {
+        "_id": null,
+        "ankamaId": 23837,
+        "name": "Arreos de mulagua zurcarák",
+        "level": 60,
+        "type": "Arreos de mulagua",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182088.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/23837-arreos-mulagua-zurcarak",
+        "description": "Con estos arreos, tu miaumiau estará como mulagua en el agua... No, tu mulagua se llevará el miaumiau al agua... Bueno, no, tu mulagua será un miaumiau y punto."
+    },
+    {
+        "_id": null,
+        "ankamaId": 24945,
+        "name": "Arreos de mulagua uginak",
+        "level": 60,
+        "type": "Arreos de mulagua",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182091.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/24945-arreos-mulagua-uginak",
+        "description": "A esta mulagua le encantará lanzarse a las olas si te la llevas de paseo a la playa. Cuidado, porque olerá a perro mojado al volver."
+    },
+    {
+        "_id": null,
+        "ankamaId": 24973,
+        "name": "Arreos de dragopavo aniripsa",
+        "level": 60,
+        "type": "Arreos de dragopavo",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182093.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/24973-arreos-dragopavo-aniripsa",
+        "description": "Decir que los dragopavos son criaturas estúpidas sería como tirarse de una ambulancia en marcha."
+    },
+    {
+        "_id": null,
+        "ankamaId": 25363,
+        "name": "Arreos de mulagua anutrof",
+        "level": 60,
+        "type": "Arreos de mulagua",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182100.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/25363-arreos-mulagua-anutrof",
+        "description": "Como decía mi tío abuelo anutrof, los dioses me libren de las mulaguas doradas… ¿o era «de las mulaguas calmadas»? Algo así, no sé."
+    },
+    {
+        "_id": null,
+        "ankamaId": 17458,
+        "name": "Arreos de dragopavo brakmarianos",
+        "level": 60,
+        "type": "Arreos de dragopavo",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182002.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/17458-arreos-dragopavo-brakmarianos",
+        "description": "Estos arreos le permitirán a tu dragopavo camuflarse en los rincones más oscuros."
+    },
+    {
+        "_id": null,
+        "ankamaId": 17459,
+        "name": "Arreos de dragopavo bontarianos",
+        "level": 60,
+        "type": "Arreos de dragopavo",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182001.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/17459-arreos-dragopavo-bontarianos",
+        "description": "Estas sofisticadas guarniciones te permitirán vestir a tu dragopavo con los colores de Bonta, la Blanca."
+    },
+    {
+        "_id": null,
+        "ankamaId": 17840,
+        "name": "Arreos de dragopavo reales",
+        "level": 60,
+        "type": "Arreos de dragopavo",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182005.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/17840-arreos-dragopavo-reales",
+        "description": "Aunque se diga que el hábito no hace al monje, equipar a tu dragopavo con estos arreos es lo mínimo que se puede hacer para formar parte de la guardia real de Amakna."
+    },
+    {
+        "_id": null,
+        "ankamaId": 18800,
+        "name": "Arreos de mulagua urikornio",
+        "level": 60,
+        "type": "Arreos de mulagua",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182016.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/18800-arreos-mulagua-urikornio",
+        "description": "¿Mito o realidad? Nunca se han avistado tantos urikornios como desde que salieron al mercado estos arreos."
+    },
+    {
+        "_id": null,
+        "ankamaId": 20372,
+        "name": "Arreos dragosombra",
+        "level": 60,
+        "type": "Arreos de vueloceronte",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182029.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/20372-arreos-dragosombra",
+        "description": "¿Es una nariz, un cuerno, una percha? Sea lo que sea, este gran apéndice permitirá a tu vueloceronte hundir la caja torácica de tus enemigos cuando te abalances sobre ellos."
+    },
+    {
+        "_id": null,
+        "ankamaId": 20769,
+        "name": "Arreos de dragopavo mordientes",
+        "level": 60,
+        "type": "Arreos de dragopavo",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182031.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/20769-arreos-dragopavo-mordientes",
+        "description": "Una vez que equipes con estos arreos a tu dragopavo, ya nadie se atreverá a ponerte la mano encima."
+    },
+    {
+        "_id": null,
+        "ankamaId": 21035,
+        "name": "Arreos de dragopavo de noxina",
+        "level": 60,
+        "type": "Arreos de dragopavo",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182035.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/21035-arreos-dragopavo-noxina",
+        "description": "Ideal para estar en el punto de mira en un ataque nocturno. Estos arreos arrojarán luz sobre tu montura."
+    },
+    {
+        "_id": null,
+        "ankamaId": 21037,
+        "name": "Arreos de mulagua de noxina",
+        "level": 60,
+        "type": "Arreos de mulagua",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182036.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/21037-arreos-mulagua-noxina",
+        "description": "Nunca sabes lo que te puedes encontrar en las profundidades abisales, sobre todo porque no ves a más de unos kámetros. Estos arreos solucionarán estos problemas de visión y convertirán a tu montura en una presa selecta para los predadores marinos."
+    },
+    {
+        "_id": null,
+        "ankamaId": 21038,
+        "name": "Arreos de vueloceronte de noxina",
+        "level": 60,
+        "type": "Arreos de vueloceronte",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182037.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/21038-arreos-vueloceronte-noxina",
+        "description": "Estos arreos harán que tu montura parezca una luciérnaga gigante, extendiendo la contaminación lumínica a las regiones más silvestres."
+    },
+    {
+        "_id": null,
+        "ankamaId": 21168,
+        "name": "Arreos corvopavos",
+        "level": 60,
+        "type": "Arreos de dragopavo",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182038.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/21168-arreos-corvopavos",
+        "description": "Con este dragopavo espectral, casi te dan ganas de ponerte un disfraz y atemorizar a tus competidores. Qué idea más descabellada. Lo harás cuando los sapomorros críen pelo. O cuando el mundo esté sumergido. ¿Eh? ¿Qué?"
+    },
+    {
+        "_id": null,
+        "ankamaId": 21294,
+        "name": "Arreos de vueloceronte esqueléticos",
+        "level": 60,
+        "type": "Arreos de vueloceronte",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182041.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/21294-arreos-vueloceronte-esqueleticos",
+        "description": "¿Cómo es posible que un insecto tenga osamenta en lugar de su exoesqueleto? En lugar de estrujarte el cerebro tratando de buscar una explicación, confórmate con exhibir con orgullo tu terrorífica montura."
+    },
+    {
+        "_id": null,
+        "ankamaId": 21319,
+        "name": "Arreos de dragopavo yopuka",
+        "level": 60,
+        "type": "Arreos de dragopavo",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182042.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/21319-arreos-dragopavo-yopuka",
+        "description": "Los dragopavos no son conocidos por su inteligencia, pero estos arreos no van a mejorar las cosas. No te sorprendas si tu dragopavo decide meterse de lleno en la pelea sin razón aparente."
+    },
+    {
+        "_id": null,
+        "ankamaId": 21333,
+        "name": "Arreos de mulagua yopuka",
+        "level": 60,
+        "type": "Arreos de mulagua",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182045.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/21333-arreos-mulagua-yopuka",
+        "description": "Acostumbrada al medio acuático, la piel del mulagua no es famosa por su resistencia a los objetos cortantes. Esta armadura es perfecta para que tu mulagua no acabe hecho papilla en la primera escaramuza."
+    },
+    {
+        "_id": null,
+        "ankamaId": 21392,
+        "name": "Arreos azulados de dragopavo",
+        "level": 60,
+        "type": "Arreos de dragopavo",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182051.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/21392-arreos-azulados-dragopavo",
+        "description": "Ideal para desfilar, estos arreos protegerán a tu montura de los gritos y los pétalos de flores."
+    },
+    {
+        "_id": null,
+        "ankamaId": 21408,
+        "name": "Arreos de vueloceronte de hueso",
+        "level": 60,
+        "type": "Arreos de vueloceronte",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182048.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/21408-arreos-vueloceronte-hueso",
+        "description": "No te sorprendas si un cortejo de wauwaus te sigue allá donde vayas."
+    },
+    {
+        "_id": null,
+        "ankamaId": 21475,
+        "name": "Arreos de dragopavo sram",
+        "level": 60,
+        "type": "Arreos de dragopavo",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182054.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/21475-arreos-dragopavo-sram",
+        "description": "Este dragopavo no solo tiene piel sobre los huesos, sino que además tiene huesos sobre la piel."
+    },
+    {
+        "_id": null,
+        "ankamaId": 21476,
+        "name": "Arreos de mulagua sram",
+        "level": 60,
+        "type": "Arreos de mulagua",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182052.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/21476-arreos-mulagua-sram",
+        "description": "Con estos arreos, parecerá que tu mulagua está en los huesos."
+    },
+    {
+        "_id": null,
+        "ankamaId": 21480,
+        "name": "Arreos de vueloceronte tymador",
+        "level": 60,
+        "type": "Arreos de vueloceronte",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182057.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/21480-arreos-vueloceronte-tymador",
+        "description": "Los tymadores no utilizan sistemáticamente bombas para forzar la cuenta del banco de su víctima. Mucho más discreto, el cuerno de vueloceronte es un formidable pie de cabra que puede echar abajo hasta la puerta más sólida del Mundo de los Doce."
+    },
+    {
+        "_id": null,
+        "ankamaId": 21774,
+        "name": "Arreos de dragopavo osamodas",
+        "level": 60,
+        "type": "Arreos de dragopavo",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182059.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/21774-arreos-dragopavo-osamodas",
+        "description": "Que no te sorprenda ver otros dragopavos doblarse el espinazo al ver tu magnífico corcel pasar. Ten mucho cuidado igualmente de que no se le suban los humos a la cabeza y decida vivir su vida sin ti."
+    },
+    {
+        "_id": null,
+        "ankamaId": 21908,
+        "name": "Arreos de mulagua helado",
+        "level": 60,
+        "type": "Arreos de mulagua",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182067.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/21908-arreos-mulagua-helado",
+        "description": "Si te preguntas cómo un mulagua atrapado en el hielo puede desplazarse, intenta ponerlo al sol y ver qué ocurre."
+    },
+    {
+        "_id": null,
+        "ankamaId": 23216,
+        "name": "Arreos de mulagua sacrógrito",
+        "level": 60,
+        "type": "Arreos de mulagua",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182079.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/23216-arreos-mulagua-sacrogrito",
+        "description": "Se necesita un adiestramiento intensivo para conseguir que un mulagua sea más amenazador que ridículo. Por eso los sacrógritos han optado por utilizar estos arreos que permiten obtener resultados inmediatos."
+    },
+    {
+        "_id": null,
+        "ankamaId": 23477,
+        "name": "Arreos de dragopavo xelor",
+        "level": 60,
+        "type": "Arreos de dragopavo",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182080.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/23477-arreos-dragopavo-xelor",
+        "description": "Este dragopavo mecánico está tan bien engrasado que debes tener cuidado de no resbalarte cuando subas en él."
+    },
+    {
+        "_id": null,
+        "ankamaId": 23568,
+        "name": "Arreos de dragopavo pandawa",
+        "level": 60,
+        "type": "Arreos de dragopavo",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182084.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/23568-arreos-dragopavo-pandawa",
+        "description": "Según los expertos, el loto es símbolo de velocidad y rendimiento y este dragopavo no es una excepción."
+    },
+    {
+        "_id": null,
+        "ankamaId": 23584,
+        "name": "Arreos de vueloceronte pandawa",
+        "level": 60,
+        "type": "Arreos de vueloceronte",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182085.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/23584-arreos-vueloceronte-pandawa",
+        "description": "Aunque se dominen los elementos, es en el aire donde tenemos tendencia a dominar la situación. La libertad que te ofrecerá esta montura no tendrá casi ningún límite, excepto en tierra firme, donde un accidente ocurre bastante rápido..."
+    },
+    {
+        "_id": null,
+        "ankamaId": 24975,
+        "name": "Arreos de vueloceronte aniripsa",
+        "level": 60,
+        "type": "Arreos de vueloceronte",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182094.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/24975-arreos-vueloceronte-aniripsa",
+        "description": "Hay que saber que los vuelocerontes a menudo tienen problemas de cervicales a causa de sus enormes cabezas. Las alitas de estos arreos sirven justamente para ayudarles a mantenerla sin casarse demasiado."
+    },
+    {
+        "_id": null,
+        "ankamaId": 25186,
+        "name": "Arreos de vueloceronte hipermago",
+        "level": 60,
+        "type": "Arreos de vueloceronte",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182098.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/25186-arreos-vueloceronte-hipermago",
+        "description": "Aparte del riesgo de que te lo roben, este vueloceronte no tiene ningún defecto. Ornado con oro y otra decoración, atraerá la codicia de los yopukas sin dos dedos de frente. Es el precio a pagar por tener estilo."
+    },
+    {
+        "_id": null,
+        "ankamaId": 18149,
+        "name": "Arreos de mulagua bontarianos",
+        "level": 60,
+        "type": "Arreos de mulagua",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182009.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/18149-arreos-mulagua-bontarianos",
+        "description": "Reivindica tu lealtad a Bonta equipando a tu mulagua con estos arreos."
+    },
+    {
+        "_id": null,
+        "ankamaId": 18157,
+        "name": "Arreos de dragopavo bárbaro",
+        "level": 60,
+        "type": "Arreos de dragopavo",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182011.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/18157-arreos-dragopavo-barbaro",
+        "description": "Los dragopavos ya poseen una parte de las características del bárbaro: la temeridad y cierto aire ridículo. En cuanto a la fuerza, no esperes que unos simples arreos consigan algo."
+    },
+    {
+        "_id": null,
+        "ankamaId": 18558,
+        "name": "Arreos de dragopavo esqueleto",
+        "level": 60,
+        "type": "Arreos de dragopavo",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182020.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/18558-arreos-dragopavo-esqueleto",
+        "description": "Has enviado a tu dragopavo al reino de los muertos para que la leyenda cobre vida. Gracias a esta paradoja y, sobre todo, a estos arreos, tu dragopavo estará más terrorífico que nunca."
+    },
+    {
+        "_id": null,
+        "ankamaId": 19735,
+        "name": "Arreos de mulagua crípticos",
+        "level": 60,
+        "type": "Arreos de mulagua",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182023.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/19735-arreos-mulagua-cripticos",
+        "description": "Por su nombre, podríamos pensar que estos arreos son difíciles de descifrar. Pero no es el caso, ya que unos arreos no son el tipo de objeto que haya que desencriptar. A menos que estén en una cripta y tengas la necesidad de salir, pero entonces «desencriptar» tampoco es el término indicado."
+    },
+    {
+        "_id": null,
+        "ankamaId": 20026,
+        "name": "Arreos de dragopavo centelleantes",
+        "level": 60,
+        "type": "Arreos de dragopavo",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182025.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/20026-arreos-dragopavo-centelleantes",
+        "description": "Es mejor brillar con ardor que arder con brillo."
+    },
+    {
+        "_id": null,
+        "ankamaId": 20771,
+        "name": "Arreos de vueloceronte mordientes",
+        "level": 60,
+        "type": "Arreos de vueloceronte",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182033.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/20771-arreos-vueloceronte-mordientes",
+        "description": "Equiparle estos arreos a tu vueloceronte disminuirá el riesgo de que se golpee el cuerno al cruzar las puertas. Ahora bien, tenderá a morderles las piernas a los aventureros que pasen demasiado cerca de él."
+    },
+    {
+        "_id": null,
+        "ankamaId": 21011,
+        "name": "Arreos de draganakrónico",
+        "level": 60,
+        "type": "Arreos de dragopavo",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182034.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/21011-arreos-draganakronico",
+        "description": "Muchos han sobrestimado las habilidades de su dragopavo tras equiparle estos arreos. No se recomienda tratar de atravesar un lago de lava a nado o saltar desde los acantilados de Incarnam."
+    },
+    {
+        "_id": null,
+        "ankamaId": 21147,
+        "name": "Arreos de dragolago",
+        "level": 60,
+        "type": "Arreos de dragopavo",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182039.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/21147-arreos-dragolago",
+        "description": "Con estos arreos, tu dragopavo tendrá unos ojos preciosos, unas escamas de un azul profundo y el miedo constante de llegar segundo."
+    },
+    {
+        "_id": null,
+        "ankamaId": 21398,
+        "name": "Arreos azulados de vueloceronte",
+        "level": 60,
+        "type": "Arreos de vueloceronte",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182050.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/21398-arreos-azulados-vueloceronte",
+        "description": "Excelentes arreos de camuflaje para cuando el vueloceronte vuela de día por un cielo despejado, pero pierden todo su interés ante una mínima nube o después de ponerse el sol."
+    },
+    {
+        "_id": null,
+        "ankamaId": 21791,
+        "name": "Arreos de dragopavo steamer",
+        "level": 60,
+        "type": "Arreos de dragopavo",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182063.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/21791-arreos-dragopavo-steamer",
+        "description": "Si le das crédito al steamer que concibió estos arreos, estos llevan unos propulsores de vapor que multiplican la velocidad de desplazamiento. En la práctica, no has notado ninguna diferencia, aparte del peso del metal sobre los viejos huesos del pobre animal."
+    },
+    {
+        "_id": null,
+        "ankamaId": 22367,
+        "name": "Arreos de vueloceronte feca",
+        "level": 60,
+        "type": "Arreos de vueloceronte",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182069.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/22367-arreos-vueloceronte-feca",
+        "description": "Parece haber tanto oro en estos arreos que a falta de robar, puedes deslumbrar a tus enemigos, antes de aplastarlos bajo el peso de tu superioridad."
+    },
+    {
+        "_id": null,
+        "ankamaId": 22458,
+        "name": "Arreos zobals de mulagua",
+        "level": 60,
+        "type": "Arreos de mulagua",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182073.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/22458-arreos-zobals-mulagua",
+        "description": "Con este disfraz para mulagua podrás camuflarte y sorprender a los enemigos, que no te verán venir."
+    },
+    {
+        "_id": null,
+        "ankamaId": 23478,
+        "name": "Arreos de mulagua xelor",
+        "level": 60,
+        "type": "Arreos de mulagua",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182081.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/23478-arreos-mulagua-xelor",
+        "description": "La garantía de antióxido de este mulagua es su ventaja principal, no se espera menos de este tipo de máquina."
+    },
+    {
+        "_id": null,
+        "ankamaId": 23559,
+        "name": "Arreos de gladius mulaqus",
+        "level": 60,
+        "type": "Arreos de mulagua",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182083.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/23559-arreos-gladius-mulaqus",
+        "description": "Estos arreos están hechos de unas aleaciones pensadas para resistir el agua. Pero también pesan como un muerto, así que ten cuidado no vayas a acabar como una reliquia olvidada en el fondo del mar."
+    },
+    {
+        "_id": null,
+        "ankamaId": 23583,
+        "name": "Arreos de mulagua pandawa",
+        "level": 60,
+        "type": "Arreos de mulagua",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182086.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/23583-arreos-mulagua-pandawa",
+        "description": "Capaz tanto de remontar las corrientes más fuertes, como de seguirlas para alcanzar una gran velocidad, esta montura también podrá ofrecerte la posibilidad de navegar a merced del viento en la mar serena."
+    },
+    {
+        "_id": null,
+        "ankamaId": 23836,
+        "name": "Arreos de dragopavo zurcarák",
+        "level": 60,
+        "type": "Arreos de dragopavo",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182087.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/23836-arreos-dragopavo-zurcarak",
+        "description": "Solo los dueños avezados de miaumiaus saben que equiparse estos arreos implica vivir un tormento: el de tener el guardarropa siempre perdido de pelos."
+    },
+    {
+        "_id": null,
+        "ankamaId": 24944,
+        "name": "Arreos de dragopavo uginak",
+        "level": 60,
+        "type": "Arreos de dragopavo",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182090.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/24944-arreos-dragopavo-uginak",
+        "description": "La expresión «agarrar el dragopavo por los cuernos» toma todo su sentido."
+    },
+    {
+        "_id": null,
+        "ankamaId": 26003,
+        "name": "Arreos de dragopavo selotrop",
+        "level": 60,
+        "type": "Arreos de dragopavo",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/182102.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/arreos/26003-arreos-dragopavo-selotrop",
+        "description": "Cuando se es capaz de desplazarse de portal en portal, uno se pregunta para qué se necesita entonces el dragopavo... Seguramente porque se trata de un animal noble que inspira respeto."
+    }
+]

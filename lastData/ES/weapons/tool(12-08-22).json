@@ -1,0 +1,438 @@
+[
+    {
+        "_id": null,
+        "ankamaId": 25245,
+        "name": "Pincel de caligrafía",
+        "level": 180,
+        "type": "Herramienta",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/176036.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/armas/25245-pincel-caligrafia",
+        "description": "Ensamblado y tallado según la tradición pandawa, este pincel es una prolongación del cuerpo del artista. Quítale el pincel a un calígrafo y le cortarás las alas. Incapaz de liberarse de yugo del silencio, su pensamiento ya no desaparecerá.",
+        "statistics": [
+            {
+                "Daños:  (neutral)": {
+                    "min": "2"
+                }
+            }
+        ],
+        "characteristics": [
+            {
+                "PA": "5 (1 utilización por turno)"
+            },
+            {
+                "Alcance": "1"
+            },
+            {
+                "GC": "1/0"
+            }
+        ],
+        "recipe": [
+            {
+                "Madera de bambú sagrado": {
+                    "ankamaId": 7014,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/7014-madera-bambu-sagrado",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/38671.w48h48.png",
+                    "type": "Madera",
+                    "level": 190,
+                    "quantity": 40
+                }
+            },
+            {
+                "Dolomita": {
+                    "ankamaId": 7033,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/7033-dolomita",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/39110.w48h48.png",
+                    "type": "Mineral",
+                    "level": 180,
+                    "quantity": 20
+                }
+            },
+            {
+                "Yokaiedra": {
+                    "ankamaId": 7383,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/7383-yokaiedra",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/164741.w48h48.png",
+                    "type": "Piedra bruta",
+                    "level": 170,
+                    "quantity": 5
+                }
+            },
+            {
+                "Pepita": {
+                    "ankamaId": 14635,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/14635-pepita",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/50718.w48h48.png",
+                    "type": "Piedra preciosa",
+                    "level": 1,
+                    "quantity": 200
+                }
+            },
+            {
+                "Diacrítico del rey Imagami": {
+                    "ankamaId": 23963,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/23963-diacritico-rey-imagami",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/15413.w48h48.png",
+                    "type": "Recurso",
+                    "level": 200,
+                    "quantity": 1
+                }
+            },
+            {
+                "Diacrítico de la reina Amirukam": {
+                    "ankamaId": 23971,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/23971-diacritico-reina-amirukam",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/15414.w48h48.png",
+                    "type": "Recurso",
+                    "level": 200,
+                    "quantity": 1
+                }
+            },
+            {
+                "Cerveza fuerte ligera": {
+                    "ankamaId": 24021,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/consumibles/24021-cerveza-fuerte-ligera",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/164789.w48h48.png",
+                    "type": "Cerveza",
+                    "level": 1,
+                    "quantity": 5
+                }
+            },
+            {
+                "Crines de Qilin": {
+                    "ankamaId": 25246,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/25246-crines-qilin",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/176041.w48h48.png",
+                    "type": "Pelo",
+                    "level": 200,
+                    "quantity": 1
+                }
+            }
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 25248,
+        "name": "Pincel de los juramentos",
+        "level": 180,
+        "type": "Herramienta",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/176037.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/armas/25248-pincel-juramentos",
+        "description": "Bendecido por el primero de los calígrafos, este pincel forma un todo contigo. Separarte de él sería como cortarte un dedo, un brazo o cualquier otra parte ínfima pero importante de tu cuerpo. Sería probablemente algo doloroso, también convendría guardarlo para siempre y utilizarlo solo para las grandes ocasiones, como salvar el mundo, por ejemplo.",
+        "statistics": [
+            {
+                "Daños:  (neutral)": {
+                    "min": "2"
+                }
+            }
+        ],
+        "characteristics": [
+            {
+                "PA": "5 (1 utilización por turno)"
+            },
+            {
+                "Alcance": "1"
+            },
+            {
+                "GC": "1/0"
+            }
+        ],
+        "recipe": [],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 10829,
+        "name": "Caña Peskamas",
+        "level": 40,
+        "type": "Herramienta",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/20091.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/armas/10829-cana-peskamas",
+        "description": "Gracias a este bastón, saldrás ganando en todos los regateos.",
+        "statistics": [
+            {
+                "Roba  kamas": {
+                    "min": "21",
+                    "max": "30"
+                }
+            },
+            {
+                "Daños:   (neutral)": {
+                    "min": "9",
+                    "max": "14"
+                }
+            },
+            {
+                "Vitalidad": {
+                    "min": "6",
+                    "max": "10"
+                }
+            },
+            {
+                "Iniciativa": {
+                    "min": "21",
+                    "max": "30"
+                }
+            }
+        ],
+        "characteristics": [
+            {
+                "PA": "3 (1 utilización por turno)"
+            },
+            {
+                "Alcance": "1"
+            },
+            {
+                "GC": "1/15 (+7)"
+            }
+        ],
+        "recipe": [
+            {
+                "Cobre": {
+                    "ankamaId": 441,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/441-cobre",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/39108.w48h48.png",
+                    "type": "Mineral",
+                    "level": 20,
+                    "quantity": 15
+                }
+            },
+            {
+                "Madera de nogal": {
+                    "ankamaId": 476,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/476-madera-nogal",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/38095.w48h48.png",
+                    "type": "Madera",
+                    "level": 40,
+                    "quantity": 20
+                }
+            },
+            {
+                "Hilo de seda": {
+                    "ankamaId": 643,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/643-hilo-seda",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/15486.w48h48.png",
+                    "type": "Recurso",
+                    "level": 18,
+                    "quantity": 1
+                }
+            },
+            {
+                "Tinte mágico naranja": {
+                    "ankamaId": 1689,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/1689-tinte-magico-naranja",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/70066.w48h48.png",
+                    "type": "Tinte",
+                    "level": 20,
+                    "quantity": 1
+                }
+            }
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 6661,
+        "name": "Caña para kuakuás",
+        "level": 1,
+        "type": "Herramienta",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/20008.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/armas/6661-cana-kuakuas",
+        "description": "Esta caña te permite pescar un kuakuá en el puesto de la Feria del Trool.",
+        "characteristics": [
+            {
+                "PA": "10 (1 utilización por turno)"
+            },
+            {
+                "Alcance": "1"
+            },
+            {
+                "GC": "1/5"
+            }
+        ],
+        "recipe": [],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 6856,
+        "name": "Tijeras para rosa demoníaca",
+        "level": 1,
+        "type": "Herramienta",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/20022.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/armas/6856-tijeras-rosa-demoniaca",
+        "description": "La forma de estas tijeras está especialmente estudiada para cortar el tallo de cualquier rosa demoníaca sin estropear los pétalos. Podrás hacerlo incluso si la rosa te muerde el gemelo.",
+        "statistics": [
+            {
+                "Daños:   (neutral)": {
+                    "min": "1",
+                    "max": "3"
+                }
+            }
+        ],
+        "characteristics": [
+            {
+                "PA": "3 (2 utilizaciones por turno)"
+            },
+            {
+                "Alcance": "1"
+            },
+            {
+                "GC": "1/30 (+5)"
+            }
+        ],
+        "recipe": [],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 1505,
+        "name": "Flauta",
+        "level": 1,
+        "type": "Herramienta",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/20006.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/armas/1505-flauta",
+        "description": "Esta flauta muy rara, hecha con madera de abráknido, te permitirá divertir y conmover a tus amigos.",
+        "statistics": [
+            {
+                "emote": "Actitud Tocar la flauta"
+            }
+        ],
+        "characteristics": [
+            {
+                "PA": "5 (1 utilización por turno)"
+            },
+            {
+                "Alcance": "1"
+            },
+            {
+                "GC": "1/0"
+            }
+        ],
+        "recipe": [],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 16343,
+        "name": "Pincel",
+        "level": 1,
+        "type": "Herramienta",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/20024.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/armas/16343-pincel",
+        "description": "Con este pincel poco común de madera de abráknido y pelos de Maxilubo, podrás entretener y conmover a tus amigos.",
+        "statistics": [
+            {
+                "emote": "Actitud Pintar"
+            }
+        ],
+        "characteristics": [
+            {
+                "PA": "5 (1 utilización por turno)"
+            },
+            {
+                "Alcance": "1"
+            },
+            {
+                "GC": "1/0"
+            }
+        ],
+        "recipe": [],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 19415,
+        "name": "Guante de Zrid",
+        "level": 1,
+        "type": "Herramienta",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/20005.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/armas/19415-guante-zrid",
+        "description": "Estos guantes se fabricaron para extraer muestras precisas, pero no están adaptados al combate.",
+        "conditions": [
+            "Misión 'Alga y ritmo' en curso"
+        ],
+        "statistics": [
+            {
+                "Daños:   (neutral)": {
+                    "min": "1",
+                    "max": "2"
+                }
+            }
+        ],
+        "characteristics": [
+            {
+                "PA": "5 (2 utilizaciones por turno)"
+            },
+            {
+                "Alcance": "1"
+            },
+            {
+                "GC": "1/1 (+1)"
+            }
+        ],
+        "recipe": [
+            {
+                "Salikronia": {
+                    "ankamaId": 17992,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/17992-salikronia",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/36653.w48h48.png",
+                    "type": "Planta",
+                    "level": 200,
+                    "quantity": 3
+                }
+            },
+            {
+                "Quisnoa": {
+                    "ankamaId": 17993,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/17993-quisnoa",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/34560.w48h48.png",
+                    "type": "Cereal",
+                    "level": 200,
+                    "quantity": 3
+                }
+            },
+            {
+                "Sepiolita": {
+                    "ankamaId": 17995,
+                    "url": "https://www.dofus.com/es/mmorpg/enciclopedia/recursos/17995-sepiolita",
+                    "imgUrl": "https://static.ankama.com/dofus/www/game/items/52/39399.w48h48.png",
+                    "type": "Mineral",
+                    "level": 200,
+                    "quantity": 3
+                }
+            }
+        ],
+        "setId": null
+    },
+    {
+        "_id": null,
+        "ankamaId": 489,
+        "name": "Lupa",
+        "level": 1,
+        "type": "Herramienta",
+        "imgUrl": "https://static.ankama.com/dofus/www/game/items/200/20003.png",
+        "url": "https://www.dofus.com/es/mmorpg/enciclopedia/armas/489-lupa",
+        "description": "La lupa te permite examinar con atención los elementos del decorado para detectar tesoros.",
+        "statistics": [
+            {
+                "Daños:  (neutral)": {
+                    "min": "1"
+                }
+            }
+        ],
+        "characteristics": [
+            {
+                "PA": "6 (1 utilización por turno)"
+            },
+            {
+                "Alcance": "1"
+            },
+            {
+                "GC": "1/1 (+1)"
+            }
+        ],
+        "recipe": [],
+        "setId": null
+    }
+]
